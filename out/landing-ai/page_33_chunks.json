@@ -1,0 +1,113 @@
+{
+  "source_file": "page_33.pdf",
+  "page_number": 33,
+  "processed_at": "2025-07-30T13:37:38.660862",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "33\n\nHeineken\nN.V.\nAnnual\nReport\n2024\n\nIntroduction\n\nReport\nof the\nExecutive\nBoard\n\nReport\nof the\nSupervisory\nBoard\n\nFinancial\nStatements\n\nSustainability\nStatements\n\nOther\nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "flowchart: \n- Upward-pointing green triangle (top)\n- Downward-pointing green triangle (middle)\n- Three short horizontal green lines stacked vertically (bottom)\n\nThe diagram consists of two green arrow icons (up and down) and a three-line \"menu\" or \"handle\" icon, arranged vertically, likely representing scroll or navigation controls.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "flowchart: A single green curved arrow forming a counterclockwise loop, pointing left and upward.\nThis icon typically represents an \"undo\" action or a return to a previous state.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Regional reviews\nThe world’s most international brewer",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Summary : This is a photograph showing a person holding and drinking from a green glass bottle of Heineken beer in a dimly lit bar or club setting, with other people and bottles visible in the background.\n\nphoto:\nScene Overview :\n  • Main subject is a person in the right foreground holding a green Heineken beer bottle to their mouth.\n  • The Heineken label is clearly visible on the bottle.\n  • The setting appears to be a bar or club, with shelves of bottles and warm, low lighting in the background.\n  • Other people are present in the background, out of focus.\n  • The composition places the main subject on the right, with background elements providing context.\n\nTechnical Details :\n  • No scale bar or measurement indicators.\n  • Lighting is warm and ambient, typical of nightlife venues.\n  • No on-image text other than the Heineken label.\n\nSpatial Relationships :\n  • The main subject is in the right foreground, occupying a prominent position.\n  • Background elements (bottles, people) are blurred, emphasizing depth of field and focus on the beer bottle.\n  • The bottle is angled upward, suggesting the act of drinking.\n\nAnalysis :\n  • The image visually emphasizes the Heineken brand in a social nightlife context, with the bottle label clearly displayed and the setting reinforcing a relaxed, social atmosphere.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Summary : This image presents a visual comparison of key beer brands distributed by Heineken in four global regions: Africa and Middle East, Americas, Asia Pacific, and Europe. Each region is represented by a selection of bottled beverages, with brand names and packaging shown.\n\nphoto:\nScene Overview :\n  • The main subject is a lineup of beer bottles and cans, grouped by four world regions: Africa and Middle East, Americas, Asia Pacific, and Europe.\n  • Each group is labeled with the region name in large green text at the top left of its section.\n  • The background features a green wave motif, and each region's section includes a \"Read more\" note with a page number (Africa and Middle East: Page 34, Americas: Page 35, Asia Pacific: Page 36, Europe: Page 37).\n  • The brands are shown in full color, upright, and front-facing, with clear labels.\n\nTechnical Details :\n  • No scale bar or magnification is present.\n  • All bottles and cans are shown at similar size for visual comparison.\n  • The image is a digital illustration or composite photograph, not a real-life scene.\n  • Each region's section is separated by a white border.\n\nSpatial Relationships :\n  • From left to right, the regions are: Africa and Middle East, Americas, Asia Pacific, Europe.\n  • Within each region, bottles/cans are arranged in a single row, evenly spaced.\n  • Brand names are visible on the bottles/cans, and a \"Key brands\" label appears below each group.\n\nBrands by Region :\n  # Africa and Middle East :\n    • Primus, Amstel Lager, Heineken, Desperados, Maltina, Legend Stout\n\n  # Americas :\n    • Dos Equis, Heineken, Heineken Silver, Tecate, Amstel Lager\n\n  # Asia Pacific :\n    • Kingfisher, Bia Viet, Heineken, Heineken Silver, Tiger Crystal, Bintang\n\n  # Europe :\n    • Birra Messina, Birra Moretti, Heineken, Heineken Silver, Desperados, Strongbow Ultra Dark Fruit\n\nAnalysis :\n  • Heineken and Heineken Silver appear in all four regions, indicating global distribution.\n  • Some brands are region-specific (e.g., Primus in Africa and Middle East, Kingfisher in Asia Pacific, Birra Moretti in Europe).\n  • The Europe section includes a cider (Strongbow Ultra Dark Fruit), while other regions focus on beer.\n  • The image visually emphasizes the diversity and reach of Heineken's brand portfolio across continents.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Summary : This figure presents a regional performance snapshot for Heineken in 2024, comparing four key metrics—consolidated beer volume, Heineken® volume, operating profit (beia), and net revenue (beia)—across four regions: Africa and Middle East, Americas, Asia Pacific, and Europe. Data for 2023 is also shown for comparison, along with each region's contribution to the group total in 2024.\n\ninfographic:\n# Metrics and Regions :\n  • Four main metrics: Consolidated beer volume, Heineken® volume, Operating profit (beia), Net revenue (beia).\n  • Four regions: Africa and Middle East, Americas, Asia Pacific, Europe.\n  • Each metric is visualized with a donut chart and a table showing 2024 and 2023 values, plus 2024 group contribution (%).\n\n# Data Tables :\n  ## Consolidated beer volume (2024, 2023, Contribution to Group 2024) :\n    • Africa and Middle East: 29.5mhl, 34.8mhl, 12.3%\n    • Americas: 89.3mhl, 88.4mhl, 37.1%\n    • Asia Pacific: 45.3mhl, 43.0mhl, 18.8%\n    • Europe: 76.6mhl, 76.4mhl, 31.8%\n\n  ## Heineken® volume (2024, 2023, Contribution to Group 2024) :\n    • Africa and Middle East: 5.6mhl, 5.7mhl, 9.2%\n    • Americas: 25.3mhl, 23.7mhl, 41.5%\n    • Asia Pacific: 14.1mhl, 11.4mhl, 23.1%\n    • Europe: 16.0mhl, 15.5mhl, 26.2%\n\n  ## Operating profit (beia) (2024, 2023, Contribution to Group 2024) :\n    • Africa and Middle East: €423m, €450m, 9.4%\n    • Americas: €1,830m, €1,531m, 40.5%\n    • Asia Pacific: €914m, €926m, 20.2%\n    • Europe: €1,354m, €1,353m, 29.9%\n\n  ## Net revenue (beia) (2024, 2023, Contribution to Group 2024) :\n    • Africa and Middle East: €4,133m, €4,229m, 13.5%\n    • Americas: €10,407m, €10,469m, 34.0%\n    • Asia Pacific: €4,226m, €4,157m, 13.8%\n    • Europe: €11,845m, €12,211m, 38.7%\n\n# Design Encodings :\n  • Each region is color-coded: Africa and Middle East (light green), Americas (yellow-green), Asia Pacific (dark green), Europe (grey).\n  • Donut charts visually represent each region's share of the group total for each metric.\n  • Tables provide exact values for 2024, 2023, and percentage contribution.\n\n# Analysis :\n  • Americas and Europe are the largest contributors across most metrics, especially in consolidated beer volume, operating profit, and net revenue.\n  • Asia Pacific shows a notable increase in Heineken® volume (from 11.4mhl to 14.1mhl) and maintains a significant share in operating profit and net revenue.\n  • Africa and Middle East have the lowest contributions in all metrics, with a decrease in consolidated beer volume and net revenue from 2023 to 2024.\n  • Americas lead in Heineken® volume contribution (41.5%), while Europe leads in net revenue (38.7%).\n  • Operating profit is highest in the Americas (€1,830m), followed by Europe (€1,354m).\n  • Most regions show stable or slightly declining values from 2023 to 2024, except for Asia Pacific, which shows growth in several metrics.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

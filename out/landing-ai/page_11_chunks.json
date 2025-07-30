@@ -1,0 +1,233 @@
+{
+  "source_file": "page_11.pdf",
+  "page_number": 11,
+  "processed_at": "2025-07-30T13:29:22.458073",
+  "total_chunks": 15,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "11",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Heineken  \nN.V.  \nAnnual  \nReport  \n2024",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Introduction",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Report  \nof the  \nExecutive  \nBoard\n\nReport  \nof the  \nSupervisory  \nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Financial  \nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Sustainability\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Other  \nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "flowchart: \n- Upward green triangle (triangle, pointing up)\n- Downward green triangle (triangle, pointing down)\n- Three short green horizontal lines stacked vertically (three-line icon)\n\nThe flowchart consists of three vertically aligned icons: an upward-pointing green triangle at the top, a downward-pointing green triangle in the middle, and three short green horizontal lines at the bottom. There are no connecting arrows or labels. The overall layout suggests a simple vertical navigation or control interface.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "figure: A green, clockwise, curved arrow forming a partial circle, pointing downward and to the left. This is a generic \"undo\" or \"refresh\" icon with no accompanying text or labels.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "Summary : This is a staged promotional photograph featuring a person holding a smartphone in a modern, industrial-style interior with green lighting and Heineken branding. The image includes a quote about \"Culture Pulse\" and Heineken's role in cultural trends.\n\nphoto:\nScene Overview :\n  • Main subject: A person in a blue blazer and black shirt, holding a smartphone with both hands.\n  • Setting: Modern, industrial-style interior with exposed beams, large windows, and neon tube lighting on the ceiling.\n  • Composition: Subject is centered in the frame, standing upright, with a green translucent ribbon-like graphic element sweeping across the lower half of the image.\n  • Lighting: Bright, with a mix of natural and artificial light; neon tubes create a dynamic, futuristic effect.\n  • Colour palette: Dominated by greens (Heineken branding), blues, and neutral tones.\n\nTechnical Details :\n  • On-image text: “Culture Pulse spots trends in culture that Heineken® can play an authentic part in and”\n  • Heineken branding: Green neon lights, green ribbon graphic, and visible Heineken bottles or cans in the background.\n  • No scale bar or scientific measurement elements.\n\nSpatial Relationships :\n  • Foreground: Person holding smartphone, green ribbon graphic.\n  • Background: Neon tube lights, Heineken branding, architectural features.\n  • Subject is placed centrally, occupying the lower two-thirds of the image, with lighting and graphic elements drawing attention to the subject.\n\nAnalysis :\n  • The image is designed to convey innovation, modernity, and Heineken’s engagement with cultural trends, as highlighted by the quote and visual branding elements. The use of green and neon lighting reinforces the Heineken brand identity and suggests a forward-thinking, tech-savvy atmosphere.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "Culture Pulse spots trends in culture that Heineken® can play an authentic part in and delivers timely, relevant and provocative campaigns. In this way, we deliver stories that get people talking and bring our point of view on socialising into the conversation.”\n\nGuilherme Retz Global Communications Manager Heineken® Brand",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "Read more on how Heineken® is tapping  \ninto cultural trends",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "Business priority",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "Shape the future of beer and beyond\n\nWe innovate across beer to respond to market opportunities and to grow the category. This includes a focus on premiumisation that is led by Heineken® but driven across the breadth of our portfolio. We continue to extend our portfolio of low-calorie, flavoured and less bitter variants to meet emerging consumer demand and build our leadership in low and no-alcohol beverages.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "While beer remains fundamental to our business, there are opportunities for growth beyond the category. We continue to invest in cider and other refreshing line extensions to keep our portfolio modern and relevant.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

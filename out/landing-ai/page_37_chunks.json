@@ -1,0 +1,398 @@
+{
+  "source_file": "page_37.pdf",
+  "page_number": 37,
+  "processed_at": "2025-07-30T13:38:50.066380",
+  "total_chunks": 26,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "37",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Heineken  \nN.V.  \nAnnual  \nReport  \n2024",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Introduction",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Report  \nof the  \nExecutive  \nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Report  \nof the  \nSupervisory  \nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Financial\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Sustainability\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Other  \nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "flowchart:  \n- Downward green triangle (triangle, top)  \n- Three horizontal green lines (stacked, center)  \n- Green counterclockwise arrow (curved arrow, bottom)  \nThe diagram consists of three vertically aligned icons: a downward-pointing triangle, three horizontal lines, and a counterclockwise arrow, suggesting a sequence or process flow from top to bottom.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "Europe",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "Shaping the future of beer and beyond\n\nDespite a challenging market, we strengthened our position in Europe over 2024 by investing in our brands and driving innovation across our portfolio. From transforming our supply chain to enhancing digital capabilities, we’re delivering on our strategy to grow, win and transform.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "Driving growth and winning\namid headwinds\nAfter a solid start to 2024, we faced a challenging summer marked by a slowdown in consumer demand, adverse weather and competitive pressures. We began to regain momentum over the second half of the year, however. Improved competitiveness drove volume growth, while Q3 share gains signalled a shift to stronger performance, particularly in the off-trade.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "The prevailing macro-economic uncertainties affected consumer spending and impacted growth, particularly in the on-trade. Higher promotional pressures and weaker than expected pricing put pressure on profitability and meant winning proved more challenging, particularly in established markets like Italy, Spain and France.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "Our mainstream brands saw stabilised volumes, while our Premium brands like Birra Moretti, Desperados and Heineken® outperformed the category in most markets. Birra Moretti continued to grow in the UK driven by the launch of its line extension, Sale di Mare, a new unfiltered lager with a pinch of Italian sea salt. Next-generation brands including Texels, Ichnusa and El Aguila further boosted our performance.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "Elsewhere, we continued to grow our world-class no-\nalcohol portfolio. Alongside our ‘always a choice’\nmessage that positions beers for different occasions\nfor all consumers, Heineken® 0.0 is shaping the future\nof the category and stimulating segment growth.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "Summary : This image features a formal business portrait above a block of text containing a leadership statement about business performance and strategy, attributed to Glenn Caton, President, Europe.\n\nphoto:  \nScene Overview : \n  • The main subject is a professionally dressed individual in a business portrait, set against a plain white background.\n  • The lower half of the image contains a large, prominent quote in green text, centered and occupying most of the space below the portrait.\n  • The quote discusses stabilising beer volumes, growing operating profit, investing in brands, strengthening the organisation, and accelerating an \"EverGreen transformation\" for a more connected, resilient, and future-fit business.\n  • The quote is attributed to Glenn Caton, President, Europe, whose name and title appear in green and grey text, respectively, below the quote.\n\nTechnical Details : \n  • The image uses a clean, high-contrast layout with a white background and green/grey text.\n  • The quote is in italicised green font, while the attribution is in regular green and grey font.\n  • No scale bar, magnification, or additional UI elements are present.\n\nSpatial Relationships : \n  • The portrait is positioned at the top center, with the quote and attribution directly below.\n  • The composition is vertically stacked and centered, with clear separation between the portrait and the text.\n\nAnalysis : \n  • The image is designed to communicate a message of business stability, growth, and transformation, with visual emphasis on the leadership quote and attribution.\n  • The clean, professional layout and colour choices reinforce a corporate and trustworthy image.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 17,
+      "text": "Growing in beer and beyond  \nGrowth in 2024 was fuelled by innovation across our portfolio and iconic brand activations to make sure our brands reflect the tastes, values and lifestyles of consumers.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 18,
+      "text": "In Spain, we grew brand power with Cruzcampo through an impactful campaign, Gitana, which touched the hearts of a younger generation in Andalusia. The brand continued to perform strongly in the UK, ranking as the most successful launch in alcoholic beverages over the past decade. In Italy, our Ichnusa brand stays true to its Sardinian soul. With the campaign ‘se deve finire così, non beveteci nemmeno’, we inspired people to act more thoughtfully: if you drink Ichnusa and leave the bottle behind, we’d rather you hadn’t drunk at all.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 19,
+      "text": "Beyond beer, we announced a small minority stake\ninvestment in the fast-growing Dutch brand STËLZ,\nwhose seltzer and RTD propositions appeal to Gen Y\nand Z consumers. In the UK, we innovated in the\ncider category by offering a fresh perspective,\nexciting consumers with a diverse range of\nadventurous fruit combinations.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 20,
+      "text": "Investing in transformation  \nWe continue to modernise our business through various initiatives including the bold transformation of our European supply chain. By unifying, digitalising and streamlining operations across our European operating companies, we’re creating a more sustainable, efficient and connected network.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 21,
+      "text": "Through great collaboration of these country led\ninitiatives, we are running ahead of our original plan,\ndelivering significant gross savings across Europe.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 22,
+      "text": "Elsewhere, we focused on deploying future-fit,\nrepeatable capabilities to maximise commercial value\nand HEINEKEN’s Digital Backbone initiative is on track\nto modernise our fragmented technology systems\n(read more on this on page 29). Serbia piloted the\nprogramme, showing promising signs of improved\nproduction, sales, customer service and efficiency.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 23,
+      "text": "Sustainability\nWe continue to work on our sustainability agenda. Following our inauguration of Europe's largest industrial thermal plant in Seville, we opened a second solar thermal facility in Valencia. In France, our regenerative agriculture project yielded its first barley harvest, with 420 farmers adopting practices to improve soil health, biodiversity and carbon reduction.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 24,
+      "text": "Water stewardship also advanced in 2024, with a\nstrong performance on water efficiencies across\nthe region",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 25,
+      "text": "Our social impact ambition continues. In Spain, the Cruzcampo Foundation drives economic and social development, tackling youth unemployment through hospitality-focused training. Its Hospitality School achieved a 90% job placement rate in 2024, equipping over 350 individuals with skills in kitchen and service, as well as digital marketing customer centric technics.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 26,
+      "text": "Summary : This image shows three different canned beverage products, each with distinct branding and flavor descriptions, arranged side by side for comparison.\n\nphoto:\nScene Overview :\n  • Main subjects are three tall, slim beverage cans placed upright in a row.\n  • The left can is yellow with a large stylized \"g\" and the word \"protect\" below, labeled \"Ginger & Peppercorn\".\n  • The center can is turquoise blue with the word \"SERVED\" in large vertical letters, labeled \"Premium Cocktail Margarita\" and decorated with lime images.\n  • The right can is white and red, labeled \"STËLZ Hard Seltzer\" with a raspberry icon and the text \"Alcohol Infused Sparkling Water with a Hint of Raspberry\", \"63 Calories\", and \"Natural Flavours\".\n  • The background is light with a faint green celery stalk, providing a neutral setting.\n\nTechnical Details :\n  • No scale bar or magnification indicated.\n  • All cans are standard slim beverage can shape and size.\n  • Text and branding are clearly legible on each can.\n\nSpatial Relationships :\n  • Cans are arranged left to right: \"g protect\", \"SERVED Margarita\", \"STËLZ Raspberry\".\n  • All cans are in the foreground, equally spaced, and vertically aligned.\n  • The composition centers the cans, with each label fully visible.\n\nAnalysis :\n  • The image visually compares three distinct beverage brands and flavors, highlighting their unique branding and flavor profiles.\n  • The arrangement and clear labeling suggest a focus on product differentiation and consumer choice.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

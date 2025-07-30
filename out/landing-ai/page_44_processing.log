@@ -1,0 +1,6 @@
+2025-07-30 13:40:59,894 - INFO - Processing page 44: page_44.pdf
+2025-07-30 13:40:59,894 - INFO - Starting PDF parsing...
+2025-07-30 13:41:55,879 - INFO - Successfully parsed page. Found 1 result(s)
+2025-07-30 13:41:55,880 - INFO - Markdown written: page_44.md (6945 chars)
+2025-07-30 13:41:55,882 - INFO - Chunks written: page_44_chunks.json (13 chunks)
+2025-07-30 13:41:55,882 - INFO - Page 44 processing completed successfully!

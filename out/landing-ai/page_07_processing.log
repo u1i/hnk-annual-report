@@ -1,0 +1,6 @@
+2025-07-30 13:27:33,988 - INFO - Processing page 7: page_07.pdf
+2025-07-30 13:27:33,989 - INFO - Starting PDF parsing...
+2025-07-30 13:27:52,327 - INFO - Successfully parsed page. Found 1 result(s)
+2025-07-30 13:27:52,329 - INFO - Markdown written: page_07.md (4660 chars)
+2025-07-30 13:27:52,334 - INFO - Chunks written: page_07_chunks.json (14 chunks)
+2025-07-30 13:27:52,334 - INFO - Page 7 processing completed successfully!

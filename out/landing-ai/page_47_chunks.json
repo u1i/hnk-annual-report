@@ -1,0 +1,173 @@
+{
+  "source_file": "page_47.pdf",
+  "page_number": 47,
+  "processed_at": "2025-07-30T13:43:25.848793",
+  "total_chunks": 11,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "47\n\nHeineken\nN.V.\nAnnual\nReport\n2024\n\nIntroduction\n\nReport\nof the\nExecutive\nBoard\n\nReport\nof the\nSupervisory\nBoard\n\nFinancial\nStatements\n\nSustainability\nStatements\n\nOther\nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Financial review\n\nCapital expenditure and cash flow\n<table><thead><tr><th>In millions of €</th><th>2024</th><th>2023</th></tr></thead><tbody><tr><td>Cash flow from operations before changes in working capital and provisions</td><td>6,058</td><td>6,127</td></tr><tr><td>Total change in working capital</td><td>851</td><td>(146)</td></tr><tr><td>Change in provisions and post-retirement obligations</td><td>(6)</td><td>(32)</td></tr><tr><td>Cash flow from operations</td><td>6,903</td><td>5,949</td></tr><tr><td>Cash flow related to interest, dividend and income tax</td><td>(1,400)</td><td>(1,519)</td></tr><tr><td>Cash flow from operating activities</td><td>5,503</td><td>4,430</td></tr><tr><td>Cash flow used in operational investing activities</td><td>(2,445)</td><td>(2,671)</td></tr><tr><td>Free operating cash flow</td><td>3,058</td><td>1,759</td></tr><tr><td>Cash flow used in acquisitions and disposals</td><td>10</td><td>(905)</td></tr><tr><td>Cash flow used in financing activities</td><td>(2,574)</td><td>(816)</td></tr><tr><td>Net cash flow</td><td>494</td><td>38</td></tr><tr><td>Cash conversion ratio</td><td>103%</td><td>61%</td></tr></tbody></table>",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Capital expenditure related to property, plant and equipment and intangible assets (CAPEX) amounted to €2,465 million (2023: €2,677 million) representing 8.2% (2023: 8.8%) of net revenue (beia). Significant investments in the year include capacity expansion in Brazil, returnable packaging materials across several markets including South Africa, and a packaging factory in Mexico.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Free operating cash flow amounted to €3,058 million (2023: €1,759 million) and is higher than 2023 mainly due to a substantially improved working capital position, especially in Europe and Americas.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Capital expenditure related to PP&E and intangible assets (capex)\n<table><thead><tr><th>In millions of €</th><th>2023</th><th>2023</th></tr></thead><tbody><tr><td>Purchase of property, plant and equipment</td><td>2,184</td><td>2,434</td></tr><tr><td>Purchase of intangible assets</td><td>281</td><td>243</td></tr><tr><td>Capital expenditure related to PP&E and intangible assets (capex)</td><td>2,465</td><td>2,677</td></tr></tbody></table>",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Financial structure and liquidity\n<table><thead><tr><th>In millions of €</th><th>2024</th><th>%</th><th>2023</th><th>%</th></tr></thead><tbody><tr><td>Total equity</td><td>22,402</td><td>42</td><td>22,789</td><td>41</td></tr><tr><td>Deferred tax liabilities</td><td>2,155</td><td>4</td><td>2,213</td><td>4</td></tr><tr><td>Post-retirement obligations</td><td>519</td><td>1</td><td>586</td><td>1</td></tr><tr><td>Provisions</td><td>762</td><td>1</td><td>833</td><td>2</td></tr><tr><td>Total borrowings</td><td>17,049</td><td>32</td><td>18,238</td><td>33</td></tr><tr><td>Other liabilities</td><td>10,886</td><td>20</td><td>10,494</td><td>19</td></tr><tr><td>Total equity and liabilities</td><td>53,773</td><td>100</td><td>55,153</td><td>100</td></tr></tbody></table>",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Summary : This bar chart shows the Net debt/EBITDA (beia) ratio from 2020 to 2024, comparing actual/proforma values to a long-term target.\n\nbar chart:\nTitle & Axes :\n  • Title: \"Net debt/EBITDA (beia) ratio*\"\n  • X-axis: Years (2020, 2021, 2022, 2023, 2024)\n  • Y-axis: Net debt/EBITDA (beia) ratio (no explicit units, values from 0 to at least 3.4)\n  • Footnote: \"* Includes acquisitions and excludes disposals on a 12-month pro-forma basis.\"\n\nData Points :\n  • Net debt/EBITDA (beia) proforma ratio (light green bars):\n      – 2020: 3.4\n      – 2021: 2.6\n      – 2022: 2.1\n      – 2023: 2.4\n      – 2024: 2.2 (dark green bar)\n  • Long-term target (dashed green line): 2.6\n\nDesign Encodings :\n  • Light green bars for 2020–2023, dark green bar for 2024.\n  • Dashed green horizontal line for long-term target at 2.6.\n  • Legend: light green square for \"Net debt/EBITDA (beia) proforma ratio\", dashed line for \"Long-term target\".\n\nDistribution & Trends :\n  • The ratio decreases from 3.4 in 2020 to 2.1 in 2022, rises slightly to 2.4 in 2023, and then drops to 2.2 in 2024.\n  • The 2024 value is below the long-term target.\n\nAnalysis :\n  • The Net debt/EBITDA (beia) ratio shows a general downward trend from 2020 to 2024, with a small uptick in 2023.\n  • By 2024, the ratio (2.2) is below the long-term target (2.6), indicating improvement in the company's leverage position over the period.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Shareholders' equity decreased by €475 million to 19,581 million, mainly driven by the net profit of €978 million offset by the negative other comprehensive income of €472 million, and dividend payments to shareholders of €969 million.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "Total borrowings amounted to €17,049 million (2023: €18,238 million). Net debt decreased to €14,651 million (2023: €15,835 million) as the strong free operating cash flow exceeded dividend payments and negative foreign currency effects on net debt. Including the effect of cross-currency swaps, 77% of net debt is Euro-denominated, and 12% is US dollar and US dollar proxy currencies.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "The pro-forma 12-month rolling net debt/EBITDA (beia) ratio was 2.2x on 31 December 2024 (2023: 2.4x), in line with the Company’s long-term target net debt/EBITDA (beia) ratio of below 2.5x.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "The centrally available financing headroom at Group level was approximately €3.8 billion at 31 December 2024 (2023: €3.2 billion) and consisted of the undrawn part of the committed €3.5 billion revolving credit facility and centrally available cash minus centrally issued commercial paper and short-term bank borrowings at group level.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

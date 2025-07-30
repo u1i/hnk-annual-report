@@ -1,0 +1,398 @@
+{
+  "source_file": "page_35.pdf",
+  "page_number": 35,
+  "processed_at": "2025-07-30T13:38:09.858400",
+  "total_chunks": 26,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "35",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Heineken\nN.V.\nAnnual\nReport\n2024",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Introduction",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Report  \nof the  \nExecutive  \nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Report  \nof the  \nSupervisory  \nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Financial  \nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Sustainability\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Other  \nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "flowchart: \n- Upward-pointing green triangle (arrowhead) at the top\n- Downward-pointing green triangle (arrowhead) below\n- Three short horizontal green lines stacked (menu or list icon)\n- Green circular arrow (counterclockwise, refresh or undo icon) at the bottom\n\nThe diagram shows a vertical sequence of four icons: up arrow, down arrow, menu/list, and refresh/undo, likely representing navigation and action controls.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "Americas",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "Unlocking\nprofitable growth\n\nDriven by its size and increasing\ndemand in some key markets, the\nAmericas presents a unique\nopportunity for us. We’re strengthening\nour competitive position by scaling\npremiumisation led by Heineken®,\naccelerating innovation, digitising our\nroute-to-consumer and other strategic\ninvestments.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "Exceptional performance  \nDespite high inflation, currency devaluation in Mexico and Brazil, instability in Haiti and Ecuador, and reduced consumer purchasing power in the US, HEINEKEN Americas delivered exceptional performance in 2024.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "Our premiumisation strategy continued to drive strong results, with the Heineken® brand leading with high single-digit growth. Amstel® also showed impressive high single-digit growth, with particularly strong results in Brazil and Ecuador. In Panama, Cristal reinforced its position as a differentiated premium brand.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "Summary : This is a close-up photograph showing two Heineken cans with a tennis-themed design placed among several bright yellow tennis balls inside a wire basket, likely on a tennis court.\n\nphoto:\nScene Overview :\n  • Main subjects are two tall Heineken cans with a special tennis-themed design.\n  • The cans are placed diagonally among numerous fluorescent yellow tennis balls.\n  • The setting appears to be a tennis court, as indicated by the visible court surface and the wire basket.\n  • The can design features the word \"LLOOOVVVEE\" in stacked white letters, a green tennis ball graphic, and the Heineken logo at the bottom.\n  • Lighting is bright and even, suggesting an outdoor or well-lit indoor environment.\n  • Colour palette is dominated by green (cans, court), yellow (tennis balls), and blue (court surface).\n\nTechnical Details :\n  • No scale bar or magnification; objects are shown at life size.\n  • Visible text on cans: \"LLOOOVVVEE\" and \"Heineken\".\n  • No on-image UI elements.\n\nSpatial Relationships :\n  • The two cans are centrally placed, leaning against each other at an angle.\n  • Tennis balls fill the basket, surrounding the cans in the foreground and background.\n  • The basket is positioned at an angle, with the court surface visible in the background.\n\nAnalysis :\n  • The image visually associates Heineken with tennis, likely as part of a promotional campaign or event.\n  • The repetition of \"LLOOOVVVEE\" mimics tennis scoring terminology (\"love\" meaning zero) and emphasizes the tennis theme.\n  • The composition draws attention to the branded cans, making them the focal point amid the tennis balls.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "Innovating in beer and beyond\nWe continued expanding our portfolio to meet evolving consumer preferences. Heineken® Silver, our fresh, world-class light beer, is delivering encouraging results and promising progress in Panama and South America.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "In the RTD segment, Amstel Vibes demonstrated\nstrong momentum in Brazil, while Rum Stripe, Piton\nVibes and Ricardo gained traction in the Caribbean.\nOur non-alcoholic beverage portfolio in Brazil\nachieved remarkable growth, driven by FYS, our\nlow-sugar soft drink.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 17,
+      "text": "Making meaningful connections with consumers\nremained a priority. The UEFA Champions League\nand Formula 1 were key platforms once again:\nHeineken® activations such as Chec0.0 Perez in\nMexico and Senna in Brazil shared the brand’s spirit\nwith local audiences. In Jamaica, a partnership with\nUsain Bolt highlighted Red Stripe’s connection to the\nisland. Our campaigns were once again recognised\nat Cannes, with the Americas earning five Lions for\nThe Gaming Fridge (Brazil), Out of Home Matches\n(Brazil), Backing the Bars (Brazil and Argentina) and\n0.0 Prohibition (Argentina).",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 18,
+      "text": "Summary : This is a product photograph of a bottle of Sol Zero, a non-alcoholic beverage, prominently displaying its branding and label details.\n\nphoto:\nScene Overview :\n  • Main subject is a single clear glass bottle of Sol Zero, upright and centered against a blue and white background with a yellow accent in the lower left.\n  • The bottle is filled with a light golden liquid and capped with a branded cap, which is also visible in the foreground.\n  • The label features the text \"SOL ZERO\" in large letters, with \"CONTÉM VITAMINAS D E B\" and additional smaller text below.\n  • The design includes sun rays and a bright, summery color palette (yellow, blue, white).\n\nTechnical Details :\n  • No scale bar or magnification is present.\n  • The label text is in Portuguese, indicating the product contains vitamins D and B.\n  • The bottle cap is placed at the base of the bottle, showing the Sol logo.\n\nSpatial Relationships :\n  • The bottle is vertically oriented and centrally placed, dominating the composition.\n  • The background is a gradient of blue, suggesting a sky, with a yellow triangle in the lower left corner.\n\nAnalysis :\n  • The image is designed to highlight the Sol Zero brand and its vitamin content, using bright colors and sun imagery to evoke freshness and energy.\n  • The clear, uncluttered background draws attention to the product, making it the focal point.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 19,
+      "text": "Investing in growth\nWe made a range of strategic investments. In Mexico, the Meoqui Can Factory became operational in June, a key milestone in supply chain integration. In Brazil, we advanced construction of the Passos brewery, set to become one of our most sustainable facilities in the region. And in Panama, brewery upgrades enabled local production of Heineken® to begin.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 20,
+      "text": "We also made significant progress on our digital journey, with a growing share of fragmented trade revenue now coming through digital channels. As of 2024, more than two thirds of customers use our digital platforms, reflecting the impact of this transformation programme on our business.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 21,
+      "text": "“We continued to grow in the Americas through premiumisation, innovation and strategic investments. Despite macroeconomic challenges, we delivered impressive results, with Heineken® leading the way in premium growth. Our commitment to expanding digital capabilities and our Brew a Better World agenda underscores our dedication to sustainable, long-term growth.”\n\nMarc Busain  \nPresident, Americas",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 22,
+      "text": "Always a choice  \nOur low and no-alcohol portfolio continues to achieve double-digit growth, led by Heineken® 0.0, now available in all our 14 operating companies and eight export markets, and Tecate 0.0. In Brazil, we launched Sol Zero, a no-alcohol beer enriched with vitamins D and B.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 23,
+      "text": "Programmes promoting moderation, such as Carnival initiatives in the Caribbean and our ‘LOVE.LOVE’ tennis-themed campaign for Heineken® 0.0 in the US, strengthened our responsible consumption message while showcasing our innovative approach to consumer engagement.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 24,
+      "text": "Sustainability\nIn Brazil, SPIN, an innovative partnership ecosystem, was launched to drive sustainable models for packaging circularity, regenerative agriculture, energy transition and impact brands.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 25,
+      "text": "The roll-out of our decarbonisation programme gained momentum, with Suriname, Peru and Lagunitas transitioning to 100% renewable electricity. A new PPA contract for a wind farm in Bahia State, Brazil, solar projects, biomethane adoption, biomass boiler installations and vehicle electrification initiatives all demonstrated our ambition to scale renewable energy. Water stewardship also improved, with water efficiency reaching record low levels. New water reclamation plants in Mexico and Brazil neared completion.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 26,
+      "text": "We remain focused on diversifying leadership, building talent pipeline and fostering inclusivity. Our leadership development programmes are equipping colleagues with career opportunities and supporting the delivery of our EverGreen strategy.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

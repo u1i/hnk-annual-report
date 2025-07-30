@@ -1,0 +1,338 @@
+{
+  "source_file": "page_39.pdf",
+  "page_number": 39,
+  "processed_at": "2025-07-30T13:39:30.623750",
+  "total_chunks": 22,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "39\n\nHeineken\nN.V.\nAnnual\nReport\n2024\n\nIntroduction\n\nReport\nof the\nExecutive\nBoard\n\nReport\nof the\nSupervisory\nBoard\n\nFinancial\nStatements\n\nSustainability\nStatements\n\nOther\nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Risk management",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Internal control  \nHEINEKEN’s internal control activities aim to provide insights into the effectiveness of internal processes with regards to the accuracy of financial information, non-financial disclosures, and the Company’s compliance with applicable laws and internal policies.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Internal controls have been defined at operating\nentity level (HEINEKEN Rules – comprising all\nmandatory standards and procedures) and at\nprocess level (Process and Control Standards) for key\nprocesses, including financial and non-financial\nreporting, IT and Tax.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Compliance with company policies is periodically assessed. Deviations from the defined standards are included in the global monitoring and follow-up processes, supporting management in addressing these deviations. Management is responsible for the definition and timely implementation of action plans to remediate any deficiency identified as part of these assessments. The results are reported to the Executive Board.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "The HEINEKEN Rules, policies and controls are\nperiodically updated to reflect both the Company\nkey risks and the extent to which the Company is\nwilling and able to mitigate them.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Risk Committee  \nThe Executive Board of HEINEKEN is accountable for risk management, risk oversight and the protection of HEINEKEN’s reputation, value of assets and brands.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "The Board is assisted by the Risk Committee, chaired by the CFO, in regular reviews of the Group risk assessment cycle that summarises the Company’s key risks, associated mitigating actions and monitoring activities. These reviews consider the level of risk that HEINEKEN is willing to take and the type of HEINEKEN’s objectives it impacts.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "The Risk Committee identifies changes to the\nCompany’s risk exposure and proposes interventions\nif required.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "Organisation\nFor the organisation of risk management activities, HEINEKEN applies a ‘three lines of defence’ model. First and most important is the quality and behaviour of operational management, the first line of defence. They have the ownership, responsibility and accountability for assessing and mitigating risks.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "Operational management is supported by the\nsecond line of defence, functions that oversee\ncompliance with HEINEKEN’s policies, processes and\ncontrols, facilitate the implementation of risk\nmanagement practices and drive continuous\nimprovements of internal controls.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "As third line of defence, the internal audit function (Global Audit) is mandated to perform Group-wide reviews of key processes, projects and systems, based on HEINEKEN’s strategic priorities and most significant risk areas. Global Audit provides independent and objective assurance and consultancy services. It employs a systematic and disciplined approach to evaluate and improve the organisation’s governance and risk management process including reliability of information, compliance with laws, regulations and procedures, and efficient and effective use of resources. The methodology followed by Global Audit is in accordance with the standards of the Institute of Internal Auditors.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "To support the Executive Board’s external representations, a formal bi-annual Letter of Representation process is in place. It requires management to take responsibility for accurate and complete reporting on financial and non-financial reporting disclosures, financial reporting controls and on compliance with the Code of Conduct and other HEINEKEN Rules, as well as identifying and reporting on fraud and irregularities.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "Processes\nHEINEKEN’s risk management activities seek to identify and appropriately address any significant threat to the achievement of the Company’s strategy and business objectives, its reputation and the continuity of its operations.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "HEINEKEN’s risk management system enables management to identify, assess, prioritise and manage risks on a continuous and systematic basis, and covers all subsidiaries across regions, countries, markets and corporate functions. Ongoing identification and assessment of risks, including new risks arising from changes in the global or local business environment, are part of HEINEKEN’s planning, performance and risk management cycles. Risk assessments are performed by every subsidiary and all global functions. The implementation of responses and progress of risk mitigating measures is monitored on a quarterly basis.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "Risk assessment outcomes are aggregated at a global level and serve as basis for determining HEINEKEN’s risk exposure and risk management priorities by the Risk Committee. Accountability for mitigating, monitoring and reporting on the most significant risks is assigned to functional directors who report on progress and residual risk levels three times per year to the Risk Committee.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 17,
+      "text": "HEINEKEN continues to evolve risk management in the Company, reflecting new and emerging risks. Building on the existing risk and controls mechanisms, improvements are aimed at driving business ownership of risks, increasing business involvement in risk management and expanding the integrated view of risks.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 18,
+      "text": "Main risks  \nThe risk overview on the next page highlights the main risks that could hinder HEINEKEN in achieving its strategy and business objectives.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 19,
+      "text": "This is not a full overview of all risks and uncertainties\nthat may affect the Company. As new risks emerge\nand existing immaterial risks evolve, timely discovery\nand accurate evaluation of risks are at the core of\nHEINEKEN’s risk management system.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 20,
+      "text": "Financial risks are reported separately in note 11.5\nin the Financial Statements on pages 120–123.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 21,
+      "text": "The Statement of the Executive Board is included\nin the Corporate Governance statement on\npages 49-58.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 22,
+      "text": "The ways we manage risks related to Responsible Consumption, Business Conduct and Human Rights are further detailed in the Sustainability Statements section of our Annual Report on pages 138-285.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

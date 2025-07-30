@@ -1,0 +1,6 @@
+2025-07-30 13:42:56,658 - INFO - Processing page 47: page_47.pdf
+2025-07-30 13:42:56,658 - INFO - Starting PDF parsing...
+2025-07-30 13:43:25,846 - INFO - Successfully parsed page. Found 1 result(s)
+2025-07-30 13:43:25,848 - INFO - Markdown written: page_47.md (6868 chars)
+2025-07-30 13:43:25,849 - INFO - Chunks written: page_47_chunks.json (11 chunks)
+2025-07-30 13:43:25,849 - INFO - Page 47 processing completed successfully!

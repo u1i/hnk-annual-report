@@ -1,0 +1,113 @@
+{
+  "source_file": "page_30.pdf",
+  "page_number": 30,
+  "processed_at": "2025-07-30T13:36:36.335568",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "30\n\nHeineken\nN.V.\nAnnual\nReport\n2024\n\nIntroduction\n\nReport\nof the\nExecutive\nBoard\n\nReport\nof the\nSupervisory\nBoard\n\nFinancial\nStatements\n\nSustainability\nStatements\n\nOther\nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Summary : This is a promotional photograph featuring a woman seated in a casual setting, accompanied by a testimonial quote about gender equality and leadership at HEINEKEN, attributed to Tsholo Moripe, Regional Trade Marketing Manager.\n\nphoto:\nScene Overview :\n  • Main subject is a woman with long, light brown dreadlocks, wearing a vibrant, patterned jacket over a white shirt, seated at a table.\n  • The setting appears to be indoors, with a modern, artistic wall mural in the background depicting a city skyline and a stylized butterfly logo.\n  • The composition is centered on the subject, with a green, semi-transparent graphic overlay sweeping across the image.\n  • Lighting is natural and even, with a bright, clean color palette dominated by white, green, and the colorful jacket.\n\nTechnical Details :\n  • On the table to the left, there are condiment bottles (one labeled \"AMSTEL\") and a tray with food items.\n  • The testimonial text is overlaid in white, bold font, occupying the lower half of the image.\n  • The quote reads: \n    “Taking part in the Women Interactive Network was a game-changer: it’s given me renewed confidence and a fresh perspective on women in leadership. There’s still work to do, but HEINEKEN is the first company I’ve worked for that’s deliberate about gender equality.”\n    – Tsholo Moripe, Regional Trade Marketing Manager\n\nSpatial Relationships :\n  • The subject is positioned in the foreground, slightly off-center, with the table and food items to the left.\n  • The background mural and logo are above and behind the subject, providing context and branding.\n  • The testimonial text is layered over the lower part of the image, ensuring it is prominent and readable.\n\nAnalysis :\n  • The image is designed to highlight both the individual and the company’s commitment to gender equality, using visual branding and a personal testimonial.\n  • The use of vibrant clothing and a modern setting conveys a sense of confidence, diversity, and progressiveness.\n  • The green overlay and visible product branding (AMSTEL) reinforce the association with HEINEKEN and its related brands.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Read more on how we’re levelling\nthe playing field for women leaders",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Business priority",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Unlock the\nfull potential\nof our people\n\nOur people are at the heart of our success and are our top priority. With this in mind, our strategy is grounded in four areas: future-proofing our talent and organisation; driving excellence to enhance processes and competitiveness; unifying our people approach globally; and protecting and respecting every individual.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "These areas guide our efforts to build a winning culture where everyone thrives. We are nurturing exceptional leaders, developing inspired and purpose-driven teams, and fostering an inclusive, equitable environment.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Crucially, we are committed to our people's\nhealth, safety and wellbeing, and we will\ncontinue working on our social sustainability\nand human rights agenda.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

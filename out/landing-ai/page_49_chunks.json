@@ -1,0 +1,248 @@
+{
+  "source_file": "page_49.pdf",
+  "page_number": 49,
+  "processed_at": "2025-07-30T13:44:05.667130",
+  "total_chunks": 16,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "49\n\nHeineken\nN.V.\nAnnual\nReport\n2024\n\nIntroduction\n\nReport\nof the\nExecutive\nBoard\n\nReport\nof the\nSupervisory\nBoard\n\nFinancial\nStatements\n\nSustainability\nStatements\n\nOther\nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Corporate Governance statement",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "**Introduction**\n\nHeineken N.V. (the ‘Company’) is a public company with limited liability incorporated under the laws of the Netherlands. Its shares are listed on the Amsterdam Stock Exchange, Euronext Amsterdam.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "The Company’s management and supervision\nstructure is organised in a so-called two-tier system,\nconsisting of an Executive Board of two executive\nmembers) and a Supervisory Board (made up of ten\nnon-executive members).",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "The Supervisory Board supervises the Executive Board and ensures that external experience and knowledge are embedded in the Company’s way of operating. The two Boards are independent of one another and accountable to the Annual General Meeting (the ‘AGM’).",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "The Company complies with, among other\nregulations, the Dutch Corporate Governance Code\nof 20 December 2022 (the ‘Code’). Deviations from\nthe Code are explained in this report in accordance\nwith the Code’s ‘comply or explain’ principle.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "This report includes the information that the\nCompany is required to disclose pursuant to the\nDutch governmental decree on Article 10 Takeover\nDirective and the governmental decree on Corporate\nGovernance. Substantial changes in the Company’s\ncorporate governance structure and in the\nCompany’s compliance with the Code, if any, will be\nsubmitted to the AGM for discussion under a\nseparate agenda item.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "# Executive Board\n\n## General\n\nThe role of the Executive Board is to manage the Company. This means, among other things, that it is responsible for setting and achieving the operational and financial objectives of the Company, the strategy to achieve these objectives, the parameters to be applied in relation to the strategy (for example, in respect of the financial ratios), the Company culture aimed at sustainable long-term value creation, the associated risk profile, the development of results, and sustainability matters that are relevant to the Company.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "The Executive Board is accountable to the  \nSupervisory Board and to the AGM.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "In discharging its role, the Executive Board shall be guided by the interests of the Company and its affiliated enterprises, taking into consideration the interests of the Company's stakeholders.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "The Executive Board is responsible for complying with all primary and secondary legislation, for managing the risks associated with the Company’s activities and for financing the Company.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "The Company identifies four operating regions: Africa & Middle East, Americas, Asia Pacific and Europe. Each region is headed by a President.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "The two members of the Executive Board and the four regional Presidents together with the five functional Chief Officers (i.e. Commerce, Corporate Affairs, Digital and Technology, People and Supply Chain), jointly form the Executive Team. The decision to work with an Executive Team is to ensure effective implementation of key priorities and strategies across the organisation.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "Throughout the year, members of the Executive  \nTeam and other senior managers were invited to  \ngive presentations to the Supervisory Board.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "A two-day meeting was held in June 2024 between the Supervisory Board and the Executive Team to discuss the Company's strategic priorities and main risks and opportunities in the context of sustainable long-term value creation. During this meeting, members of the Executive Team also presented their respective strategic topics and the risks and opportunities per region or function, as the case may be.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "In October 2024, the Executive Board and the  \nSupervisory Board undertook a four-day visit to São  \nPaulo, Brazil. The visit focused on enhancing the  \nunderstanding of the Company’s operations,  \nperformance and market dynamics in Brazil and the  \nbroader Americas region. The visit also included  \npresentations by local management, by the  \nPresident of the Americas region and by managing  \ndirectors of the Company’s operating companies in  \nMexico, Peru and the Bahamas on their respective  \nstrategic priorities, business performance, outlook,  \npeople topics, and risks and opportunities.  \nAdditionally, various trade visits were concluded as  \nwell as a local brand experience was organized,  \nwhich allowed for engagement with customers and  \nconsumers.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

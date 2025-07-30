@@ -1,0 +1,413 @@
+{
+  "source_file": "page_50.pdf",
+  "page_number": 50,
+  "processed_at": "2025-07-30T13:44:19.516654",
+  "total_chunks": 27,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "50\n\nHeineken\nN.V.\nAnnual\nReport\n2024\n\nIntroduction\n\nReport\nof the\nExecutive\nBoard\n\nReport\nof the\nSupervisory\nBoard\n\nFinancial\nStatements\n\nSustainability\nStatements\n\nOther\nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Corporate Governance statement",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Composition of the Executive Board\n\nExecutive Board members are appointed by the AGM from a non-binding nomination drawn up by the Supervisory Board.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "The Supervisory Board appoints one of the Executive\nBoard members as Chair/CEO. The AGM can dismiss\nmembers of the Executive Board by a majority of\nvotes cast if the subject majority at least represents\none-third of the issued capital.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "The Executive Board consists of two members, Chair/\nCEO Dolf (R.G.S.) van den Brink and CFO Harold\n(H.P.J.) van den Broek.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Best practice provision 2.2.1 of the Code\nrecommends that an Executive Board member is\nappointed for a maximum period of four years and\nthat a member may be re-appointed for a term of\nnot more than four years at a time. In compliance\nwith this best practice provision, the Supervisory\nBoard has drawn up a rotation schedule to avoid,\nas much as possible, a situation in which Executive\nBoard members retire at the same time.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Mr. Van den Brink and Mr. Van den Broek are, respectively, in their second and first four-year term as members of the Executive Board, being reappointed in 2024 and appointed in 2021. A proposal for the re-appointment of Mr. Van den Broek for a second four-year term as member of the Executive Board was decided by the Supervisory Board on 1 October 2024 and will be submitted to the AGM in 2025 for approval.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Other Appointments  \nInternal regulations prescribe that members of the Executive Board of the Company will not accept more than two supervisory board memberships or non-executive directorships in a Large Dutch Entity.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "Prior to accepting an external board membership of a Large Dutch Entity or a foreign equivalent, the proposal will be discussed with the other member of the Executive Board. The proposal will subsequently be submitted to the Chair of the Supervisory Board. The Chair will obtain approval from the Selection and Appointment Committee of the Supervisory Board and will inform the other members of the Supervisory Board, in line with the regulations of the Selection and Appointment Committee.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "Furthermore, prior to accepting any other external\nfunctions, such proposal will also be discussed with\nthe other member of the Executive Board. If there\nare no objections, the proposal will be submitted to\nthe Chair of the Supervisory Board for approval. With\napproval of the Chair the function can be accepted.\nThe Chair of the Supervisory Board will inform the\nmembers of the Supervisory Board.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "The Chair/CEO has no external board membership of a Large Dutch Entity or a foreign equivalent and has a few external positions. The CFO has no external board membership of a Large Dutch entity or a foreign equivalent or other external positions.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "The Supervisory Board ascertains that the members of the Executive Board (i) comply with the Dutch Act on Management and Supervision as regards the maximum number of supervisory board seats and non-executive board memberships in Large Dutch Entities and (ii) have sufficient time to devote to their duties and responsibilities, as provided by Principle 2.4 of the Code.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "The Supervisory Board has concluded that each member of the Executive Board has sufficient time to discharge its duties as director of the Company, taking into account the Chair/CEO’s limited other external positions, and also recognizing that these positions are not materially time consuming.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "Summary : This is a profile card for Dolf (R.G.S.) van den Brink, who holds the position of Chair/CEO, detailing his appointment history and term duration.\nphoto:  \nScene Overview : \n  • The main subject is a professional headshot of Dolf (R.G.S.) van den Brink.\n  • The setting is a neutral background, with the subject in business attire.\n  • The composition is centered, with the subject's head and shoulders visible.\nTechnical Details : \n  • On-image text provides the following information:\n    – Name: Dolf (R.G.S.) van den Brink\n    – Title: Chair/CEO\n    – Appointment details:\n      • First appointment in 2020*\n      • Current four-year term ends in 2028\nSpatial Relationships : \n  • The subject is positioned centrally in the frame, occupying the upper half of the image.\n  • Text information is displayed below the subject, organized in a clear, hierarchical layout.\nAnalysis : \n  • The image serves as a professional profile summary, highlighting the subject's leadership role and term details in a corporate context.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "Career background  \nPrior to his tenure as Chair of the Executive Board and Chief Executive Officer, Mr. Van den Brink had a successful 22-year career at the Company, working on all continents.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "Mr. Van den Brink started his career in 1998 in the Netherlands as a commercial management trainee, and worked in various marketing and commercial roles at HEINEKEN’s former subsidiary Vrumona and Global Commerce. From 2005 until 2009, Mr. Van den Brink was Commercial Director at Bralima, in the Democratic Republic of Congo (DRC). In 2009 he became Managing Director of HEINEKEN USA. After serving in this role for six years, he was appointed as Managing Director of HEINEKEN Mexico (Cuauhtémoc Moctezuma). In the fall of 2018 Mr. Van den Brink moved to Singapore, to head the the Company’s APAC region as Regional President until his appointment as Chief Executive Offer in 2020.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 17,
+      "text": "Other positions**\nEdesia Inc. (Board of Directors), International Alliance for Responsible Drinking, member of the IMD Foundation Board",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 18,
+      "text": "No supervisory board seats (or non-executive board memberships) in Large Dutch Entities***",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 19,
+      "text": "Age: 51  \nNationality: Dutch  \nGender: Male",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 20,
+      "text": "- • For the maximum period of four years.\n- • Under ‘Other positions’, functions are listed that may be relevant to the performance of the duties of the Executive Board.\n- • Large Dutch Entities are Dutch N.V.s, B.V.s or Foundations (that are required to prepare annual accounts pursuant to Chapter 9 of Book 2 of the Dutch Civil Code or similar legislation) that meet two of the following criteria (on a consolidated basis) on two consecutive balance sheet dates:\n  (i) The value of the assets (according to the balance sheet with the explanatory notes and on the basis of acquisition and manufacturing costs) exceeds €25 million;\n  (ii) The net turnover exceeds €50 million;\n  (iii) The average number of employees is at least 250.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 21,
+      "text": "Summary : This is a professional profile photo with accompanying text identifying an individual and their corporate role.\n\nphoto:  \nScene Overview : \n  • Main subject is a person in business attire, shown from the chest up, against a plain light background.\n  • The text below the image reads: \"Harold (H.P.J.) van den Broek CFO\".\n  • The text is in green font, with the name and title clearly separated onto two lines.\nTechnical Details : \n  • No scale bar, magnification, or additional UI elements are present.\n  • The image is framed in a rectangular box with a white background.\nSpatial Relationships : \n  • The subject is centered in the frame, with the text directly below the image.\n  • The composition is typical for a corporate headshot and profile card.\n\nAnalysis : \n  • The image and text together serve to identify Harold (H.P.J.) van den Broek as the Chief Financial Officer (CFO), likely for a company or organization. The design is clean and professional, suitable for use on a corporate website or internal directory.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 22,
+      "text": "Appointment\nInitial appointment in 2021*\nFirst four-year term ends in 2025 (a proposal for re-appointment for a next four year term will be submitted to the Annual General Meeting of Shareholders in April 2025)",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 23,
+      "text": "Career background  \nPrior to his tenure as Member of the Executive Board and Chief Financial Officer, Mr. Van den Broek had a successful 30-year career in fast-moving consumer goods, holding various business and finance roles across Europe and Asia.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 24,
+      "text": "Mr. Van den Broek started his career at Unilever in 1991 and held various finance roles during his 14 years-tenure, including Vice President Finance for the Central & Eastern Europe region, Vice President Finance in China and Senior Vice President Finance Global Supply Chain. He joined Reckitt Benckiser in 2014, and successively held the roles of Senior Vice President Finance for Europe and North America, CFO of the Hygiene & Home division and Chief Operating Officer.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 25,
+      "text": "Other positions**\nNo other positions.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 26,
+      "text": "No supervisory board seats (or non-executive board memberships) in Large Dutch Entities***",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 27,
+      "text": "Age: 57\nNationality: Dutch\nGender: Male",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

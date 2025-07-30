@@ -1,0 +1,308 @@
+{
+  "source_file": "page_27.pdf",
+  "page_number": 27,
+  "processed_at": "2025-07-30T13:35:24.009066",
+  "total_chunks": 20,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "27\n\nHeineken\nN.V.\nAnnual\nReport\n2024",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Introduction\n\nReport  \nof the  \nExecutive  \nBoard\n\nReport  \nof the  \nSupervisory  \nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Financial\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Sustainability\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Other  \nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "flowchart:  \n- Upward green triangle (arrow)  \n- Downward green triangle (arrow)  \n- Three horizontal green lines (menu or list icon)  \n- Green circular arrow (counterclockwise, refresh/undo icon)  \nAll icons are vertically aligned in a single column on a light gray background. The flowchart presents a vertical toolbar with navigation (up/down), menu, and undo actions.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Become the best-connected brewer",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Digitalising our route to consumer\n\nHEINEKEN has cherished its relationships with customers and consumers for more than 150 years. In a world where customers expect instant, personalised service online and consumers demand Netflix-style experiences across their interactions with all brands, we’re building new digital capabilities to keep these connections strong.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "This involves developing innovative online platforms for customers and embracing new digital consumer engagement models. Crucially, this digitisation journey is giving us access to better, richer data that we’re using to further improve our service, optimise engagement and empower growth. While this journey is far from over, 2024 was a pivotal year.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "Revolutionising customer engagement\nIn 2024, we continued to put our customers at the centre of everything we do, reimagining how they interact with us across every touchpoint: through eB2B platforms, sales representatives, customer service agents and distributors.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "‘eazle’, the brand name and identity for our eB2B platforms, aims to make our customers’ business easy. As part of our journey to create an integrated, end-to-end platform across all key touchpoints and reimagine the customer experience, eazle has so far been launched in four markets. The approach is already bearing fruit: over the course of 2024, the platform achieved close to €13 billion in gross merchandise value, connecting with 670,867 active customers and accounting for 70% of fragmented trade revenue – up from 60% in 2023.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "Crucially, our success in driving up the number of customers engaging with us through digital channels is supporting the acceleration of wider data-driven innovation to deliver better service for customers and growth for HEINEKEN.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "Beyond engagement, we continued to pioneer\nsmart solutions to drive efficiencies for both\ncustomers and our business. Experiments with\nconnected outlets allowed us to automate stock\nreplenishment in bars, while continued investment in\nshelf image recognition technology is helping\nretailers optimise their inventory.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "Our digitisation of customer experience is\ndramatically improving our customer relationships.\nOur customer NPS scores have increased steadily\nover the years to 68 in 2024.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "Summary : This is a photograph of a person standing in what appears to be a café or restaurant setting, wearing a teal shirt and a dark striped apron, holding a menu or notepad.\n\nphoto:\nScene Overview :\n  • Main subject is a person in a teal shirt and dark striped apron, standing in the foreground.\n  • The background shows a café or restaurant interior with shelves, bottles, and a counter.\n  • Lighting is warm and ambient, with a mix of natural and artificial light.\n  • The colour palette includes teal, brown, white, and green, with a prominent green translucent overlay across the lower half of the image.\n\nTechnical Details :\n  • No visible scale bar, magnification, or on-image text (other than the green overlay).\n  • The image is in colour and appears to be a digital photograph.\n\nSpatial Relationships :\n  • The subject is centered in the frame, occupying the middle third of the image.\n  • The background is slightly out of focus, emphasizing the subject.\n  • The green overlay covers the lower portion of the image, partially obscuring the subject's hands and the object they are holding.\n\nAnalysis :\n  • The image conveys a professional or service-oriented environment, likely related to food service or hospitality.\n  • The green overlay may be a design element for branding or emphasis.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "Deepening consumer connections\nAlongside our customer initiatives, we’re harnessing digital innovation to help create richer, more meaningful and personalised experiences for consumers – and deliver growth.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 17,
+      "text": "In 2024, we supported our brand teams in launching consumer-facing applications that resonate with our diverse global audiences. The Player 0.0 app, for example, embedded HEINEKEN in the gaming community by leveraging our ambassador Max Verstappen through our Formula 1 campaign. Elsewhere, Hei! helped consumers in cities organise social events effortlessly and discover new experiences and venues. Initiatives such as these not only delivered brand growth, but also generated valuable first-party consumer data that we use to optimise media spend and marketing activations.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 18,
+      "text": "As we digitise, our stakeholders’ privacy is our priority.\nWe have continued to invest in providing the\nnecessary privacy protection around our consumers\nand their data in all our markets.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 19,
+      "text": "Summary : This photo captures an esports or sim racing event, showing a participant in a racing simulator setup and another person walking past, with a large audience and stage lighting in the background.\n\nphoto:  \nScene Overview :  \n  • Main subject: A person seated in a racing simulator rig, actively engaged with the controls, while another person walks past in the foreground.  \n  • Setting: Indoor arena or convention center with a large audience visible in the background, illuminated by green and blue stage lights.  \n  • Perspective: Slightly angled side view, capturing both the simulator and the surrounding environment.  \n  • Composition: The simulator and participant are positioned centrally, with the walking person in the foreground and the audience and event setup in the background.  \n  • Lighting: Bright, colorful stage lighting with green and blue hues dominating the scene.  \n  • Colour palette: Predominantly blue, green, and black, with some white and red accents.\n\nTechnical Details :  \n  • No visible scale bar or magnification.  \n  • Racing simulator features branding such as \"Heineken,\" \"Player 00,\" and the name \"Oscar Mangas\" on the side.  \n  • No on-image UI elements or additional text beyond branding.\n\nSpatial Relationships :  \n  • Foreground: Person walking past, partially obscuring the simulator.  \n  • Midground: Racing simulator and participant, central to the image.  \n  • Background: Large audience, stage, and lighting rigs, indicating a public or competitive event.\n\nAnalysis :  \n  • The image conveys the atmosphere of a competitive gaming or esports event, highlighting both the immersive simulator technology and the scale of the audience. The branding and lighting suggest a professionally organized event, with a focus on the participant's engagement in the simulation.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 20,
+      "text": "Summary : This is a smartphone screenshot showing the main dashboard of the \"eozle\" app, designed for pub management, with options for stock count, ordering, and financials, as well as a notification about an upcoming HEINEKEN delivery and order cut-off time.\n\nscreenshot:\nScene Overview :\n  • Main subject is a hand holding a smartphone displaying the \"eozle\" app.\n  • The app interface is teal with white and green accents.\n  • The top of the screen shows the \"eozle\" logo and a greeting (\"Hi\").\n  • Three main buttons: \"Stock count\", \"Order\", and \"Financial\".\n  • A notification card displays: \"Next HEINEKEN delivery date Wednesday 13 Sept\" and \"Order cut off Tuesday 12 Sept 15:30\".\n  • Bottom navigation bar includes: \"Pub info\", \"Setup\", \"Training & Social Media\", \"Contact Us\".\n\nTechnical Details :\n  • No scale bar or magnification.\n  • UI elements: buttons, notification card, bottom navigation bar.\n  • All text is legible and in English.\n\nSpatial Relationships :\n  • The hand is in the left foreground, holding the phone centrally.\n  • The app interface fills the phone screen, with main options stacked vertically.\n  • Notification card is below the main buttons, above the navigation bar.\n\nAnalysis :\n  • The app is structured for quick access to key pub management functions.\n  • The notification system highlights important delivery and order deadlines.\n  • The interface is clean, with clear separation between functional areas and notifications.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "source_file": "page_05.pdf",
+  "page_number": 5,
+  "processed_at": "2025-07-30T13:27:11.596156",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "- 5\n- Heineken N.V.\n  Annual Report 2024\n- Introduction\n- Report of the Executive Board\n- Report of the Supervisory Board\n- Financial Statements\n- Sustainability Statements\n- Other Information\n- ◀\n- ▼\n- ☰\n- ↶",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Performance highlights",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Solid results with broad-based growth\nand profit expansion in 2024",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Summary : This figure presents two bar charts showing the annual net revenue (in millions of euros) and operating profit margin (in percentages) for the years 2020 to 2024.\n\nbar chart:\n\n# Net Revenue (beia) :\n\nTitle & Axes :\n  • Title: \"Net revenue (beia)\"\n  • Y-axis: \"in millions of €\"\n  • X-axis: Years (2020, 2021, 2022, 2023, 2024)\n  • Y-axis values: 19,724; 21,901; 28,694; 30,308; 29,964\n\nData Points :\n  • 2020 → €19,724m\n  • 2021 → €21,901m\n  • 2022 → €28,694m\n  • 2023 → €30,308m\n  • 2024 → €29,964m\n\nDesign Encodings :\n  • Bars in varying shades of green, with 2024 the darkest.\n  • Value labels on top of each bar.\n  • 2024 bar is bolded with a larger value label.\n\nDistribution & Trends :\n  • Steady increase from 2020 to 2023.\n  • Slight decrease from 2023 (€30,308m) to 2024 (€29,964m).\n\n# Operating Profit Margin (beia) :\n\nTitle & Axes :\n  • Title: \"Operating profit margin (beia)\"\n  • Y-axis: \"in percentages\"\n  • X-axis: Years (2020, 2021, 2022, 2023, 2024)\n  • Y-axis values: 12.3; 15.6; 15.7; 14.7; 15.1\n\nData Points :\n  • 2020 → 12.3%\n  • 2021 → 15.6%\n  • 2022 → 15.7%\n  • 2023 → 14.7%\n  • 2024 → 15.1%\n\nDesign Encodings :\n  • Bars in varying shades of green, with 2024 the darkest.\n  • Value labels on top of each bar.\n  • 2024 bar is bolded with a larger value label.\n\nDistribution & Trends :\n  • Increase from 2020 to 2022.\n  • Decrease in 2023.\n  • Partial recovery in 2024.\n\n# Analysis :\n  • Net revenue increased sharply from 2020 to 2022, peaked in 2023, and slightly declined in 2024.\n  • Operating profit margin followed a similar upward trend until 2022, dipped in 2023, and partially rebounded in 2024.\n  • Both metrics show overall growth over the five-year period, with minor setbacks in the most recent year.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Summary : This figure presents two vertical bar charts showing the annual operating profit (beia) and net profit (beia) in millions of euros from 2020 to 2024.\n\nbar chart:\n\n# Operating Profit (beia) :\n\nTitle & Axes :\n  • Title: \"Operating profit (beia) in millions of €\"\n  • Y-axis: Operating profit (beia) in millions of €\n  • X-axis: Years (2020, 2021, 2022, 2023, 2024)\n  • Highlighted value for 2024: €4,512m\n\nData Points :\n  • 2020: 2,421\n  • 2021: 3,414\n  • 2022: 4,502\n  • 2023: 4,443\n  • 2024: 4,512\n\nDesign Encodings :\n  • Bars use a gradient of green, with 2024 in a darker, more saturated green.\n  • Each bar is labeled with its value at the top.\n  • 2024 bar is bolded and labeled in green.\n\nDistribution & Trends :\n  • Steady increase from 2020 to 2022.\n  • Slight dip from 2022 (4,502) to 2023 (4,443).\n  • Increase again in 2024 to 4,512.\n\n# Net Profit (beia) :\n\nTitle & Axes :\n  • Title: \"Net profit (beia) in millions of €\"\n  • Y-axis: Net profit (beia) in millions of €\n  • X-axis: Years (2020, 2021, 2022, 2023, 2024)\n  • Highlighted value for 2024: €2,739m\n\nData Points :\n  • 2020: 1,154\n  • 2021: 2,041\n  • 2022: 2,836\n  • 2023: 2,632\n  • 2024: 2,739\n\nDesign Encodings :\n  • Bars use a gradient of green, with 2024 in a darker, more saturated green.\n  • Each bar is labeled with its value at the top.\n  • 2024 bar is bolded and labeled in green.\n\nDistribution & Trends :\n  • Steady increase from 2020 to 2022.\n  • Decrease from 2022 (2,836) to 2023 (2,632).\n  • Increase again in 2024 to 2,739.\n\n# Analysis :\n\n  • Both operating profit (beia) and net profit (beia) show a general upward trend from 2020 to 2024, with a peak in 2022, a slight dip in 2023, and a recovery in 2024.\n  • The 2024 values for both metrics are the highest in the five-year period.\n  • The use of green gradients and bold labeling emphasizes the 2024 results as a key highlight.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Summary : This figure presents two bar charts showing Heineken's consolidated beer volume and Heineken® brand volume, both in millions of hectolitres, for the years 2020 to 2024.\n\nbar chart:\n\n# Consolidated Beer Volume :\n\n  • Title: \"Consolidated beer volume in millions of hectolitres\"\n  • Y-axis: Volume (mhl, millions of hectolitres)\n  • X-axis: Years (2020, 2021, 2022, 2023, 2024)\n  • Data points:\n    – 2020: 221.6 mhl\n    – 2021: 231.2 mhl\n    – 2022: 256.9 mhl\n    – 2023: 242.6 mhl\n    – 2024: 240.7 mhl\n  • 2024 value (240.7 mhl) is highlighted in green.\n\n# Heineken® Volume :\n\n  • Title: \"Heineken® volume in millions of hectolitres\"\n  • Y-axis: Volume (mhl, millions of hectolitres)\n  • X-axis: Years (2020, 2021, 2022, 2023, 2024)\n  • Data points:\n    – 2020: 41.8 mhl\n    – 2021: 48.8 mhl\n    – 2022: 54.9 mhl\n    – 2023: 56.3 mhl\n    – 2024: 61.1 mhl\n  • 2024 value (61.1 mhl) is highlighted in green.\n\n# Design Encodings :\n\n  • Each year is represented by a glass of beer (top chart) or a Heineken bottle (bottom chart), with height proportional to volume.\n  • 2024 values are in green font, other years in grey.\n  • No error bars or statistical annotations.\n\n# Analysis :\n\n  • Consolidated beer volume increased from 221.6 mhl (2020) to a peak of 256.9 mhl (2022), then declined to 240.7 mhl (2024).\n  • Heineken® brand volume shows consistent year-on-year growth, rising from 41.8 mhl (2020) to 61.1 mhl (2024).\n  • The Heineken® brand's growth contrasts with the overall consolidated volume, which peaked in 2022 and then decreased.\n  • The 2024 Heineken® brand volume is the highest in the five-year period.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Summary : This infographic presents key sustainability and diversity metrics for Heineken, including gender balance in senior management, carbon emissions reduction, water usage improvement, and responsible consumption media spend.\n\ninfographic:\n# Gender Balance :\n  • 30% of senior management positions were held by women.\n\n# Carbon Emissions :\n  • 34% reduction of Scope 1 and 2 emissions compared to 2022.\n\n# Average Water Usage (hl/hl) :\n  • 11% improvement compared to 2018.\n\n# Responsible Consumption :\n  • 15% of Heineken media spend was invested in responsible consumption campaigns.\n\n# Visual Elements :\n  • Includes a photo of a racetrack with Heineken branding, reinforcing the company's sponsorship and branding efforts.\n\n# Design Encodings :\n  • Green and white color scheme, consistent with Heineken branding.\n  • Bold green text highlights key percentages.\n  • Section headers in green, supporting text in gray.\n\n# Analysis :\n  • The infographic highlights Heineken's progress in gender diversity, environmental sustainability, and responsible marketing.\n  • The use of bold percentages and clear sectioning draws attention to specific achievements.\n  • The inclusion of a branded racetrack image visually connects the company’s sustainability efforts with its public presence.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

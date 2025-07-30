@@ -1,0 +1,218 @@
+{
+  "source_file": "page_07.pdf",
+  "page_number": 7,
+  "processed_at": "2025-07-30T13:27:52.332952",
+  "total_chunks": 14,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "7",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Heineken  \nN.V.  \nAnnual  \nReport  \n2024",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Introduction",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Report  \nof the  \nExecutive  \nBoard\n\nReport  \nof the  \nSupervisory  \nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Financial  \nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Sustainability  \nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Other  \nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "flowchart: \n- Upward green triangle (arrowhead) at the top\n- Downward green triangle (arrowhead) below\n- Three horizontal green lines (menu or list icon) below the arrows\n- Green circular arrow (refresh or undo icon) at the bottom\n\nThe diagram shows a vertical stack of four green icons: up arrow, down arrow, menu, and refresh, likely representing navigation and action controls.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "Executive Team",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "Working closely with our operating companies, the Executive Team is responsible for the implementation of our global strategy. It consists of two members of the Executive Board, four Regional Presidents and five Chief Officers.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "From left to right:\nMagne Setnes\nChief Supply Chain Officer\nJacco van der Linden\nPresident, Asia Pacific\nYolanda Talamo\nChief People Officer\nMarc Busain\nPresident, Americas",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "Dolf van den Brink\nChairman Executive Board\nand CEO\n\nGlenn Caton\nPresident, Europe\n\nBram Westenbrink\nChief Commercial Officer\n\nHarold van den Broek\nMember Executive Board and CFO",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "Joanna Price\nChief Corporate Affairs Officer\n\nRonald den Elzen\nChief Digital and Technology Officer\n\nRoland Pirmez\nPresident, Africa and Middle East",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "Summary : This is a posed group photo of eleven people in business attire, taken in a modern, brightly lit bar or lounge area with a Heineken sign visible in the background.\n\nphoto:\nScene Overview :\n  • Eleven individuals, both men and women, are arranged in a semi-casual group around a white bar counter.\n  • The setting is a contemporary bar or lounge with green and red accent lighting, wood-patterned flooring, and a visible Heineken logo above the bar.\n  • The group is dressed in business or business-casual attire, including suits, blazers, dress shirts, and dress shoes.\n  • The composition is balanced, with some people standing, some sitting on bar stools, and others leaning against the counter.\n  • Lighting is bright and even, highlighting the subjects and the modern interior.\n\nTechnical Details :\n  • No visible scale bar or measurement references.\n  • The Heineken logo is prominently displayed above the bar area.\n  • Glassware and beer taps are visible on the bar counter.\n  • Some on-image text at the top (partially visible) includes “President, Americas” and “Member Executive Board and CFO”.\n\nSpatial Relationships :\n  • The group is distributed across the foreground, with the bar counter forming a central horizontal axis.\n  • Individuals are spaced evenly, with some overlap in posture (e.g., leaning, sitting).\n  • The background includes green walls, shelves with glassware, and neon lighting elements.\n\nAnalysis :\n  • The image conveys a professional yet relaxed atmosphere, likely intended to showcase a leadership team or business group in a modern, branded environment.\n  • The Heineken branding and bar setting suggest a corporate or hospitality context.\n  • The arrangement and attire of the individuals emphasize professionalism and approachability.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

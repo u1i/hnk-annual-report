@@ -1,0 +1,263 @@
+{
+  "source_file": "page_25.pdf",
+  "page_number": 25,
+  "processed_at": "2025-07-30T13:34:31.266444",
+  "total_chunks": 17,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "25\n\nHeineken\nN.V.\nAnnual\nReport\n2024\n\nIntroduction\n\nReport\nof the\nExecutive\nBoard\n\nReport\nof the\nSupervisory\nBoard\n\nFinancial\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Sustainability\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Other  \nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "flowchart: \n- Upward green triangle (arrowhead) at the top\n- Downward green triangle (arrowhead) below\n- Three short horizontal green lines stacked (menu or list icon)\n- Green circular arrow (refresh or undo icon) at the bottom\n\nEach icon is vertically aligned in a single column, representing navigation (up/down), menu/list, and refresh actions. The overall process suggests a vertical control panel for navigation and actions.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Raise the bar on sustainability and responsibility",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "HEINEKEN Vietnam is partnering with the National\nTraffic Safety Committee to address drinking and\ndriving through its ‘When You Drive, Never Drink’\nprogramme. The programme is delivered in\nuniversities, office buildings, commercial centres and\nshopping malls. It invites people to engage in\neducational activities with two main objectives:\nraising awareness of drinking and driving and\nproviding resources and tools to change behaviours.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Our active engagement in the International Alliance for Responsible Drinking (IARD) highlights our dedication to promoting responsible consumption on a global scale. Through IARD, we collaborate with leading producers of beer, wine and spirits to elevate standards in online sales and digital marketing. IARD’s new Digital Guiding Principles contain five safeguards that, as an industry, we need to apply on all digital communication channels such as social media profiles, websites and apps. The industry commitment is to be 95% compliant by end of 2024. HEINEKEN is 98% compliant with the principles.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Making moderation cool\nWe have a long history of using our brands to make moderation and responsible consumption cool. We use the strength of our brands – particularly our global Heineken® brand – to ensure that this message resonates with consumers through campaigns that shape the debate.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "Our goal is to reach 1 billion unique consumers yearly with a responsible consumption message. We aim to accomplish this by investing 10% of our Heineken® media spend in responsible consumption campaigns. In 2024, 15% of Heineken® media spend has been invested by our operating companies to deliver this important message to consumers, reaching 1.1 billion unique consumers worldwide.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "‘When You Drive, Never Drink’ is our long-standing flagship campaign. Building on last year, we leveraged ‘The Best Driver’ campaign, featuring four-time Formula 1 World Champion Max Verstappen, with Player 0.0 – HEINEKEN’s first global gaming programme that uses a bespoke mobile game as an activation layer.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "Our player 0.0 initiative reinforces the message that ‘The Best Driver is not the fastest driver, but the one who is not drinking’. We continued to scale Player 0.0, with activations in over 20 markets this year.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "In Mexico, we created a local spin-off of the Max Verstappen campaign, leveraging Sergio Pérez to deliver the ‘When You Drive, Never Drink’ message. You can see one of the videos here.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "“Four years into developing and executing our Brew a Better World 2030 strategy, sustainability and responsibility are now an integral part of how we operate. I am proud of the progress we’ve made but I know there is more for us to do as we navigate challenges and trade-offs. Brew a Better World remains the foundation as we continue to learn, evolve and partner with others to deliver our goals.”\n\nJoanna Price  \nChief Corporate Affairs Officer",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "Summary : This is a photo showing a person participating in a racing simulation setup, wearing a blue esports jersey and headphones, seated in a red Playseat racing simulator rig, and holding a steering wheel controller.\n\nphoto:\nScene Overview :\n  • Main subject is a person engaged in a racing simulation, seated in a red Playseat-branded racing rig.\n  • The person is wearing a blue jersey with visible logos, including \"Heineken 0.0\" and \"Player 00\".\n  • The subject is wearing over-ear headphones and holding a racing wheel controller.\n  • The background is blurred, suggesting an event or competition setting with bright lighting and multiple colours.\n\nTechnical Details :\n  • The Playseat rig is red with black seat padding and visible branding.\n  • The jersey features sponsor logos and a patch with a circular emblem.\n  • The racing wheel and pedal setup are visible, indicating a realistic simulation environment.\n  • No scale bar or measurement references are present.\n\nSpatial Relationships :\n  • The subject is positioned in profile, facing right, with the racing rig occupying the majority of the frame.\n  • The \"Player 00\" label is on the side of the seat, clearly visible.\n  • The composition centres on the subject and the racing equipment, with the background out of focus.\n\nAnalysis :\n  • The image conveys a professional or competitive esports racing environment, highlighting the immersive setup and branding associated with the event or team.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "Read more about our 'The Best Driver' campaign",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "Summary : This is a promotional photo from Heineken featuring a responsible drinking message, set in a bar environment with people socializing. The main message is that the best driver is the one who is not drinking, with a focus on non-alcoholic options.\n\nphoto:\nScene Overview :\n  • The scene is set in a modern bar or lounge with a warm, ambient lighting.\n  • Three people are visible: one in the foreground holding a Heineken 0.0 bottle, and two others sitting and talking at the bar in the background.\n  • The main subject is the person in the foreground, positioned on the right, holding a bottle of Heineken 0.0.\n  • The color palette is dominated by greens, browns, and warm lighting, matching Heineken’s branding.\n\nTechnical Details :\n  • Prominent text overlay: “The best driver is the one who is not drinking. Unless it’s Heineken 0.0.”\n  • Heineken 0.0 bottle is clearly visible, with the label facing forward.\n  • Heineken logo and red star are present in the bottom right corner.\n  • A circular icon in the top right corner shows a car with a line through a drink, reinforcing the no-drinking-and-driving message.\n\nSpatial Relationships :\n  • The person holding the bottle is in the foreground, occupying the right third of the image.\n  • The two people in the background are seated at the bar, left and center, creating depth.\n  • The text is centrally placed, overlaying the background but not obscuring the bottle or logo.\n\nAnalysis :\n  • The visual message emphasizes responsible drinking, specifically promoting Heineken 0.0 as a suitable choice for designated drivers.\n  • The composition draws attention to the non-alcoholic product and the safety message, aligning with Heineken’s branding and social responsibility campaigns.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 17,
+      "text": "- • Read more about our 'The Best Driver' campaign\n\nlogo: green abstract wave design in background",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

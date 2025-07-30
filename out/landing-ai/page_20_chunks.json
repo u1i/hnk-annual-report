@@ -1,0 +1,278 @@
+{
+  "source_file": "page_20.pdf",
+  "page_number": 20,
+  "processed_at": "2025-07-30T13:32:30.506011",
+  "total_chunks": 18,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "20\n\nHeineken\nN.V.\nAnnual\nReport\n2024\n\nIntroduction",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Report  \nof the  \nExecutive  \nBoard\n\nReport  \nof the  \nSupervisory  \nBoard\n\nFinancial  \nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Sustainability\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Other  \nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "flowchart:  \n- Upward green triangle (arrowhead)  \n- Downward green triangle (arrowhead)  \n- Three horizontal green lines (menu or hamburger icon)  \n- Green counterclockwise arrow (refresh or undo icon)  \nEach icon is vertically aligned in a single column, evenly spaced.  \nSummary: This is a vertical toolbar or control panel with icons for up, down, menu, and refresh actions.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Raise the bar on sustainability and responsibility",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Developing our global\ncircularity strategy\n\nFor our packaging we use finite resources, which are\nnot always managed well after the product has been\nconsumed. Transitioning to a circular economy is\ntherefore central to our efforts to reduce emissions,\nmanage input costs and prevent waste. We launched\nour circularity strategy in 2024, prioritising three areas\n– Reuse, Recycled content and Recyclable by design –\nto embed a closed loop approach in packaging\ndevelopment. We have set new goals for packaging,\nwhile continuing to enhance the circularity of\nproduction waste and water in our operations.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Driving reusable packaging\nWe are focused on growing the volume of the reusable packaging we use for our products, reducing the need for new packaging. Our goal is to increase the percentage of volumes sold in reusable format to 43% by 2030. Increasing the use of reusable packaging allows us to reduce dependency on virgin materials, lower production costs over time, and build a more sustainable and commercially attractive business model. In 2024, 39% of our volumes were sold in reusable packaging formats.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "Reusable packaging brings greater complexity in quality management, logistics and value chain operations, requiring a significant capability shift to achieve the goal. Wider adoption demands a systemic transformation, involving collaboration to co-create efficient return infrastructures, drive consumer participation, and address logistical and operational challenges. Expanding our reusable portfolio requires us to ensure reusable packaging is appealing and convenient for consumers, featuring efficient and attractive design.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "We continue to explore opportunities to expand our reusable portfolio. One example is the launch of the innovative Heineken Returnable® STAR bottle, developed by our operating company in South Africa. This 650 ml returnable bottle is unique in design, featuring the brand’s iconic star embossed on its body and the Heineken® name etched into the glass.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "Closing the loop on recycled content  \nOur goal is to increase the percentage of recycled content in our bottles and cans to 50% by 2030. We will work with others – including suppliers and environmental organisations – to close the loop by improving recycling rates and increasing the availability of high-quality recycled content for our bottles and cans. We reached 44% recycled content in our bottles and cans in 2024.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "One of the challenges in increasing recycled content is the lack of infrastructure for efficient collection and high-quality recycling. This underscores the need for well-designed and harmonised extended producer responsibility (EPR) legislation that improves collection rates, enable closed-loop recycling and reduce downcycling and waste leakage.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "In Brazil we are developing a circular system together with Ambipar to recycle more glass bottles than we introduce into the market in the country. Purpose-built centres will collect, sort and process glass in areas that currently lack infrastructure. The intention is to explore opportunities to scale the model to other operating companies, applying insights gained from this project.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "Summary : This composite image promotes Heineken's new 650ml returnable bottle and a related recycling campaign, featuring a product photo, a mobile app interface, and a group photo from a formal event.\n\nphoto:  \nScene Overview : \n  • The left section displays a large Heineken bottle with condensation, labeled \"NEW 650ml Returnable Bottle\" and a prompt to \"Read more about the innovative returnable Heineken® STAR bottle.\"\n  • The center foreground shows a hand holding a smartphone with the Heineken logo and the campaign slogan \"TRASH & Win. Scan. Drop. Win.\" The phone screen displays a bottle lying on a reflective surface.\n  • The top right section contains a group photo of four people in business attire at a formal event, standing in front of a branded backdrop and holding a document.\n  • The background features green, wavy graphic elements, reinforcing the eco-friendly theme.\n\nTechnical Details : \n  • Prominent use of Heineken's green and red brand colors.\n  • Text overlays and icons highlight the returnable bottle and recycling campaign.\n  • The mobile phone interface is clearly visible, showing the campaign's digital engagement aspect.\n  • The group photo includes a branded step-and-repeat backdrop with Heineken and partner logos.\n\nSpatial Relationships : \n  • The Heineken bottle and campaign information occupy the left third.\n  • The mobile phone is centered and in the foreground, drawing attention to the digital campaign.\n  • The group photo is positioned in the upper right, indicating a formal launch or partnership event.\n  • The green wave graphics unify the composition and suggest environmental sustainability.\n\nAnalysis : \n  • The image combines product marketing, digital engagement, and corporate partnership to promote Heineken's returnable bottle initiative.\n  • The central placement of the mobile phone emphasizes the interactive \"Trash & Win\" campaign, encouraging consumer participation in recycling.\n  • The group photo suggests official endorsement or collaboration, adding credibility to the campaign.\n  • The overall design and color scheme reinforce Heineken's branding and the eco-friendly message.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "Embedding recyclable by design\nWe are working towards 99% of our packaging being recyclable by design by integrating recyclability criteria into our global innovation process. This begins with designing packaging and procuring materials that are compatible with a recycling stream that has been successfully proven to work at scale. 98% of our packaging was recyclable by design by the end of 2024. To achieve meaningful results, it is essential that our packaging is recycled upon reaching the market, which will be supported by our other circularity goals.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "Towards healthy watersheds  \nand nature  \nOur approach prioritises the health of local watersheds and nature, extending beyond our breweries. Water is essential to our products: without water, there is no beer. Factors such as climate change and population growth are reducing the availability of this precious resource, and this is affecting society in different ways, with developing countries among the worst impacted. Therefore, it is key to build resilience through an integrated and inclusive approach. At HEINEKEN, we recognise that water is a shared resource and we understand the importance of taking action in both our operations and targeted communities where we operate.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 17,
+      "text": "Our water strategy focuses on water efficiency and long-term restoration of priority watersheds, especially in water-stressed areas. Many of our water replenishment efforts promote biodiversity and soil health.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 18,
+      "text": "Summary : This photo shows a group of people participating in an outdoor tree-planting activity, with several individuals actively planting seedlings in a rocky, natural environment.\n\nphoto:  \nScene Overview :  \n  • The main subject is a group of people, many wearing green shirts and gloves, engaged in planting small seedlings in the ground.  \n  • The setting is outdoors, likely in a reforestation or environmental conservation area, with trees and hills visible in the background.  \n  • The perspective is at ground level, capturing both the foreground activity and the larger group in the background.  \n  • Lighting is bright and natural, indicating daytime with clear weather.  \n  • The colour palette is dominated by greens and earth tones, with some white and black clothing.\n\nTechnical Details :  \n  • No visible scale bar or measurement references.  \n  • No on-image text or UI elements.  \n  • The image appears to be a candid photograph, not staged.\n\nSpatial Relationships :  \n  • In the foreground, two individuals are kneeling and working together to plant a seedling, while others are standing or kneeling nearby.  \n  • The background shows a larger group of participants, some observing and others engaged in similar activities.  \n  • The composition places the main planting action in the lower left and center, with the crowd extending into the background.\n\nAnalysis :  \n  • The image visually communicates a community or group effort focused on environmental restoration or conservation.  \n  • The presence of many participants and seedlings suggests a coordinated event, likely aimed at reforestation or ecological improvement.  \n  • The rocky terrain and natural setting reinforce the environmental context of the activity.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

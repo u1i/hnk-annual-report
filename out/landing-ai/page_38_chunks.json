@@ -1,0 +1,233 @@
+{
+  "source_file": "page_38.pdf",
+  "page_number": 38,
+  "processed_at": "2025-07-30T13:39:15.815939",
+  "total_chunks": 15,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "- 38\n\n- Heineken N.V.\n  Annual Report 2024\n\n- Introduction\n\n- Report of the Executive Board\n\n- Report of the Supervisory Board\n\n- Financial Statements\n\n- Sustainability Statements\n\n- Other Information",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "# Risk management\n\n## Integrated approach\n\nAt HEINEKEN, Risk Management is an integral part of doing business, supported by clear governance. Risks are an essential element when opportunities are assessed and strategies are set. Management decisions are made in line with HEINEKEN’s risk appetite. Risks are identified, mitigated and monitored on an ongoing basis, as part of business routines. The increased volatility in recent years due to an uncertain geopolitical landscape has elevated the importance of active risk management.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "HEINEKEN’s risk management approach addresses the risks the Company faces in achieving its strategy; managing these risks in a conscious manner increases the likelihood of meeting our business objectives. A proactive approach ensures risk management is part of our executive conversations and is embedded in our processes. This benefits our decision-making and is essential to create and preserve long-term value.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Risk Management is part of the HEINEKEN Business Framework\nThe HEINEKEN business framework articulates the key elements that the Company relies on to operate effectively and deliver long-term value creation while protecting its people, assets and reputation.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Our Purpose, Our Dream and Our Values underpin our EverGreen strategy, enabled by our organisational structure and strong governance. The behaviours give clear guidance to all employees on how to act and foster a culture of achievement, collaboration and growth, underpinned by a Behaviours Framework that reflects the expected attitudes in decision-making.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Continuous Risk Management supports the\nachievement of business objectives, based on our Risk\nAssessment Cycle, the HEINEKEN Code of Business\nConduct and the HEINEKEN Rules.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "As part of the Risk Assessment Cycle, operating companies and their Management Teams review and update their risks on a continuous basis throughout the year. The Code of Business Conduct and its underlying policies set out HEINEKEN’s commitment to conduct business with integrity and fairness, and respect for the law and our values. The HEINEKEN Rules articulate how we work and the Standards to which we commit. They are a key element for managing the risks faced by our Company and translating our objectives into clear instructions on how to conduct our daily business.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "HEINEKEN’s systems of risk management and internal control, which are based on the COSO Enterprise Risk Management and Internal Control Reference model, form a fundamental part of the HEINEKEN Business Framework.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "Summary : This diagram presents Heineken's business framework, illustrating how the company's purpose, dream, and values are operationalized through behaviors, governance, and strategy, supported by policies, rules, and risk management, and executed via people, processes, systems, and data.\n\nflowchart:\n# Nodes :\n  • \"Our Purpose, Our Dream and Our Values\" (horizontal green rectangle, top center)\n  • \"Behaviours - How we act\" (green rectangle, left)\n  • \"EverGreen Strategy\" (white rectangle, center)\n  • \"Governance - How we govern internally\" (green rectangle, right)\n  • \"Code of Business Conduct - How we behave - Policies\" (green rectangle, below Behaviours)\n  • \"HEINEKEN Rules - How we work - Laws and Regulations, Standards and Procedures\" (green rectangle, below EverGreen Strategy)\n  • \"Risk Management - How we manage risks - Monitoring and Assurance\" (green rectangle, below Governance)\n  • \"People\" (grey rectangle, bottom left)\n  • \"Processes\" (grey rectangle, bottom center-left)\n  • \"Systems\" (grey rectangle, bottom center-right)\n  • \"Data\" (grey rectangle, bottom right)\n  • \"Execution and change management\" (text, bottom center below grey rectangles)\n\n# Connectors :\n  • Downward arrows from \"Our Purpose, Our Dream and Our Values\" to \"Behaviours\", \"EverGreen Strategy\", and \"Governance\".\n  • Rightward arrow from \"Behaviours\" to \"EverGreen Strategy\".\n  • Leftward arrow from \"Governance\" to \"EverGreen Strategy\".\n  • Downward arrow from \"Behaviours\" to \"Code of Business Conduct\".\n  • Downward arrow from \"Governance\" to \"Risk Management\".\n  • Downward arrows from \"EverGreen Strategy\" to \"HEINEKEN Rules\".\n  • Rightward arrow from \"Code of Business Conduct\" to \"HEINEKEN Rules\".\n  • Leftward arrow from \"Risk Management\" to \"HEINEKEN Rules\".\n\n# Layout :\n  • Three main columns: Behaviours (left), EverGreen Strategy (center), Governance (right).\n  • Each main column has a secondary node below it.\n  • The bottom row consists of four grey rectangles (\"People\", \"Processes\", \"Systems\", \"Data\") spanning the width, with \"Execution and change management\" as a label beneath.\n\n# Analysis :\n  • The framework is hierarchical and integrative, starting from overarching purpose and values, branching into three pillars (behaviours, strategy, governance), each with supporting policies, rules, and risk management.\n  • The central \"EverGreen Strategy\" is linked bidirectionally with both \"Behaviours\" and \"Governance\", indicating its integrative role.\n  • The bottom layer (People, Processes, Systems, Data) underpins execution and change management, suggesting these are foundational enablers for the framework's implementation.\n  • The diagram emphasizes alignment between values, conduct, compliance, risk, and operational execution.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "Risk profile\nHEINEKEN is predominantly a single-product business, operating throughout the world in the alcohol industry. HEINEKEN is present in more than 70 countries, with a growing share of its revenues originating from emerging markets.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "HEINEKEN has undertaken business activities with other market parties in the form of joint ventures and\nstrategic partnerships and with independent distributors. Where HEINEKEN does not have effective control,\ndecisions taken by these entities may not be fully harmonised with HEINEKEN's strategic objectives. Moreover,\nHEINEKEN may not be able to identify and manage risks to the same extent as in the rest of the Group.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "Risk appetite  \nHEINEKEN’s risk appetite is the result of its wide geographical spread, prudent financial management and commitment to long-term value creation. Risks are taken consciously, assessing their impact on HEINEKEN’s objectives. The level of risk HEINEKEN is willing to take depends on the type of objective it impacts (reputational, financial or business continuity related).",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "Reputational\n\nHEINEKEN is reliant on the reputation of its brands and the protection of its intellectual property rights. Reputation management is of utmost importance to HEINEKEN. We have invested considerable effort in protecting our brands, including the registration of trademarks and domain names. We aim to reduce the risks that could negatively impact our reputation to the furthest extent possible, accepting that this may come at a cost.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "**Financial**\n\nHEINEKEN is keen on pursuing commercial opportunities to deliver superior and balanced growth, accepting uncertainties linked to its strategic choices and the context of the individual markets in which it operates.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "Business continuity  \nHEINEKEN makes the availability of its brands a priority, accepting only minimal disruptions to its operations. In addition, HEINEKEN continuously and consciously makes focused investments to future-proof the organisation and ensure the sustainability of the business.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

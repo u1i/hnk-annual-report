@@ -1,0 +1,533 @@
+{
+  "source_file": "page_19.pdf",
+  "page_number": 19,
+  "processed_at": "2025-07-30T13:32:15.278204",
+  "total_chunks": 35,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "19",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Heineken\nN.V.\nAnnual\nReport\n2024",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Introduction",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Report  \nof the  \nExecutive  \nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Report  \nof the  \nSupervisory  \nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Financial  \nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Sustainability\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Other  \nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "flowchart:  \n- Upward-pointing green triangle (triangle)  \n- Downward-pointing green triangle (triangle)  \nThe two triangles are vertically aligned with space between them, suggesting an up/down control or selector.  \nSummary: This is a simple vertical control with an up arrow above and a down arrow below, typically used for incrementing or scrolling actions.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "-  Item",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "inline micro-figure: green curved arrow pointing left, representing \"undo\" or \"return\" action",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "Raise the bar on sustainability and responsibility",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "Environmental",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "Making steady progress on\nthe path to net zero\nClimate change and nature loss are changing how we operate and shaping our plans for the decades to come. We have accelerated efforts to reduce emissions, support a circular economy, and protect the health of local watersheds and nature.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "Our Net Zero strategy focuses on achieving net zero across our value chain (Scope 1, 2 and 3) by 2040¹. We are driving towards net zero Scope 1 and 2 emissions by 2030² alongside reducing Scope 3 emissions by 26%. We aim to reduce Scope 3 by decreasing forest, land and agriculture (FLAG) emissions by 30% and energy-based emissions (non-FLAG) by 25%. These goals were validated by the Science Based Targets initiative (SBTi) in 2023. All performance on carbon is now measured against a 2022 baseline.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "Accelerating a reduction in Scope 1 and 2\nWe have reduced Scope 1 and 2 emissions by 34% compared to the 2022 baseline (2023: 19%). We cannot use a one size fits all approach, and decarbonisation requires precise planning and tailored solutions. We are developing custom strategies for each location which account for geographical, socio-political, technological and economic variations.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 17,
+      "text": "With hundreds of projects to develop, we must invest\nstrategically in the most cost-efficient and impactful\ninitiatives. We have developed a financial model to\nevaluate projects and prioritise investments,\nstrengthening cost management and helping us\ndefine future investments. This enabled us to review\nour technology portfolio and deprioritise solutions\nwhere cost trends remain too high. Our approach\ncombines in-house expertise with strategic external\npartnerships. We are collaborating with Siemens, Royal\nHaskoningDHV, NIRAS, Engie and Arcadis to drive\ndecarbonisation efforts across nearly 181 sites globally.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 18,
+      "text": "In 2024, we invested in strategic projects including\nan electric boiler in Ethiopia, a heat pump in\nHungary and renewable thermal solutions in\nPortugal.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 19,
+      "text": "We continue to implement a toolkit to increase the adoption of renewable electricity, including power purchase agreements (PPAs), on-site solutions, energy certificates and other mechanisms. After six years of development, we secured two strategic PPAs in Nigeria and implemented renewable electricity solutions in smaller markets like Suriname, the Democratic Republic of Congo (DRC) and Peru. In 2024, we used 84% renewable electricity across our global operations. Some of our Renewable Electricity projects allow us to identify cost savings and manage volatile energy prices.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 20,
+      "text": "While our holistic approach has enabled us to decouple growth from Scope 1 and 2 emissions, the road ahead is not smooth and we anticipate that future carbon reductions will not be linear.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 21,
+      "text": "Access to renewable thermal energy remains a significant challenge. Barriers vary across the globe from fragmented energy infrastructure to gaps in regulation and policy. These obstacles limit available solutions, and make some financially unviable.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 22,
+      "text": "It is too early to determine the impact of such\nchallenges on our ability to achieve our goals. Despite\nthis, we remain steadfast in our ambitions and will\ncontinue to engage with policymakers to advocate for\nremoving barriers to decarbonisation and explore\ninnovative solutions with our partners.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 23,
+      "text": "Establishing the foundations to scale  \nScope 3 reductions  \nWe aim to reduce Scope 3 emissions by collaborating with strategic suppliers to facilitate the transition to renewable energy, low-carbon technologies, circular packaging and sustainable agricultural practices. Our updated Scope 3 strategy focuses on our largest emissions sources – agriculture and packaging – alongside enhancing supplier capabilities and fostering partnerships.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 24,
+      "text": "1 Net zero is defined by SBTI as reducing a minimum of 90% of emissions across Scope 1, 2 and 3. The residual emissions (maximum of 10%) must be neutralised with permanent carbon removal solutions.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 25,
+      "text": "² Based on the SBTi definition, we have defined our 2030 goal as a 90% emissions reductions across Scope 1 and 2. A maximum of 10% residual emissions that cannot be eliminated otherwise must be covered with permanent carbon removal and storage solutions.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 26,
+      "text": "Decarbonising Scope 3 is complex, with challenges\nincluding inconsistent emission methodologies and\ndata quality. While we are making progress, there is\nmuch work still to do.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 27,
+      "text": "In 2024, we reduced Scope 3 emissions by 14% with a contribution from both agricultural and energy-based emissions (FLAG 23% and non-FLAG 11%) compared to the 2022 baseline. The integration of our recent acquisitions in South Africa and India have reshaped our raw material portfolio, using more apples for cider in South Africa and more rice in India. This new portfolio has a lower carbon intensity and contributes greatly to reducing our FLAG emissions. In contrast, integrating these businesses increased packaging emissions, affecting our non-FLAG results. Our packaging supplier decarbonisation programme has softened the impact of these integrations.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 28,
+      "text": "Through the Supplier Leadership on Climate Transition\n(\"Supplier LOCT\") initiative, we have successfully\nequipped suppliers to set Science-Based Targets. To\ndate, 56 suppliers have established targets, with an\nadditional 18 suppliers joining the program in 2024.\nWe launched the REfresh Alliance with 10 beverage\ncompanies to support suppliers in accelerating the\nadoption of renewable electricity.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 29,
+      "text": "For agriculture, the third season of our low-carbon farming programme saw almost 300 projects underway, trialling sustainable practices around cover cropping, no-tillage, organic matter use, and seed and fertiliser application. Recognising the potential of low-carbon fertilisers, we provided strategic guidance to FertigHy for its upcoming plant in France. Project Transitions – our first large-scale regenerative agriculture programme with Malteurop Vivescia – will supply its first barley to the French market in 2025.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 30,
+      "text": "Currently involving 200 farmers, the project will\nmeasure its impact through key indicators focused\non carbon emissions, soil health and resilience, and\nbiodiversity. We are working with our suppliers to\ncomply with SBTi FLAG guidance.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 31,
+      "text": "For packaging, we are launching initiatives to support glass and aluminium suppliers with site-specific roadmaps focused on energy efficiency and renewable energy. We are increasing the recycled content in our glass and cans to reduce carbon emissions. In 2024, we conducted six decarbonisation workshops with strategic glass suppliers and mapped over 100 initiatives across Europe, Americas and Africa & Middle East.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 32,
+      "text": "We also continue to engage in industry initiatives like the Coalition to advance refrigeration standards and promote energy efficiency. In logistics, we partnered with Einride to deploy our first cross-border electric freight journey powered by renewable electricity. Scaling such partnerships across our global operations remains a challenge.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 33,
+      "text": "Laying the groundwork for carbon removals\nAchieving net zero will require access to high-\nintegrity carbon removals. These solutions take\ncarbon directly out of the atmosphere and store it in\na durable way, addressing residual emissions we\ncannot otherwise eliminate. In 2024, we did not\npurchase carbon removals but focused on assessing\nopportunities on our own land, with our agricultural\nsuppliers and third-parties. We will continue to\nevaluate emerging standards and implement\nconsistent practices across the business, securing\ncarbon removals through a mix of insetting projects\nand external carbon credits.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 34,
+      "text": "Summary : This image shows a large industrial facility with extensive solar panel arrays installed on its rooftops, accompanied by a banner promoting the Net Zero programme and external partners.\n\nphoto:\nScene Overview :\n  • The main subject is an aerial view of an industrial complex with multiple large buildings.\n  • The rooftops are almost entirely covered with blue solar panels arranged in a grid pattern.\n  • The setting includes adjacent roads, parked vehicles, and some greenery in the background.\n  • The image is brightly lit, suggesting daytime with clear visibility.\n  • A banner in the upper left corner reads: \"Read more about the Net Zero programme and our external partners\".\n\nTechnical Details :\n  • No scale bar or magnification is present.\n  • The image includes overlaid text but no other UI elements.\n\nSpatial Relationships :\n  • The solar panels dominate the central and lower portions of the image.\n  • Industrial tanks and structures are visible in the upper left.\n  • Roads and vehicles are seen at the top and right edges, providing context for the facility's location.\n\nAnalysis :\n  • The image visually emphasizes the facility's commitment to renewable energy through large-scale solar panel installation, aligning with the Net Zero programme mentioned in the banner.\n  • The extensive coverage of solar panels suggests a significant investment in sustainability.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 35,
+      "text": "Summary : This is a promotional photograph illustrating a person standing in a lush green agricultural field, holding tall stalks of a crop, with a small orange flag marking a spot in the field. The image is used to promote a regenerative agriculture programme called \"Transitions.\"\n\nphoto:  \nScene Overview : \n  • Main subject is a person standing in a dense, green field of crops, holding several stalks in their hands.\n  • The setting is outdoors, with a backdrop of trees lining the left side and a clear sky above.\n  • The perspective is at eye level, showing the subject from the waist up.\n  • The composition places the person slightly to the right of center, with a small orange flag on a white pole to the left.\n  • The lighting is natural daylight, and the colour palette is dominated by vibrant greens and yellows.\n\nTechnical Details : \n  • No scale bar or magnification is present.\n  • On-image text at the bottom reads: \"Read more about our regenerative agriculture programme Transitions.\"\n  • A green, semi-transparent graphic element overlays the lower right corner.\n\nSpatial Relationships : \n  • The person is in the foreground, with the field extending into the background.\n  • The orange flag is positioned to the left of the person, marking a specific spot in the field.\n  • The background includes a line of trees on the left and open field on the right, creating depth.\n\nAnalysis : \n  • The image visually emphasizes sustainable agricultural practices and field research, with the orange flag suggesting a marked plot or experimental area. The promotional text and green overlay reinforce the theme of regenerative agriculture and environmental stewardship.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

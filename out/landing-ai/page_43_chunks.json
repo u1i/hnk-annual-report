@@ -1,0 +1,278 @@
+{
+  "source_file": "page_43.pdf",
+  "page_number": 43,
+  "processed_at": "2025-07-30T13:40:59.885831",
+  "total_chunks": 18,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "43\n\nHeineken\nN.V.\nAnnual\nReport\n2024\n\nIntroduction\n\nReport\nof the\nExecutive\nBoard\n\nReport\nof the\nSupervisory\nBoard\n\nFinancial\nStatements\n\nSustainability\nStatements\n\nOther\nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Risk management",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Reporting\n\nWhat could happen?\nDeviations from the common reporting processes and related controls could impair the accuracy of financial and non-financial data used for Group reporting and external communications.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Recent developments  \nExternal non-financial reporting requirements are changing fast. Developments in CSRD are closely monitored and when effective, being embedded in the control environment. As of 1 January 2024, HEINEKEN is reporting in compliance with CSRD, having related governance, reporting processes and controls in place.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "What are we doing to manage this risk?\nHEINEKEN is utilising enhanced techniques and technology to continue to drive the improvement and standardisation of its reporting processes and controls and to harmonise its system landscape.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "HEINEKEN implemented a common framework across its operating companies which includes Internal Control over Financial Reporting, Common Accounting Policies, Standard Chart of Accounts and periodic mandatory training. The related assurance model includes active monitoring of control execution, critical access and segregation of duties.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Starting in 2023, the internal controls framework and assurance model have been expanded to cover CSRD reporting. Controls related to in scope metrics were deployed and active monitoring of their effectiveness is being implemented. Moreover, HEINEKEN continues to strengthen the governance, reporting procedures and control framework of the Brew a Better World programme, and the new regulatory non-financial reporting frameworks like CSRD, to further improve the monitoring over the quality of the reported data.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Explore further: Notes to the Consolidated\nFinancial Statements, pages 85–131. Sustainability\nStatements, pages 138–285.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "Non-compliance\n\nWhat could happen?\nChanges in the legal and regulatory environment tend to increase the risk of non-compliance with local and global laws and regulations. Failure to comply with applicable laws and regulations could lead to enforcement, fines, civil (damage) claims and reputational damage. Across many geographies, law enforcement has increased over the past years, in particular with regard to anti-bribery and corruption, competition and data privacy laws. This leads to increased risk of allegations of violations of laws and regulations by law enforcers as well as by private parties.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "Recent developments\nIn respect of alleged competition law violations, there is an increasing trend of private parties pursuing civil claims for damages. In addition to these trends, continuously expanding sanctions and export controls are posing increased compliance risks.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "What are we doing to manage this risk?\nHEINEKEN is constantly looking to enhance its internal compliance system and resilience to adapt to changes in the legal environment.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "HEINEKEN has embedded legal compliance in its risk and controls system and has established processes and governance to drive implementation and compliance with the Company Rules and the HEINEKEN Code of Business Conduct. Our anti-corruption and sanctions compliance framework includes due diligence and ongoing monitoring of business partners, as well as screening of transactions against sanctions lists. Our focus on competition law training and compliance has increased, including new training initiatives which have been launched in tandem with the sales function.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "💡 Explore further: Corporate Governance statement, pages 49–57",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "Climate risks\n\nWhat could happen?\nClimate changes could negatively impact the availability of natural resources such as water and agricultural commodities which can lead to interruption of production and loss of revenue. In addition, HEINEKEN will be impacted by carbon taxation.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "Recent developments\nOur Brew a Better World 2030 strategy, announced in 2021 and updated in 2024, raises the bar on HEINEKEN’s environmental, social and responsible consumption ambitions. The strategy underpins our focus on climate action and translates our ambition into goals and action plans to reduce emissions, maximise circularity and restore healthy functioning watersheds.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "The implementation of the ‘Task Force on Climate-related Financial Disclosures (TCFD)’ framework, which is now linked to CSRD’s reporting standards for climate, supported us in defining the climate-related risks that are more significant for our business. These are: the impact of carbon pricing on our value chain and own operations, water stress impact on our own operations and climate-related barley yield losses. Our first disclosure following TCFD recommendations was included in the Annual Report 2022. In 2023, we engaged with two of our markets, Brazil and the UK, to validate the risks quantified in those markets. We have also reviewed and updated key parameters included in our model with the support of our internal global experts and external experts.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 17,
+      "text": "What are we doing to manage this risk?\nWe understand the impact of climate change on the natural resources we use and we collaborate with stakeholders and suppliers to secure their supply and protect our licence to operate. We continue to focus on delivering our water strategy to protect the watersheds from which we source our water and build resilience to water availability. In parallel, we are adapting our processes, materials, and sourcing/production regions to create the agility required to ensure continuity of supply and we are reducing carbon emissions in line with our net zero carbon strategy across the value chain.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 18,
+      "text": "💡 Explore further: Sustainability Statements - Climate change section, pages 167–181",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

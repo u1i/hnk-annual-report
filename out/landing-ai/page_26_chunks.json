@@ -1,0 +1,83 @@
+{
+  "source_file": "page_26.pdf",
+  "page_number": 26,
+  "processed_at": "2025-07-30T13:34:55.359549",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "26\n\nHeineken\nN.V.\nAnnual\nReport\n2024\n\nIntroduction\n\nReport\nof the\nExecutive\nBoard\n\nReport\nof the\nSupervisory\nBoard\n\nFinancial\nStatements\n\nSustainability\nStatements\n\nOther\nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Summary : This is a professional photograph of a woman standing in front of a bar counter with beer taps, accompanied by a quote about AI integration at HEINEKEN and attribution to Andrea Diebold, Head of Global Analytics Products.\n\nphoto:\nScene Overview :\n  • Main subject: A woman in business attire (black blouse, light pants) standing with hands clasped in front of a bar counter.\n  • Setting: Modern bar area with multiple beer taps (including IPA, Heineken Silver, and others), glassware hanging above, and a display of green bottles in the background.\n  • Perspective: Eye-level, subject centered in the frame.\n  • Composition: Subject in the foreground, bar counter and taps as midground, glassware and decor as background.\n  • Lighting: Bright, even lighting highlighting both the subject and the bar area.\n  • Colour palette: Dominated by neutral tones (black, white, metallic) with green accents from the Heineken branding and bottles.\n\nTechnical Details :\n  • On-image text: Large quote in white font overlaid on the lower half of the image, discussing AI integration at HEINEKEN.\n  • Attribution: \"Andrea Diebold Head of Global Analytics Products\" in smaller text below the quote.\n  • No scale bar or scientific measurement present.\n\nSpatial Relationships :\n  • Subject positioned slightly left of center, with beer taps and branding clearly visible to the right.\n  • Foreground: Subject and bar counter.\n  • Background: Hanging glassware, beer taps, and green bottle display.\n  • Rule-of-thirds: Subject’s head and upper body occupy the left and central vertical thirds; beer taps and branding occupy the right third.\n\nAnalysis :\n  • The image is designed to convey professionalism, innovation, and brand identity, with a focus on AI-driven transformation at HEINEKEN. The prominent display of beer taps and branding reinforces the company context, while the quote and attribution highlight leadership in analytics and AI.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Business priority  \nBecome the best-connected brewer  \nWe’re continuing to increase our investment in digital transformation to build a future-proof company. To become the best-connected brewer, HEINEKEN needs to digitalise its route-to-consumer, unlock the value of data, simplify and automate end-to-end processes, build a secure and modern technology landscape, and create a digitally enabled organisation.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "This year we’ve successfully gone live with our Digital Backbone – our biggest ever digital transformation – which enables us to standardise and modernise our business and ways of working.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Read more about how AI is building our brands and winning market share",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

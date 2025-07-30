@@ -1,0 +1,323 @@
+{
+  "source_file": "page_31.pdf",
+  "page_number": 31,
+  "processed_at": "2025-07-30T13:37:00.050021",
+  "total_chunks": 21,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "31\n\nHeineken\nN.V.\nAnnual\nReport\n2024\n\nIntroduction\n\nReport\nof the\nExecu",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Board\n\nReport\nof the\nSupervisory\nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Financial  \nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Sustainability\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Other  \nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "flowchart:  \n- Upward green triangle (arrowhead)  \n- Downward green triangle (arrowhead)  \n- Three horizontal green lines (menu or list icon)  \n- Green circular arrow (refresh or undo icon)  \nReading order: Upward arrow → Downward arrow → Menu icon → Circular arrow.  \nThis flowchart consists of four vertically stacked icons representing navigation (up/down), a menu, and a refresh/undo action.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Unlock the full potential of our people",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Strengthening our winning culture\n\nWe continue to evolve and improve our culture across the business as an enabler of all aspects of our EverGreen strategy.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "At our head office, where global functions converge,\nfostering a strong, collaborative culture is vital. To\naddress the challenges of hybrid working, siloed\nthinking and people with diverse experiences coming\ntogether, we launched the Together We Thrive\nHandshakes programme. Through focused two-hour\nworkshops, teams define and commit to a purpose,\nprinciples and concrete ways of working. Since its\nlaunch, nearly 1,300 people across more than 100\nteams have participated, reporting improvements\nin collaboration, wellbeing and work–life balance\nas well as a stronger sense of identity across\nhead office.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "Elsewhere, we introduced the ‘Climate Winning Recipe’ initiative, a set of best practice guidelines designed to help management teams operate as one and inspire their people. By consolidating insights from operating companies worldwide into a clear and actionable ‘recipe’ format, the initiative builds trust, unity and shared purpose.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "Though still in its early stages, the programme\nreflects our commitment to empower our leaders to\nbuild winning teams where everyone thrives.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "These efforts contributed to a positive, healthy and future-ready culture, as reflected in our 2024 climate survey. With more than 74,000 employees across 85 operating companies participating, we achieved a 92% response rate. The results outperformed external benchmarks, with 90% of employees expressing pride in working at HEINEKEN and an employee engagement score of 86%. Further recognition came in October, when Forbes named us the world’s best employer in the food, beverages, alcohol and tobacco industry.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "Talent and leadership development  \nWe’re committed to cultivating exceptional leaders that unlock the full potential of our people to deliver on our EverGreen strategy. In 2024, we took bold steps to expand and democratise access to formal leadership development programmes, scaling these initiatives to benefit more than 16,000 participants with a truly global offering.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "Flagship programmes like the Heineken\nInternational Management Course (HIMAC),\nACCELERATE and Women Interactive Network\n(WIN) continued to equip senior and middle\nmanagers with the skills they need to drive progress.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "We launched two new initiatives in 2024: LEAD, our Global People Manager programme; and HEINEKEN’s Women’s Summit, a development programme for our senior female leaders.\nPreparations were also underway for an additional offer. Having reflected on the successes of Thrive, an 18-month programme aimed at our top 160 leaders, Thrive Forward will take its learnings to management teams worldwide in 2025.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "These initiatives are working. Our research suggests participants are 33% more likely to be retained in the business and twice as likely to be promoted versus peers. They’ve also earned external recognition, including two prestigious Brandon Hall Group Human Capital Management Excellence Awards: one for Best Learning Program Supporting a Change Transformation Business Strategy (HIMAC) and another for Best Leadership Development for Women (WIN).",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 17,
+      "text": "Unleashing diverse talent  \nNurturing an inclusive and equitable environment where all employees can thrive is good for our business as it helps make sure our brands reflect and communicate authentically with our diversifying consumer base.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 18,
+      "text": "We launched Queenfisher in India, an initiative developed by an all-female team to celebrate sisterhood. Alongside a new beer with fresh packaging, we created safe spaces for honest conversations about female empowerment. Elsewhere, Strongbow took further steps towards becoming the UK’s most inclusive cider. Supporting the Heineken Open & Proud (HOP) network, it introduced Pride-inspired packaging and hosted activations that resonated with a new generation of diverse consumers.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 19,
+      "text": "Meanwhile, 66% of management team roles in our operating companies are now held by local talent, demonstrating our focus on making sure teams reflect the markets, customers and consumers we serve. Cultural diversity is a cornerstone of our strategy, and a new global graduate programme is part of a range of efforts that are helping attract and develop the next generation of talent from increasingly diverse backgrounds.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 20,
+      "text": "Lastly, advancing gender balance remains a key priority. Initiatives like WIN and Women in Sales are supporting our 2025 goal of 30% women in senior management one year ahead of schedule.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 21,
+      "text": "Summary : This is a composite promotional photo collage showing diverse employees in various work settings, highlighting gender balance and inclusion initiatives in a corporate environment.\n\nphoto:  \nScene Overview :  \n  • The image is a collage of five photographs featuring individuals in different professional contexts.  \n  • The backgrounds include industrial, office, and casual settings, with people wearing uniforms or business attire.  \n  • The color palette is dominated by greens, yellows, blues, and neutral tones, with a green wave graphic overlay unifying the collage.  \n  • Lighting is bright and even, suggesting a professional or staged environment.  \n\nTechnical Details :  \n  • No scale bar or magnification is present.  \n  • No on-image UI elements or text overlays, except for the green wave graphic and a visible Heineken can in one photo.  \n  • The collage is integrated with a block of text in the upper right, discussing gender balance and specific initiatives (WIN and Women in Sales) with a 2025 goal of 30% women in senior management.  \n\nSpatial Relationships :  \n  • The largest photo is on the left, showing a woman holding a microphone.  \n  • Two central images show employees in green/yellow and green uniforms in what appears to be a factory or warehouse.  \n  • The top center image features a man in an orange shirt holding a can and a plate of food.  \n  • The top right image shows a woman in a blue shirt holding a can.  \n  • The bottom right image depicts a business meeting with four people at a table, notebooks and a laptop visible.  \n  • The green wave graphic visually connects all images, creating a sense of unity.  \n\nAnalysis :  \n  • The collage visually reinforces the accompanying text’s message about diversity, inclusion, and gender balance in the workplace.  \n  • The use of different uniforms and settings suggests a range of roles and departments, from production to office work.  \n  • The green wave graphic and consistent color palette create a cohesive, branded look, likely associated with a company focused on sustainability or beverages (as suggested by the Heineken can).  \n  • The composition places emphasis on teamwork, gender diversity, and a positive, collaborative work environment.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

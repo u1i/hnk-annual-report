@@ -1,0 +1,368 @@
+{
+  "source_file": "page_23.pdf",
+  "page_number": 23,
+  "processed_at": "2025-07-30T13:33:47.158334",
+  "total_chunks": 24,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "23",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Heineken  \nN.V.  \nAnnual  \nReport  \n2024",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Introduction",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Report\nof the\nExecutive\nBoard\n\nReport\nof the\nSupervisory\nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Financial\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Sustainability\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Other\nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "flowchart:  \n- Upward green triangle (arrowhead)  \n- Downward green triangle (arrowhead)  \n- Three horizontal green lines (menu icon)  \n- Green circular arrow (undo/refresh icon)  \nThe flowchart consists of four vertically stacked icons: an upward arrow, a downward arrow, a menu icon, and a refresh/undo arrow, each representing a possible navigation or action control.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "Raise the bar on sustainability and responsibility",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "A fair and safe workplace\nWe are dedicated to maintaining a fair and safe workplace for our employees and those of third parties. In 2023, we achieved our goal of having 100% of employees earning a fair wage, according to the Fair Wage Network. Ensuring a fair wage is a dynamic and ongoing process, as the cost of living and other economic factors can change. We therefore assess wages across all operating companies against the Fair Wage Network annually.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "In 2024, we assessed 99.2% of our employees against the Fair Wage Network benchmark. Our findings indicated that 99.7% of the assessed employees earned at least a fair wage, with the remaining 0.3% being located in Singapore.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "Our investigation revealed that the wage increase proposed by the Fair Wage Network for Singapore in 2024 significantly surpassed changes in the consumer price index and other relevant indicators. Consequently, some HEINEKEN employees who had earned above the Fair Wage Network amount in 2023 fell below it in 2024. To ensure fair compensation, we conducted an additional benchmark analysis using Singapore’s Progressive Wage Model, which was developed by a tripartite committee consisting of unions, employers and the Singapore government. This confirmed that 100% of our employees earn a fair wage according to this model.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "Moving forward, our goal remains to continue assessing our entire workforce and ensure all our employees worldwide earn a fair wage.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "Extending our efforts beyond employees, we continue to work towards our goal to create fair living and working standards for third-party employees and Brand Promoters by 2030. 43% of operating companies have now been assessed for compliance with our global standards for third-party employees and Brand Promoters. In 2024, we continued to expand the programme beyond the Africa & Middle East and Asia Pacific regions, assessing several operating companies in the Americas and Europe region in line with our goal to have all operating companies in scope globally assessed.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "Our Health and Safety strategy is focused on shaping a proactive safety culture. We are committed to doing the utmost to ensure that every one of our colleagues and contractors returns home safely every day. We deeply regret that two people lost their lives while working for us in 2024 (2023: 3). An independent investigation team thoroughly investigates every fatality to identify and understand the root cause. We take action to prevent recurrence and share learnings, with corrective and improvement actions followed up until closure.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "Several activities were carried out to shape a leading health and safety culture in 2024. We launched and implemented the Hearts and Minds programme, aiming to enable operating companies to assess their current safety cultural level, identify gaps and develop improvement plans to close them. We also continued with the regional turnaround programme, launched in 2023, as an immediate call to action to improve safety performance where it is needed most. The measures we took helped improve our Total Recordable injury Rate (TRR) for employees and temporary workers from 1.2 per 200,000 hours worked in 2023 to 0.9 in 2024.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 17,
+      "text": "Delivering positive impact in our communities\nWith operations spanning the globe, our local presence makes an important social impact. As a major employer and purchaser of raw materials, our biggest contribution to social and economic well-being is through our core business – the jobs we create, the businesses we support and the taxes we pay. We contributed over €15.6 billion in taxes, including excises, in 2024. More details on our tax approach is available on our company website.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 18,
+      "text": "Many of our Brew a Better World goals, such as\nensuring a fair wage and protecting local watersheds\nand nature, directly impact local communities. In\nAfrica, our efforts to increase local sourcing of\nagricultural ingredients have created jobs, supported\nthe development of the agricultural sector and\nimproved the lives of rural communities. Our\napproach covers 33 value chains across 12 operating\ncompanies. In 2024, 61.7% of agricultural\ningredients were purchased locally with a total value\nof over €300 million.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 19,
+      "text": "Social impact initiatives  \nIn 2024, 100% of our markets in scope had a social impact initiative in place (2023: 100%), investing over €6 million in total. To increase our impact, we have refined our strategy to focus on the three key areas where we believe we can make the most difference.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 20,
+      "text": "- These areas align with our purpose and business, while addressing needs in our communities:\n\n- Joy of True Togetherness: Promote and encourage the power of human connections to foster social cohesion.\n\n- Access to Employment: Help underserved communities access decent jobs and economic opportunities.\n\n- Water for our Communities: Support access to safe water for communities where needed.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 21,
+      "text": "Worlds Together is HEINEKEN’s grassroots social impact campaign. In collaboration with the Social Gastronomy Movement, we bring people from diverse backgrounds together over beer and food to break down barriers and build mutual understanding, one conversation at a time. We expanded the initiative to 16 markets in 2024.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 22,
+      "text": "In the UK, HEINEKEN partnered with the Marmalade Trust to raise awareness of loneliness, while highlighting the role of pubs as community hubs that bring together people from all walks of life.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 23,
+      "text": "Our partnership with Orange Corners is now active in seven African countries: Burundi, Côte d’Ivoire, the DRC, Egypt, Mozambique, Nigeria and South Africa. Initiated by the Dutch Ministry of Foreign Affairs and managed by the Netherlands Enterprise Agency (RVO), this initiative supports young entrepreneurs with training, mentorship, funding and facilities to start and grow businesses that contribute to more inclusive and prosperous societies.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 24,
+      "text": "Summary : This composite image features two photographs related to a Heineken event or campaign, showing a large communal meal and a group of three people posing at a branded venue.\n\nphoto:  \nScene Overview : \n  • The left photo shows a long table set outdoors, with many people seated on both sides, engaged in conversation and dining. The table is decorated with flowers and tableware, and the setting appears festive and communal.\n  • The right photo depicts three individuals standing together indoors at a Heineken-branded event space, with a green Heineken sign visible above them and purple lighting in the background. The individuals are dressed in business or semi-formal attire, with one person in a bright pink outfit.\n  • A green and white overlay at the bottom right contains the text: \"Read more about HEINEKEN’s Worlds Together impact campaign.\"\n\nTechnical Details : \n  • No scale bar or magnification is present.\n  • The Heineken logo and branding are visible in the right photo.\n  • The overlay text is clearly legible.\n\nSpatial Relationships : \n  • The left photo is positioned above and to the left, showing a wide, communal scene with a strong sense of depth and perspective along the table.\n  • The right photo is more tightly cropped, focusing on the three individuals in the foreground with the branded background behind them.\n  • The two images are visually connected by a green, wave-like graphic element that runs across the bottom of the composite.\n\nAnalysis : \n  • The images collectively convey themes of community, social gathering, and corporate social responsibility, likely in the context of a Heineken impact campaign. The juxtaposition of a large communal meal and a branded event setting suggests both grassroots and formal engagement.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "source_file": "page_46.pdf",
+  "page_number": 46,
+  "processed_at": "2025-07-30T13:42:56.655822",
+  "total_chunks": 15,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "46\n\nHeineken N.V.\nAnnual Report 2024\n\nIntroduction\n\nReport of the Executive Board\n\nReport of the Supervisory Board\n\nFinancial Statements\n\nSustainability Statements\n\nOther Information",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "# Financial review\n\n## Operating profit\n\nOperating profit landed at €3.5 billion (2023: €3.2 billion), higher than previous year due to strong organic profit growth and lower exceptional items.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Operating profit (beia) grew organically by 8.3% with growth delivered across all four regions. Improved portfolio mix, pricing, and productivity savings more than offset inflationary pressures in our cost base and funded incremental investments to support the power of our brands and our digitalisation and sustainability agendas. Currency translation negatively impacted operating profit (beia) by €236 million, or 5.3%, mainly due to the devaluation of currencies in emerging markets particularly the Nigerian Naira.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Summary : This figure is a waterfall chart showing the reconciliation of operating profit from FY 2023 to FY 2024, including the impact of organic growth, currency translation, consolidation, and EIA adjustments, with both \"beia\" and IFRS profit measures.\n\nwaterfall chart:\n# Title & Axes :\n  • No explicit title shown.\n  • X-axis: Sequential categories—FY 2023 Operating profit beia, Organic growth, Currency translation, Consolidation impact, FY 2024 Operating profit beia, Eia, FY 2024 Operating profit IFRS.\n  • Y-axis: Not explicitly labeled; values are in numeric units (likely millions).\n\n# Data Points :\n  • FY 2023 Operating profit beia: 4,443\n  • Organic growth: +367\n  • Currency translation: –236\n  • Consolidation impact: –62\n  • FY 2024 Operating profit beia: 4,512\n  • Eia: –995\n  • FY 2024 Operating profit IFRS: 3,517\n\n# Design Encodings :\n  • Positive values (bars) shown in dark green; adjustments (organic growth, Eia) in light green.\n  • Negative adjustments (currency translation, consolidation impact) shown as negative values in parentheses.\n  • Sequential left-to-right layout, with each step building on the previous total.\n\n# Distribution & Trends :\n  • The chart starts at 4,443 and ends at 3,517.\n  • Organic growth is positive, but currency translation and consolidation impact are negative.\n  • Eia adjustment is a large negative value before arriving at the final IFRS profit.\n\n# Analysis :\n  • Operating profit beia increased slightly from FY 2023 to FY 2024 (from 4,443 to 4,512), mainly due to organic growth, partially offset by negative currency and consolidation impacts.\n  • The Eia adjustment is a significant negative factor, reducing the FY 2024 profit from 4,512 (beia) to 3,517 (IFRS).\n  • The largest single negative adjustment is the Eia, while organic growth is the main positive contributor.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Net finance expenses  \nNet interest expenses increased 3.6% to €570 million (2023: €550 million).\n\nNet interest expenses (beia) increased organically by 12.7% to €543 million primarily due to higher interest expenses in Nigeria. The average effective interest rate (beia) in 2024 was 3.5% (2023: 3.4%).",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Other net finance expenses decreased by 37.3% to €235 million (2023: €375 million).",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Other net finance expenses (beia) increased organically by 12.1% to €271 million, mainly caused by transactional foreign currency effects resulting from the devaluation of the Nigerian Naira and Ethiopian Birr, and depreciation of the Brazilian Real and Mexican Peso.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Share of profit of associates and joint ventures  \nThe share of profit of associates and joint ventures decreased to a loss of €705 million (2023: €218 million profit) and includes the attributable profit from China Resources Beer (Holdings) Co. Ltd. (CR Beer) with a two-month delay (November 2023 to October 2024) and the impairment of €874 million of HEINEKEN's investment in CR Beer taken during the first half of this year.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "Share of profit of associates and joint ventures (beia) amounted to €312 million, an organic increase of 16.7% reflecting the strong profit growth of our associate and joint venture partners in Chile, Costa Rica, and China.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "Income tax expense  \nTotal income tax expense increased from €121 million in 2023 to €846 million in 2024. As a result, the reported effective tax rate increased from 5.2% to 31.2%. Last year’s income tax expense included a significant one-off benefit for the recognition of previously unrecognised deferred tax assets in Brazil.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "The effective tax rate (beia) was 27.9% (2023: 26.8%). The increase is primarily due to the tax law changes in Brazil that came into effect on 1 January 2024.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "Net profit\n\nNet profit was €1.0 billion (2023: €2.3 billion). The decrease is due to the impact of exceptional items and amortisation of acquisition related intangibles on net profit which increased to €1,761 million (2023: €329 million), mainly caused by the non-cash impairment of our investment in China Resources Beer in the first half of the year.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "Net profit (beia) increased organically 7.3% to €2.7 billion (2023: €2.6 billion), with the growth coming mainly from the strong performance in operating profit. Higher profits from associates and joint ventures including CCU in Chile, FIFCO in Costa Rica, and China Resources Beer, were more than offset by higher financing and tax expenses.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "Earnings per share – diluted\n\nEarnings per share – diluted decreased to 1.74 (2023: 4.09). Earnings per share – diluted (beia) decreased by 4.7% from €4.67 to €4.89.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "- **Exceptional items and amortisation of acquisition-related intangibles (eia)**\n- The 2024 exceptional items and amortisation of acquisition-related intangibles on net profit and loss amount to €1,761 million net expense (2023: €329 million net expense). This amount consists of:\n  - €337 million of amortisation of acquisition-related intangibles in operating profit (2023: €385 million).\n  - €658 million net exceptional expense (2023: €829 million, net expense) recorded in operating profit.  \n    This includes:\n    - A net impairment of €305 million recorded in amortisation, depreciation and impairments, including impairment of €158 million for Haiti (2023: €683 million, net impairment).\n    - Net restructuring expenses recorded in personnel expenses of €96 million (2023: €130 million).\n    - €59 million net exceptional expense relating to hyperinflation accounting adjustments (2023: €50 million, net expense), of which €87 million expense recorded in revenue (2023: €55 million, income), €28 million income in raw materials consumables and services (2023: €69 million, expense), €3 million expense in amortisation, depreciation and impairments (2023: €32 million, expense) and €3 million income in personnel expenses (2023: €4 million, expense).\n    - €198 million of other net exceptional expenses, mainly relating to the disposal and closure of breweries (2023: €8 million, net benefits).\n  - €8 million of net exceptional finance benefits, mainly related to €73 million of net exceptional benefit related to the net monetary gain resulting from hyperinflation, and €65 million other exceptional net finance expenses (2023: €30 million, net exceptional finance benefit).\n  - €1,017 million of net exceptional expense included in the share of profit of associates and joint ventures, mainly relating to impairment of the investment in CR Beer of €874 million (2023: €52 million, net expense).\n  - €184 million of net exceptional benefit in income tax expense, mainly related to the tax benefit on exceptional items and amortisation of acquisition-related intangibles (2023: €831 million of net exceptional benefit).\n  - Total amount of eia allocated to non-controlling interests amounts to €59 million, net benefit (2023: €136 million, net benefit).",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

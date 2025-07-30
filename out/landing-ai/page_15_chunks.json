@@ -1,0 +1,218 @@
+{
+  "source_file": "page_15.pdf",
+  "page_number": 15,
+  "processed_at": "2025-07-30T13:31:06.463126",
+  "total_chunks": 14,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "15\n\nHeineken\nN.V.\nAnnual\nReport\n2024\n\nIntroduction\n\nReport\nof the\nExecutive\nBoard\n\nReport\nof the\nSupervisory\nBoard\n\nFinancial\nStatements\n\nSustainability\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Other\nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "flowchart: \n- Upward green triangle (arrowhead) at the top\n- Downward green triangle (arrowhead) below\n- Three horizontal green lines (menu or hamburger icon) below the arrows\n- Green circular arrow (refresh or undo icon) at the bottom\n\nThe diagram shows a vertical sequence of four green icons: up arrow, down arrow, menu, and refresh, each spaced apart, likely representing navigation and action controls in a user interface.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Shape the future of beer and beyond",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Stretching beyond beer  \nIn 2024, we continued to make strategic investments and expand our portfolio of refreshing brands beyond beer, particularly in markets where beer faces challenges or where significant growth potential exists. This strategy reflects shifting consumer preferences and evolving drinking behaviours, largely driven by Gen Z.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Red Stripe, for example, tapped into their heritage to stretch beyond beer with the expansion of Rum Stripe beyond the US and Jamaica to the UK.  \nBuilding on its successful launch in Vietnam and Singapore in 2023, Tiger Soju expanded into yet more markets in 2024.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Following our investment in 2023, UK-based ready-to-drink (RTD) brand SERVED introduced premium cocktails and broadened its on and off-trade distribution. We also acquired a small minority stake in Netherlands-based STËLZ, whose low-calorie hard seltzers and spirit mixers resonate with Gen Z consumers. Additionally, a small investment in G Spot, a startup founded by actress Gillian Anderson offering alternatives to traditional wellness brands, is helping us learn about the evolution of functional beverages in the UK.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "With an eye on the future, we launched a Beyond Beer incubation hub in the UK to nurture and grow our Beyond Beer portfolio through separate sales and marketing channels. This unit has already introduced Desperados Cocktails and Rum Stripe in select London channels.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "Cider returns to growth\nAfter years of decline, the cider category is back on track, closing 2024 at 8mhl – up organically 2% year-on-year. Momentum was strong in South Africa, Mozambique, Ireland, Spain and the Czech Republic.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "In the UK, our cider portfolio continued to grow, powered by the success of Inch’s and Old Mout. In South Africa, our cider portfolio outperformed the category thanks to the exceptional performance of Savanna. Innovations including the launch of a premium, whisky-flavoured cider, Savanna Neat, further solidified our leadership position. We successfully pushed the boundaries of the cider category in Spain, with Ladrón de Verano contributing significantly to growth.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "Summary : This image presents a professional headshot of a man in business attire, accompanied by a quote attributed to Bram Westenbrink, Chief Commercial Officer, discussing Heineken's strategy and achievements in premiumisation, innovation, and consumer experience.\n\nphoto:  \nScene Overview : \n  • The main subject is a man in a suit jacket and open-collared shirt, photographed from the chest up against a plain white background.\n  • The image is accompanied by a large block of green text, formatted as a quote, and a smaller attribution in black text below.\n  • The quote discusses Heineken's focus on premiumisation, creativity, quality, consumer connections, innovation (including 0.0 alcohol products), and expanding beyond beer to shape inclusive and rewarding experiences for consumers worldwide.\n  • The quote is attributed to Bram Westenbrink, Chief Commercial Officer.\n\nTechnical Details : \n  • The text is in green and black, with the quote in italics and the attribution in regular font.\n  • No scale bar, magnification, or scientific imaging details are present.\n  • The image is a standard professional portrait with centered composition.\n\nSpatial Relationships : \n  • The subject is centered, occupying the upper half of the image, with the quote and attribution below.\n  • The text is the primary focus, with the portrait providing context for the speaker.\n\nAnalysis : \n  • The image is designed to communicate a leadership message from Heineken's Chief Commercial Officer, emphasizing the company's strategic direction and achievements in product innovation and consumer engagement. The professional portrait and clear text layout reinforce the authority and credibility of the message.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "Summary : This image is a composite product photo showcasing several bottled cider beverages and a filled glass, highlighting different brands and flavors in a bright, lifestyle-oriented setting.\n\nphoto:\nScene Overview :\n  • Main subjects are bottles and glasses of cider, prominently featuring the brands \"Savanna,\" \"Inch's,\" and \"Strongbow.\"\n  • The \"Inch's RIVERSIDER\" cider is shown in a large, filled goblet-style glass with condensation, occupying the upper right.\n  • Two \"Savanna\" bottles (one with a lemon wedge in the neck) are positioned to the left of the glass, labeled \"Savanna Dry\" and \"Savanna Light.\"\n  • In the lower section, two \"Strongbow\" bottles (one yellow, one pink) are placed on a pink surface with a glass, fruit bowl, and decorative items.\n  • The background features a green, wavy graphic element, adding a fresh and vibrant feel.\n  • Lighting is bright and even, emphasizing the clarity and color of the beverages.\n\nTechnical Details :\n  • All bottles are glass, with visible condensation suggesting they are chilled.\n  • The \"Inch's\" glass is branded with white text and a riverside motif.\n  • \"Strongbow\" bottles are labeled \"Strongbow Gold Apple\" (yellow) and \"Strongbow Apple Rosé\" (pink).\n  • No scale bar or magnification; all items are shown at life size.\n\nSpatial Relationships :\n  • The \"Inch's\" glass dominates the upper right, with \"Savanna\" bottles to its left.\n  • The \"Strongbow\" products are grouped in the lower section, with the pink bottle in the foreground and the yellow bottle and glass behind.\n  • Decorative elements (fruit, ornaments) are placed around the \"Strongbow\" products, enhancing the lifestyle theme.\n\nAnalysis :\n  • The image is designed to showcase a variety of cider options in an appealing, refreshing context, emphasizing brand identity and product variety.\n  • The arrangement and condensation suggest the beverages are best enjoyed chilled and in a social or celebratory setting.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "Summary : This is a product photograph of a bottle of Old Mout Cider, specifically the \"Berries & Cherries\" flavor.\n\nphoto:\nScene Overview :\n  • The main subject is a single brown glass bottle of Old Mout Cider.\n  • The label is cream-colored with a green lower section and features images of berries and cherries at the top.\n  • The product name \"OLD MOUT CIDER\" is prominently displayed in large black letters, with \"Berries & cherries\" written above in smaller red and black text.\n  • There is a stylized kiwi bird graphic on the label.\n  • The bottle is upright, centered, and well-lit against a white background with a green diagonal accent at the bottom.\n\nTechnical Details :\n  • No scale bar or explicit size reference, but the bottle appears to be a standard cider bottle (approx. 500ml).\n  • No visible UI elements or digital overlays.\n\nSpatial Relationships :\n  • The bottle is the only object in the frame, occupying the central vertical axis.\n  • The label is fully visible and legible.\n\nAnalysis :\n  • The image is designed to showcase the product branding and flavor, with emphasis on the natural fruit ingredients and the Old Mout Cider brand identity.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "Summary : This image displays a product lineup of \"Ladrón\" branded beverages, including both canned and bottled drinks, as well as two served glasses, all arranged on a wooden surface in a brightly lit indoor setting.\n\nphoto:\nScene Overview :\n  • The main subjects are three \"Ladrón\" branded beverages: a tall can labeled \"Ladrón de Verano,\" a glass bottle labeled \"Ladrón de Manzana,\" and two glasses with the \"Ladrón\" logo, each filled with ice and garnished (one with a lime wedge).\n  • The setting appears to be a bar or restaurant, with a blurred, warm-toned background suggesting an inviting, casual atmosphere.\n  • The composition places the beverages in the foreground, centered and well-lit, with the background out of focus to emphasize the products.\n  • The color palette features warm ambers, reds, and golds from the drinks, contrasted with the white and black branding.\n\nTechnical Details :\n  • The can reads \"Ladrón de Verano\" with \"Verano Limón\" and \"con zumo de frutas y refresco de cítricos\" (with fruit juice and citrus soda), and displays images of citrus fruits.\n  • The bottle reads \"Ladrón de Manzana\" with \"Sidra\" (cider) and \"Manzana Original\" (original apple).\n  • Both glasses are filled with ice; one contains a reddish drink with a lime wedge, the other a golden drink.\n  • The \"Ladrón\" logo features a black fox silhouette and bold text.\n\nSpatial Relationships :\n  • The can is positioned to the left of the bottle, with the two glasses flanking the beverages on either side.\n  • All items are placed on a wooden surface, with the drinks and branding clearly visible in the foreground.\n  • The lime wedge garnish is on the leftmost glass, suggesting a citrus-based drink.\n\nAnalysis :\n  • The image is designed to showcase the variety and refreshing appeal of the \"Ladrón\" beverage line, highlighting both the packaging and the served drinks in a social, inviting context.\n  • The use of ice, garnishes, and condensation on the glasses emphasizes refreshment and summer enjoyment.\n  • The branding is consistently displayed across all products, reinforcing brand recognition.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

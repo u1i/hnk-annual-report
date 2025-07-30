@@ -1,0 +1,160 @@
+2025-07-30 13:25:48,038 - INFO - Starting PDF page-by-page processing
+2025-07-30 13:25:48,038 - INFO - Work directory: pdf_processing_20250730_132548
+2025-07-30 13:25:48,038 - INFO - Main log file: main_processing.log
+2025-07-30 13:25:48,038 - INFO - Step 1: Splitting PDF into individual pages
+2025-07-30 13:25:48,039 - ERROR - PyPDF2 not found. Installing...
+2025-07-30 13:25:49,780 - INFO - Splitting PDF: hnk_annual_report_2024 50 pages.pdf
+2025-07-30 13:25:49,812 - INFO - Found 50 pages in PDF
+2025-07-30 13:25:49,829 - INFO - Created: page_01.pdf
+2025-07-30 13:25:50,167 - INFO - Created: page_02.pdf
+2025-07-30 13:25:50,322 - INFO - Created: page_03.pdf
+2025-07-30 13:25:50,501 - INFO - Created: page_04.pdf
+2025-07-30 13:25:50,640 - INFO - Created: page_05.pdf
+2025-07-30 13:25:50,816 - INFO - Created: page_06.pdf
+2025-07-30 13:25:50,955 - INFO - Created: page_07.pdf
+2025-07-30 13:25:51,038 - INFO - Created: page_08.pdf
+2025-07-30 13:25:51,121 - INFO - Created: page_09.pdf
+2025-07-30 13:25:51,270 - INFO - Created: page_10.pdf
+2025-07-30 13:25:51,355 - INFO - Created: page_11.pdf
+2025-07-30 13:25:51,452 - INFO - Created: page_12.pdf
+2025-07-30 13:25:51,576 - INFO - Created: page_13.pdf
+2025-07-30 13:25:51,718 - INFO - Created: page_14.pdf
+2025-07-30 13:25:51,817 - INFO - Created: page_15.pdf
+2025-07-30 13:25:51,918 - INFO - Created: page_16.pdf
+2025-07-30 13:25:52,014 - INFO - Created: page_17.pdf
+2025-07-30 13:25:52,274 - INFO - Created: page_18.pdf
+2025-07-30 13:25:52,448 - INFO - Created: page_19.pdf
+2025-07-30 13:25:52,590 - INFO - Created: page_20.pdf
+2025-07-30 13:25:52,763 - INFO - Created: page_21.pdf
+2025-07-30 13:25:52,878 - INFO - Created: page_22.pdf
+2025-07-30 13:25:52,970 - INFO - Created: page_23.pdf
+2025-07-30 13:25:53,071 - INFO - Created: page_24.pdf
+2025-07-30 13:25:53,231 - INFO - Created: page_25.pdf
+2025-07-30 13:25:53,310 - INFO - Created: page_26.pdf
+2025-07-30 13:25:53,412 - INFO - Created: page_27.pdf
+2025-07-30 13:25:53,498 - INFO - Created: page_28.pdf
+2025-07-30 13:25:53,650 - INFO - Created: page_29.pdf
+2025-07-30 13:25:53,721 - INFO - Created: page_30.pdf
+2025-07-30 13:25:53,802 - INFO - Created: page_31.pdf
+2025-07-30 13:25:53,932 - INFO - Created: page_32.pdf
+2025-07-30 13:25:54,006 - INFO - Created: page_33.pdf
+2025-07-30 13:25:54,098 - INFO - Created: page_34.pdf
+2025-07-30 13:25:54,202 - INFO - Created: page_35.pdf
+2025-07-30 13:25:54,481 - INFO - Created: page_36.pdf
+2025-07-30 13:25:54,630 - INFO - Created: page_37.pdf
+2025-07-30 13:25:54,799 - INFO - Created: page_38.pdf
+2025-07-30 13:25:55,012 - INFO - Created: page_39.pdf
+2025-07-30 13:25:55,276 - INFO - Created: page_40.pdf
+2025-07-30 13:25:55,387 - INFO - Created: page_41.pdf
+2025-07-30 13:25:55,554 - INFO - Created: page_42.pdf
+2025-07-30 13:25:55,740 - INFO - Created: page_43.pdf
+2025-07-30 13:25:55,831 - INFO - Created: page_44.pdf
+2025-07-30 13:25:55,957 - INFO - Created: page_45.pdf
+2025-07-30 13:25:56,052 - INFO - Created: page_46.pdf
+2025-07-30 13:25:56,341 - INFO - Created: page_47.pdf
+2025-07-30 13:25:56,490 - INFO - Created: page_48.pdf
+2025-07-30 13:25:56,856 - INFO - Created: page_49.pdf
+2025-07-30 13:25:57,114 - INFO - Created: page_50.pdf
+2025-07-30 13:25:57,114 - INFO - Successfully split PDF into 50 pages
+2025-07-30 13:25:57,114 - INFO - Step 2: Processing each page individually
+2025-07-30 13:25:57,116 - INFO - Starting processing of page 1
+2025-07-30 13:26:11,122 - INFO - Completed processing of page 1
+2025-07-30 13:26:11,123 - INFO - Starting processing of page 2
+2025-07-30 13:26:16,715 - ERROR - Failed to process page 2: HTTPSConnectionPool(host='api.va.landing.ai', port=443): Read timed out. (read timeout=5)
+2025-07-30 13:26:16,717 - INFO - Starting processing of page 3
+2025-07-30 13:26:31,372 - INFO - Completed processing of page 3
+2025-07-30 13:26:31,374 - INFO - Starting processing of page 4
+2025-07-30 13:26:50,304 - INFO - Completed processing of page 4
+2025-07-30 13:26:50,308 - INFO - Starting processing of page 5
+2025-07-30 13:27:11,596 - INFO - Completed processing of page 5
+2025-07-30 13:27:11,597 - INFO - Starting processing of page 6
+2025-07-30 13:27:33,986 - INFO - Completed processing of page 6
+2025-07-30 13:27:33,988 - INFO - Starting processing of page 7
+2025-07-30 13:27:52,334 - INFO - Completed processing of page 7
+2025-07-30 13:27:52,340 - INFO - Starting processing of page 8
+2025-07-30 13:28:15,630 - INFO - Completed processing of page 8
+2025-07-30 13:28:15,631 - INFO - Starting processing of page 9
+2025-07-30 13:28:36,182 - INFO - Completed processing of page 9
+2025-07-30 13:28:36,184 - INFO - Starting processing of page 10
+2025-07-30 13:28:57,334 - INFO - Completed processing of page 10
+2025-07-30 13:28:57,340 - INFO - Starting processing of page 11
+2025-07-30 13:29:22,458 - INFO - Completed processing of page 11
+2025-07-30 13:29:22,461 - INFO - Starting processing of page 12
+2025-07-30 13:29:49,219 - INFO - Completed processing of page 12
+2025-07-30 13:29:49,227 - INFO - Starting processing of page 13
+2025-07-30 13:30:09,817 - INFO - Completed processing of page 13
+2025-07-30 13:30:09,824 - INFO - Starting processing of page 14
+2025-07-30 13:30:42,611 - INFO - Completed processing of page 14
+2025-07-30 13:30:42,634 - INFO - Starting processing of page 15
+2025-07-30 13:31:06,463 - INFO - Completed processing of page 15
+2025-07-30 13:31:06,470 - INFO - Starting processing of page 16
+2025-07-30 13:31:25,258 - INFO - Completed processing of page 16
+2025-07-30 13:31:25,259 - INFO - Starting processing of page 17
+2025-07-30 13:31:42,687 - INFO - Completed processing of page 17
+2025-07-30 13:31:42,688 - INFO - Starting processing of page 18
+2025-07-30 13:32:00,119 - INFO - Completed processing of page 18
+2025-07-30 13:32:00,123 - INFO - Starting processing of page 19
+2025-07-30 13:32:15,279 - INFO - Completed processing of page 19
+2025-07-30 13:32:15,280 - INFO - Starting processing of page 20
+2025-07-30 13:32:30,507 - INFO - Completed processing of page 20
+2025-07-30 13:32:30,509 - INFO - Starting processing of page 21
+2025-07-30 13:32:47,033 - INFO - Completed processing of page 21
+2025-07-30 13:32:47,036 - INFO - Starting processing of page 22
+2025-07-30 13:33:18,656 - INFO - Completed processing of page 22
+2025-07-30 13:33:18,670 - INFO - Starting processing of page 23
+2025-07-30 13:33:47,159 - INFO - Completed processing of page 23
+2025-07-30 13:33:47,162 - INFO - Starting processing of page 24
+2025-07-30 13:34:08,389 - INFO - Completed processing of page 24
+2025-07-30 13:34:08,392 - INFO - Starting processing of page 25
+2025-07-30 13:34:31,267 - INFO - Completed processing of page 25
+2025-07-30 13:34:31,275 - INFO - Starting processing of page 26
+2025-07-30 13:34:55,360 - INFO - Completed processing of page 26
+2025-07-30 13:34:55,363 - INFO - Starting processing of page 27
+2025-07-30 13:35:24,009 - INFO - Completed processing of page 27
+2025-07-30 13:35:24,016 - INFO - Starting processing of page 28
+2025-07-30 13:35:50,877 - INFO - Completed processing of page 28
+2025-07-30 13:35:50,882 - INFO - Starting processing of page 29
+2025-07-30 13:36:14,303 - INFO - Completed processing of page 29
+2025-07-30 13:36:14,306 - INFO - Starting processing of page 30
+2025-07-30 13:36:36,336 - INFO - Completed processing of page 30
+2025-07-30 13:36:36,338 - INFO - Starting processing of page 31
+2025-07-30 13:37:00,051 - INFO - Completed processing of page 31
+2025-07-30 13:37:00,052 - INFO - Starting processing of page 32
+2025-07-30 13:37:15,778 - INFO - Completed processing of page 32
+2025-07-30 13:37:15,780 - INFO - Starting processing of page 33
+2025-07-30 13:37:38,662 - INFO - Completed processing of page 33
+2025-07-30 13:37:38,667 - INFO - Starting processing of page 34
+2025-07-30 13:37:55,800 - INFO - Completed processing of page 34
+2025-07-30 13:37:55,804 - INFO - Starting processing of page 35
+2025-07-30 13:38:09,864 - INFO - Completed processing of page 35
+2025-07-30 13:38:09,865 - INFO - Starting processing of page 36
+2025-07-30 13:38:24,534 - INFO - Completed processing of page 36
+2025-07-30 13:38:24,535 - INFO - Starting processing of page 37
+2025-07-30 13:38:50,067 - INFO - Completed processing of page 37
+2025-07-30 13:38:50,069 - INFO - Starting processing of page 38
+2025-07-30 13:39:15,816 - INFO - Completed processing of page 38
+2025-07-30 13:39:15,819 - INFO - Starting processing of page 39
+2025-07-30 13:39:30,624 - INFO - Completed processing of page 39
+2025-07-30 13:39:30,629 - INFO - Starting processing of page 40
+2025-07-30 13:39:54,711 - INFO - Completed processing of page 40
+2025-07-30 13:39:54,715 - INFO - Starting processing of page 41
+2025-07-30 13:40:18,087 - INFO - Completed processing of page 41
+2025-07-30 13:40:18,091 - INFO - Starting processing of page 42
+2025-07-30 13:40:40,982 - INFO - Completed processing of page 42
+2025-07-30 13:40:40,992 - INFO - Starting processing of page 43
+2025-07-30 13:40:59,886 - INFO - Completed processing of page 43
+2025-07-30 13:40:59,894 - INFO - Starting processing of page 44
+2025-07-30 13:41:55,882 - INFO - Completed processing of page 44
+2025-07-30 13:41:55,886 - INFO - Starting processing of page 45
+2025-07-30 13:42:23,043 - INFO - Completed processing of page 45
+2025-07-30 13:42:23,046 - INFO - Starting processing of page 46
+2025-07-30 13:42:56,656 - INFO - Completed processing of page 46
+2025-07-30 13:42:56,658 - INFO - Starting processing of page 47
+2025-07-30 13:43:25,849 - INFO - Completed processing of page 47
+2025-07-30 13:43:25,858 - INFO - Starting processing of page 48
+2025-07-30 13:43:47,852 - INFO - Completed processing of page 48
+2025-07-30 13:43:47,855 - INFO - Starting processing of page 49
+2025-07-30 13:44:05,667 - INFO - Completed processing of page 49
+2025-07-30 13:44:05,671 - INFO - Starting processing of page 50
+2025-07-30 13:44:19,517 - INFO - Completed processing of page 50
+2025-07-30 13:44:19,518 - INFO - Processing complete! Successful: 49, Failed: 1

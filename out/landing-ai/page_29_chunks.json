@@ -1,0 +1,278 @@
+{
+  "source_file": "page_29.pdf",
+  "page_number": 29,
+  "processed_at": "2025-07-30T13:36:14.302949",
+  "total_chunks": 18,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "29\n\nHeineken N.V.\nAnnual Report 2024\n\nIntroduction\n\nReport of the Executive Board\n\nReport of the Supervisory Board\n\nFinancial Statements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Sustainability\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Other  \nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "flowchart: \n- Upward green triangle (arrowhead) at the top\n- Downward green triangle (arrowhead) below\n- Three short green horizontal lines stacked (menu or list icon)\n- Green circular arrow (curved, counterclockwise) at the bottom\n\nThe flowchart consists of four vertically stacked icons: an up arrow, a down arrow, a menu/list icon, and a refresh/undo arrow, suggesting navigation and action controls in a user interface.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Become the best-connected brewer",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "# Building a modern Digital Backbone\n\nHEINEKEN is on a journey to become the world’s best-connected brewer, powered by a cutting-edge Digital Backbone. This transformation replaces our previously fragmented technology landscape with a modern, modular architecture that combines a lean Digital CORE with standardised cloud-based platforms. The resulting industry-leading technology enables new ways of working, enhanced customer service, end-to-end efficiencies and rapid scaling of capabilities globally – all the while staying agile for future innovation.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "2024 was a pivotal year marked by the successful deployment of pilots in three operating companies. These pilots tested the integration of all 35 of our Digital Backbone applications across diverse business models, markets and tech starting points. In our pilot operating company, the system exceeded expectations, going live without disruption.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Within two months, the operating company achieved record-breaking sales and production, underscoring the system’s potential to boost efficiency and performance.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "User feedback post-launch reinforced the positive impact of the new architecture’s experience. Similar outcomes followed in Serbia and Egypt, solidifying the Digital Backbone’s readiness for broader implementation.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "With our consolidated future digital landscape in mind, we’ve stepped up our cybersecurity and system resilience to make sure we’re best placed to protect the business against ever-increasing global digital threats.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "# Creating a digitally enabled organisation\n\nIt’s crucial that we have the right skills and capabilities both within our global Digital and Technology function and across all of HEINEKEN. In 2024, we continued to step up these capabilities, empowering teams with skills and tools that enable an agile, future-fit business.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "Our global digital hubs are at the heart of this transformation, serving as engines of innovation and delivery. These hubs ensure consistent, cost-effective implementation of capabilities across our operating companies.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "This year we began to set up a global Commerce DevOps hub to support our strategic e-commerce operations and a Technology Platforms & Sourcing Hub for Europe in Krakow. We also enhanced existing hubs with additional capabilities, including Data & Analytics, for example.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "We also formally established and expanded Tiger Tribe, our global innovation and digital product development team, at our hub in Ho Chi Minh City. Our ‘Tigers’ collaborate with internal and external partners to address critical business challenges, from enhancing customer experience to optimising supply chains. The team is a game changer for HEINEKEN and is already leveraging GenAI to deliver product development and innovation cost-effectively at speed and scale.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "By the end of 2024, our hubs were powered by more than 700 tech-specialists, up from 20 in 2021. This remarkable growth underscores our commitment to creating a digitally enabled organisation that attracts, develops and retains diverse talents within HEINEKEN’s Digital and Technology function.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "Summary : This image presents a quote from Ronald den Elzen, Chief Digital and Technology Officer at HEINEKEN, discussing the company's digital transformation strategy, which leverages data, AI, and global scale to enhance connections and business adaptability.\n\nphoto:\nScene Overview :\n  • The main subject is a professional headshot of a man in business attire, set against a plain white background.\n  • Overlaid on the image is a prominent block of green italicized text containing a business quote.\n  • The quote discusses digital transformation, data, AI, and business strategy at HEINEKEN.\n  • The speaker is identified as Ronald den Elzen, Chief Digital and Technology Officer.\n\nTechnical Details :\n  • The text is formatted in green italics for the quote, with the name and title in regular font below.\n  • No scale bar, magnification, or scientific imaging elements are present.\n  • The image is a standard corporate portrait style.\n\nSpatial Relationships :\n  • The subject is centered in the frame, with the quote text occupying the central and lower portions of the image.\n  • The name and title are placed at the bottom, beneath the quote.\n\nAnalysis :\n  • The image is designed to communicate HEINEKEN’s commitment to digital transformation and innovation, emphasizing the integration of technology and data-driven strategies in a business context.\n  • The use of a professional portrait and clear, prominent text aims to convey authority and credibility.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 17,
+      "text": "Summary : This composite image features two distinct scenes: a group celebration with a cake-cutting ceremony and an individual in work attire using a tablet, both set against a white background with green graphic elements.\n\nphoto:  \nScene Overview : \n  • Upper section: A group of people, all wearing matching purple sweatshirts, stand behind a table with a large rectangular cake. One person is cutting the cake while others pose and smile. A congratulatory banner is visible in the background, with the text \"CONGRATULATIONS!\" and additional smaller text, as well as a logo in the top right corner.\n  • Lower section: An individual in a green work uniform is holding and interacting with a black tablet device, positioned in the foreground.\n  • The background is predominantly white with green, ribbon-like graphic elements running diagonally across the image.\n\nTechnical Details : \n  • The group photo is well-lit, with even lighting and clear visibility of participants and the cake.\n  • The individual in the lower section is sharply focused, with the tablet and hands clearly visible.\n  • The banner in the group photo includes a logo and celebratory text, but some text is partially obscured or out of focus.\n\nSpatial Relationships : \n  • The group celebration scene is inset in the upper left quadrant of the image.\n  • The individual with the tablet occupies the lower right quadrant, appearing larger and more prominent.\n  • The green graphic elements visually connect the two scenes, creating a sense of unity in the composition.\n\nAnalysis : \n  • The image juxtaposes teamwork and celebration (upper section) with individual work or technical activity (lower section), possibly highlighting both collaborative and operational aspects of an organization. The use of matching attire and branded elements suggests a corporate or organizational context.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 18,
+      "text": "Summary : This is a photo of a group presentation or workshop in a modern, creative workspace with a \"Tiger Tribe\" theme, featuring a large mural and several people engaged in a session.\n\nphoto:\nScene Overview :\n  • The main subject is a group of people participating in a presentation or workshop.\n  • The setting is a colorful, modern room with a large mural on the back wall that reads \"TIGER TRIBE MAKING CODE ROAR\" and features two illustrated tigers.\n  • One person stands at the front near a large screen displaying a slide, while others are seated and appear to be listening or taking notes.\n  • The room has a casual, collaborative atmosphere with a mix of seating, a plant in the foreground, and a laptop visible on a table.\n  • The color palette is vibrant, with dominant yellows, pinks, blues, and greens.\n\nTechnical Details :\n  • The mural is a prominent feature, with bold text and cartoon-style tigers.\n  • The presentation screen shows a slide with some readable text: \"An affordable and user-friendly solution to cover basic logistics features.\"\n  • The workspace includes a table with the word \"READY!\" in large letters.\n  • There is a visible laptop and some office supplies on the table.\n\nSpatial Relationships :\n  • The presenter stands to the left, facing the seated audience on the right.\n  • The mural occupies the entire back wall, serving as a visual focal point.\n  • A plant is placed in the foreground, partially obscuring the lower part of the image.\n  • The audience is arranged in a semi-circle, fostering engagement.\n\nAnalysis :\n  • The image conveys a dynamic, creative, and collaborative environment, likely aimed at fostering innovation or teamwork.\n  • The \"Tiger Tribe\" branding and mural suggest a focus on coding or technology, with an emphasis on energy and enthusiasm.\n  • The setup and decor indicate a modern, informal approach to group work or training sessions.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

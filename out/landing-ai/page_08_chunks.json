@@ -1,0 +1,458 @@
+{
+  "source_file": "page_08.pdf",
+  "page_number": 8,
+  "processed_at": "2025-07-30T13:28:15.629766",
+  "total_chunks": 30,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "8",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Heineken  \nN.V.  \nAnnual  \nReport  \n2024",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Introduction",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Report  \nof the  \nExecutive  \nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Report  \nof the  \nSupervisory  \nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Financial\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Sustainability\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Other  \nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "flowchart: \n- Downward green triangle (triangle, pointing down)\n- Three green horizontal lines (rectangles, stacked vertically)\n\nThe diagram consists of a green downward-pointing triangle at the top, followed by three short green horizontal lines stacked vertically below it. There are no connecting arrows or text labels. The overall layout suggests a simple visual indicator or icon, possibly representing a dropdown menu or a sorting/filtering function.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "Our business model",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "From barley to bar",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "We generate value by brewing and selling premium beers, ciders and more, bringing people together for moments of joy, sociability and connectedness.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "Summary : This is a photograph showing two individuals in green and yellow uniforms, likely representing a professional or emergency service team, standing side by side against a stylized green background.\n\nphoto:\nScene Overview :\n  • Two people are standing side by side, both wearing uniforms with green and yellow color blocks.\n  • The background is a stylized, abstract green design with leaf-like elements.\n  • The person on the left wears a short-sleeved collared shirt with yellow on top and green on the bottom, and dark green pants.\n  • The person on the right wears a green t-shirt with reflective stripes on the sleeves, green pants with yellow accents, and a visible ID badge clipped to the waistband.\n  • Both individuals have equipment attached to their belts.\n\nTechnical Details :\n  • The ID badge on the right is visible but the text is not legible.\n  • The uniforms feature reflective stripes, suggesting a role that requires visibility.\n  • The person on the right is wearing a wristwatch and has a tattoo on the left forearm.\n\nSpatial Relationships :\n  • Both individuals are positioned in the foreground, facing forward.\n  • The composition is centered, with both figures occupying the majority of the frame.\n\nAnalysis :\n  • The uniforms and equipment suggest these individuals are part of a professional team, possibly in emergency services, public safety, or a utility company.\n  • The use of green and yellow, along with reflective elements, indicates a focus on visibility and safety.\n  • The background design reinforces a theme of nature or environmental awareness.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "As these pages show the full breadth of our influence along the value chain, we've highlighted our Scope 1, 2 and 3 emissions. Scope 1 are direct emissions that are owned or controlled by us. Scope 2 and 3 are indirect emissions as a consequence of our activities and occur from sources we don't control, but do influence. We have sustainability initiatives along our value chain and see this as another crucial source of wider value creation.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "Summary : This image shows a man inspecting crops in a field, illustrating an agricultural or environmental monitoring activity, likely related to the \"Upstream\" phase of a process.\n\nphoto:\nScene Overview :\n  • Main subject is a man bending over and closely examining plants in a lush, green field.\n  • The setting is outdoors, with a wide expanse of crops stretching into the background.\n  • The man is wearing a dark vest and orange pants, suggesting cool weather or fieldwork attire.\n  • The lighting is natural daylight, with a soft, overcast sky.\n  • The colour palette is dominated by greens and yellows from the crops, with some muted earth tones.\n\nTechnical Details :\n  • No scale bar or magnification is present.\n  • No visible on-image text except for the label \"Upstream\" in a green banner at the top.\n  • The image is framed with rounded corners and a green-themed border.\n\nSpatial Relationships :\n  • The man is positioned on the right side of the image, occupying the foreground.\n  • The field extends into the background, with a tree line on the left and open sky above.\n  • The composition uses the rule of thirds, placing the subject off-centre for visual interest.\n\nAnalysis :\n  • The image visually communicates hands-on agricultural work, likely representing the initial or \"upstream\" stage of a production or research process.\n  • The focus on close inspection suggests attention to crop health, growth, or quality assessment.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 17,
+      "text": "Agriculture\nHEINEKEN sources key ingredients like barley, hops, corn and bittersweet apples (for cider) from farmers, working closely with suppliers to improve crop yields and quality.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 18,
+      "text": "As one of the world's top three users of malted barley, our sourcing strategy is designed to bring flexibility to the supply chain. We obtain barley from across the world, including Western and Central Europe, the UK, Scandinavia, Egypt, Ethiopia, Australia, the US, Argentina, Mexico and Brazil.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 19,
+      "text": "In Africa, where barley is scarce, we primarily import malt and rely on local ingredients like cassava, sorghum and rice, sourced from over 150,000 smallholder farmers.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 20,
+      "text": "Summary : This figure presents information about the number of low carbon farming projects underway and the proportion of total emissions attributed to Scope 3, using a combination of text and a donut chart.\n\ndonut chart:\n# Project Count & Emissions Share :\n  • Approximately 300 low carbon farming projects are currently underway.\n  • 17% of total emissions are attributed to Scope 3.\n\n# Chart Design & Encodings :\n  • Donut chart with a highlighted green segment representing 17% of the circle.\n  • The 17% value is displayed prominently in the center, with the label \"of total emissions\" and \"Scope 3\" indicated in a legend.\n  • The remainder of the donut is in a lighter shade, visually contrasting the highlighted segment.\n\n# Text Elements :\n  • Large green text: \"~300 low carbon farming projects underway.\"\n  • Central chart text: \"17% of total emissions\" and \"Scope 3\" in a smaller font.\n\n# Analysis :\n  • The figure emphasizes that a significant number of low carbon farming projects are in progress.\n  • Scope 3 emissions constitute 17% of the total emissions, as visually represented by the green segment of the donut chart.\n  • The design draws attention to both the scale of ongoing projects and the relative contribution of Scope 3 emissions.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 21,
+      "text": "Summary : This image shows three different varieties of Heineken beer bottles, each with distinct branding and labeling, displayed side by side on a light green background.\n\nphoto:\nScene Overview :\n  • Main subject: Three Heineken beer bottles standing upright in a row.\n  • Setting: Light green background with a dotted line at the top, giving a clean and modern look.\n  • Perspective: Frontal view, bottles aligned vertically and evenly spaced.\n  • Colour palette: Predominantly green (bottles and background), with white, blue, red, and silver label accents.\n\nTechnical Details :\n  • Left bottle: \"Heineken Original\" with a red star and green/white label.\n  • Middle bottle: \"Heineken 0.0\" (non-alcoholic) with a blue and silver label, blue bottle cap, and \"00\" marking.\n  • Right bottle: \"Heineken Silver\" with a silver and white label, red star, and blue/silver accents.\n  • All bottles are glass, with visible condensation droplets.\n\nSpatial Relationships :\n  • Bottles are arranged left-to-right: Original, 0.0, Silver.\n  • All bottles are of similar height and size, occupying the central area of the image.\n  • Labels are clearly visible and face forward for easy comparison.\n\nAnalysis :\n  • The image highlights the variety within the Heineken product line, emphasizing both traditional and newer options (non-alcoholic and \"Silver\").\n  • The consistent use of the red star and green bottle reinforces brand identity, while label colours differentiate the variants.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 22,
+      "text": "Packaging\nMost of our beer and cider is served in bottles, cans and kegs, with glass and aluminium as primary packaging materials and plastic and paper for secondary packaging. Packaging plays a vital role in protecting our products through preserving freshness and in enhancing our marketing and branding with distinctive designs that convey their premium nature.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 23,
+      "text": "In most cases our packaging is sourced from\nsuppliers, who compete in a competitive market on\nprice, capacity, volume and quality. Driving\nefficiencies along our end-to-end supply chain is a\nkey success factor: we are unifying, digitalising and\nstreamlining operations across all our breweries.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 24,
+      "text": "98%\nof packaging recyclable by design at the end of 2024",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 25,
+      "text": "Summary : This figure shows the proportion of total emissions attributed to Scope 3, represented as a percentage and visualized with a partial green ring.\n\ndonut chart:\nTitle & Axes :\n  • No explicit title or axis labels are present.\n  • Central text: \"36% of total emissions\".\n  • Legend: \"Scope 3\" indicated by a green square.\n\nData Points :\n  • Scope 3 emissions: 36% of total emissions.\n  • The remaining 64% is not explicitly labeled or broken down.\n\nDesign Encodings :\n  • Green segment of the donut represents Scope 3 (36%).\n  • The rest of the donut is light grey, representing other emission scopes.\n  • Central text is in green, matching the green segment.\n  • Background is a light green shade.\n\nDistribution & Trends :\n  • Only one data point (Scope 3) is quantified.\n  • The chart visually emphasizes the Scope 3 portion.\n\nAnalysis :\n  • Scope 3 emissions constitute a little over one-third of the total emissions, as highlighted by the green segment and central percentage. The chart draws attention to the significance of Scope 3 in the overall emissions profile.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 26,
+      "text": "Summary : This photograph shows three workers in high-visibility uniforms collaborating on a factory floor, likely in a bottling or beverage production facility, with green glass bottles visible in the foreground and background.\n\nphoto:  \nScene Overview : \n  • Three workers in yellow and green high-visibility uniforms are gathered together in an industrial setting.\n  • One worker is holding a tablet device, another is holding a green glass bottle and pointing at it, and the third is observing.\n  • The background features a conveyor belt system with rows of green glass bottles, indicating a bottling or beverage production line.\n  • The lighting is bright and even, typical of an indoor industrial environment.\n  • The colour palette is dominated by green (bottles, uniforms) and yellow (uniforms, background accents).\n\nTechnical Details : \n  • No visible scale bar or measurement indicators.\n  • No on-image UI elements or text, except for a green label at the top left reading \"Operations\".\n  • Workers are wearing gloves and earpieces, suggesting safety and communication protocols.\n\nSpatial Relationships : \n  • The workers are positioned in the midground, forming a small group focused on the tablet and bottle.\n  • The foreground is filled with out-of-focus green bottles, creating depth.\n  • The background shows the production line extending horizontally, reinforcing the industrial context.\n\nAnalysis : \n  • The image visually communicates teamwork, quality control, or process monitoring in a manufacturing or bottling operation.\n  • The focus on the tablet and bottle suggests a discussion or inspection related to production quality or process data.\n  • The abundance of green bottles and the \"Operations\" label reinforce the industrial and operational theme.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 27,
+      "text": "Brewing\nWe operate 181 breweries, cider plants and other production facilities worldwide. Currently, 90 breweries are connected to our Connected Brewery programme, enabling them to utilise Smart Brewery technology. This integration helps reduce waste and maximise output. Additionally, our connected worker apps empower over 20,000 operators with smart instructions and support, further enhancing efficiency.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 28,
+      "text": "Elsewhere, Total Productivity Maintenance streamlines performance reporting and enhances equipment reliability, and robotics are increasingly used to automate and improve safety, maintenance and other critical tasks. By connecting thousands of machines generating billions of data points, we optimise productivity and quality while delivering recurring cost savings.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 29,
+      "text": "~90\nbreweries where our Connected Brewery programme is live",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 30,
+      "text": "Summary : This figure shows the proportion of total emissions attributed to Scopes 1 & 2 versus Scope 3, highlighting that these categories together account for 8% of total emissions.\n\npie chart:\nTitle & Labels :\n  • No explicit title; central text reads “8% of total emissions”.\n  • Legend: “Scopes 1&2” (darker green), “Scope 3” (lighter green).\n\nData Segments :\n  • Scopes 1&2: small dark green segment.\n  • Scope 3: slightly larger light green segment.\n  • The combined segments represent 8% of the total circle (emissions).\n\nDesign Encodings :\n  • Pie chart with two green shades.\n  • Central white circle with green text for emphasis.\n  • Light green background.\n\nAnalysis :\n  • Scopes 1&2 and Scope 3 together make up a small fraction (8%) of total emissions, with Scope 3 being the larger contributor within this 8%. The vast majority of emissions (92%) are not shown in detail, indicating that other sources or categories dominate the total emissions profile.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

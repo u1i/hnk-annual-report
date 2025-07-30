@@ -1,0 +1,248 @@
+{
+  "source_file": "page_18.pdf",
+  "page_number": 18,
+  "processed_at": "2025-07-30T13:32:00.118449",
+  "total_chunks": 16,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "18\n\nHeineken\nN.V.\nAnnual\nReport\n2024",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Introduction",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Report  \nof the  \nExecutive  \nBoard\n\nReport  \nof the  \nSupervisory  \nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Financial\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Sustainability\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Other  \nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "flowchart: \n- Upward green triangle (arrowhead) at the top\n- Downward green triangle (arrowhead) below the first\n- Three short green horizontal lines stacked (menu icon)\n- Green counterclockwise arrow (undo/refresh icon) at the bottom\n\nThe flowchart consists of four vertically stacked icons: up arrow, down arrow, menu, and undo, representing navigation and action controls in a user interface.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Summary : This is a color photograph of a person standing outdoors on what appears to be a rooftop with solar panels, with an industrial facility and trees in the background under a partly cloudy sky.\n\nphoto:\nScene Overview :\n  • Main subject is a person in a light blue button-up shirt, standing in the foreground.\n  • The setting is an outdoor rooftop area, featuring visible solar panels and industrial structures (such as tanks and pipes) to the left.\n  • The background includes a line of trees and a partly cloudy sky, suggesting a semi-urban or industrial park environment.\n  • The lighting is natural daylight, with the subject well-lit from the front.\n  • The color palette includes greens (from the trees and a green graphic overlay at the bottom), blues (sky and shirt), and metallic greys (industrial equipment).\n\nTechnical Details :\n  • No visible scale bar, magnification, or scientific annotation.\n  • There is a green, semi-transparent graphic overlay with a white quotation mark symbol (“) at the bottom center of the image.\n  • No on-image UI elements or text (other than the graphic overlay).\n\nSpatial Relationships :\n  • The subject is positioned centrally in the frame, occupying the lower half of the image.\n  • The industrial equipment is to the left and background, with trees and sky filling the upper background.\n  • The green overlay is in the extreme foreground, partially covering the lower part of the subject.\n\nAnalysis :\n  • The image visually emphasizes the connection between the individual and a sustainable or industrial energy setting, likely highlighting themes of renewable energy or environmental stewardship.\n  • The green overlay and solar panels reinforce an eco-friendly or technological context.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "“What began as a vision to decarbonise our operations is now starting to become a reality, thanks to the dedication of our teams and partners to innovative solutions. If all goes to plan, our Vialonga brewery will reach 100% renewable energy in production by 2030 – a major ambition for us in Portugal.”\n\nPedro Sousa  Supply Chain Investment and Innovation Projects\nSociedade Central de Cervejas",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "Read more about the zero emissions\nambition in Portugal",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "Business priority",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "Raise the bar  \non sustainability  \nand responsibility",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "We recognise that our activities have both negative and positive impacts on the environment and society. Since 2021, our Brew a Better World 2030 strategy has been the foundation for driving progress towards a net zero, fairer and more balanced world.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "As we achieved some of our 2023 goals, we refined our approach. We remain focused on our three pillars – Environmental, Social and Responsible, and continue working within our business and across our value chain to drive transformational and long-term change.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "Summary : This image presents Heineken's \"Brew a Better World\" sustainability framework, structured around three pillars: Environmental, Social, and Responsible, each with specific focus areas and goals for 2030.\n\nlogo: Heineken \"Brew a Better World\" sustainability framework\n\nMain Elements :\n  • Central logo text: \"HEINEKEN BREW A BETTER WORLD RAISE THE BAR 2030\".\n  • Three surrounding pillars, each with distinct colour and focus:\n    – Environmental (green): \"NET ZERO • CIRCULARITY • WATER & NATURE\".\n    – Social (orange): \"DIVERSITY • FAIR & SAFE • COMMUNITY IMPACT\".\n    – Responsible (blue): \"ALWAYS A CHOICE • ADDRESS HARMFUL USE • MODERATION\".\n\nDesign & Layout :\n  • Circular badge design with green, orange, and blue text sections.\n  • \"Brew a Better World\" is centrally placed and encircled by a dotted green ring.\n  • Each pillar's focus areas are listed along the outer edge of the circle in their respective colours.\n  • The Heineken red star logo appears above the main text.\n\nAnalysis :\n  • The logo visually communicates Heineken's commitment to sustainability by dividing its strategy into three clear, colour-coded pillars.\n  • The circular layout and green palette reinforce environmental themes.\n  • The inclusion of specific focus areas under each pillar provides clarity on the company's priorities for 2030.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "For more information on our Brew a Better World ambitions and goals,  \nand the disclosures required under CSRD refer to the sustainability statements  \non page 146–147 which are part of the Report of the Executive Board",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

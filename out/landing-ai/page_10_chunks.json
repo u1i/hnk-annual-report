@@ -1,0 +1,263 @@
+{
+  "source_file": "page_10.pdf",
+  "page_number": 10,
+  "processed_at": "2025-07-30T13:28:57.334181",
+  "total_chunks": 17,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "10\n\nHeineken\nN.V.\nAnnual\nReport\n2024",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Introduction",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Report  \nof the  \nExecutive  \nBoard\n\nReport  \nof the  \nSupervisory  \nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Financial  \nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Sustainability\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Other  \nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "flowchart:  \n- Upward green triangle (arrowhead)  \n- Downward green triangle (arrowhead)  \n- Three horizontal green lines (menu or hamburger icon)  \n- Green circular arrow (counterclockwise, refresh or undo icon)  \nReading order: Up arrow → Down arrow → Menu icon → Refresh arrow.  \nThis is a vertical stack of four green icons: up arrow, down arrow, menu, and refresh, likely representing navigation and action controls in a user interface.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Our strategic framework",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "# Our strategy\nEverGreen is a bold multi-year strategy that empowers us to adapt to a fast-changing world and future-proof the business.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "We brew more than just beer: we *brew the joy of true togetherness to inspire a better world.* With every pour, we create space for connection. With every moment shared, we create space for joy.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "This is our purpose – our reason for being. It shapes both our values and our dream to win the hearts of consumers by shaping the future of beer and beyond, guiding our actions in the short and long term. We’re committed to empowering a more open-minded, meaningfully connected world, and building a company that can constantly renew, adapt and improve itself in service of this aim.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "Inspired by this purpose, EverGreen is our strategy\nto deliver superior and balanced growth, which puts\nus on a journey of constant renewal and adaption.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "This strategy focuses on five business priorities: enhancing our diverse portfolio of brands to cater for evolving tastes and needs; driving productivity that frees resources for investment in balanced growth; leveraging digital transformation to streamline our operations and deepen consumer connections; weaving our Brew A Better World ambitions into decision making; and helping our people thrive within a winning culture.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "That's EverGreen, and through it we are positioned\nto meet short-term challenges, ensure the long-\nterm sustainability of our business and create\nlasting value for all our stakeholders.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "Summary : This is a promotional photograph showing a person drinking from a can of Tiger Soju, with the Heineken EverGreen logo prominently displayed in the lower left corner. The scene is set in a vibrant, colorful nightlife environment.\n\nphoto:\nScene Overview :\n  • Main subject is a person holding and drinking from a can labeled \"Tiger Soju\" with visible branding and design elements.\n  • The setting appears to be a lively, possibly outdoor or club-like environment with colorful, out-of-focus lights in the background.\n  • The Heineken EverGreen logo, featuring a stylized tree and circuit motif, is clearly visible in the lower left corner.\n  • The color palette is dominated by neon and pastel hues, with a strong contrast between the illuminated can and the darker background.\n\nTechnical Details :\n  • The can displays the text \"Tiger Soju\" and \"Premium Soju\" along with a tiger graphic.\n  • The Heineken EverGreen logo includes the words \"HEINEKEN EverGreen\" and a tree with circuit-like roots.\n  • No scale bar, magnification, or scientific annotation is present.\n\nSpatial Relationships :\n  • The can is in the foreground, held close to the subject's mouth, angled upward.\n  • The logo is positioned in the lower left, separate from the main action, likely added for branding emphasis.\n  • The background is blurred, emphasizing the subject and product.\n\nAnalysis :\n  • The image is designed to promote Tiger Soju and the Heineken EverGreen initiative, associating the product with a modern, energetic, and eco-conscious lifestyle.\n  • The use of vibrant lighting and selective focus draws attention to the product and branding elements.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "Our Purpose  \nBrewing the joy of true togetherness  \nto inspire a better world",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 17,
+      "text": "Summary : This is a multi-section process diagram summarizing a company's core values, vision (\"Our Dream\"), strategic growth model (\"Our Green Diamond\"), and five business priorities, with references to further reading.\n\nflowchart:\n# Our Values :\n  • Four core values are listed horizontally: Passion (for consumers and customers), Courage (to dream and pioneer), Care (for people and planet), Enjoyment (of life).\n\n# Our Dream :\n  • Vision statement: \"Shaping the future of beer and beyond to win the hearts of consumers.\"\n\n# Our Green Diamond :\n  • Central concept: \"Delivering superior, balanced growth.\"\n  • Diamond-shaped diagram with four labeled sections:\n    – Growth\n    – Profitability\n    – Capital efficiency\n    – Sustainability & Responsibility\n\n# Our Business Priorities :\n  • Five business priorities are listed horizontally, each with a short description and a \"Read more\" reference:\n    – Shape the future of beer and beyond (Read more Page 11)\n    – Fund the growth, fuel the profit (Read more Page 16)\n    – Raise the bar on sustainability and responsibility (Read more Page 18)\n    – Become the best-connected brewer (Read more Page 26)\n    – Unlock the full potential of our people (Read more Page 30)\n\n# Layout :\n  • Vertically stacked sections, each separated by green wave graphics and downward-pointing arrows.\n  • The \"Green Diamond\" is visually represented as a green diamond with four labeled quadrants.\n  • Each business priority is accompanied by a green icon and a page reference.\n\n# Analysis :\n  • The diagram presents a clear, hierarchical flow from values to vision, strategic model, and actionable priorities.\n  • Emphasis is placed on balanced growth, sustainability, and people, with explicit cross-references for further detail.\n  • The use of green and organic wave motifs reinforces themes of growth and sustainability.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

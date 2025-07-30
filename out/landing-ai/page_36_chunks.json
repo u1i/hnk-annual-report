@@ -1,0 +1,323 @@
+{
+  "source_file": "page_36.pdf",
+  "page_number": 36,
+  "processed_at": "2025-07-30T13:38:24.533450",
+  "total_chunks": 21,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "36\n\nHeineken\nN.V.\nAnnual\nReport\n2024\n\nIntroduction\n\nReport\nof the\nExecutive\nBoard\n\nReport\nof the\nSupervisory\nBoard\n\nFinancial\nStatements\n\nSustainability\nStatements\n\nOther\nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "flowchart:  \n- Upward green triangle (arrowhead), pointing up  \n- Downward green triangle (arrowhead), pointing down  \n- Three horizontal green lines, stacked (menu or hamburger icon)  \n- Green circular arrow, pointing counterclockwise (refresh or undo icon)  \n\nEach icon is vertically aligned in a single column, representing navigation (up/down), menu access, and a refresh/undo action.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Asia Pacific",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "A year of solid performance\n\nIn 2024, HEINEKEN demonstrated a solid recovery with a volume growth of 4.1% (excluding China). This was driven by good performance in a broad range of markets.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "“We achieved solid performance due to our well-balanced portfolio with robust growth of the Heineken® brand of 30% (excluding China) and continued strong growth of the brand in China. We not only experienced solid to strong growth across various markets, but also made significant investments in our brands and capabilities, which further enhanced our competitiveness.”\n\nJacco van der Linden  \nPresident, Asia Pacific",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Despite facing social volatility and natural disasters\nin some markets, we recorded healthy topline\ngrowth while also investing in our strategic\npower brands.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Our regional performance surpassed competitors’\ntopline growth, supported by increased productivity\nand effective cost control.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Our strategic focus has been on balancing a healthy mix of premiumisation opportunities led by Heineken®, innovative products and local jewel brands such as Tiger, Kingfisher, Bia Viet and Larue, which have also significantly contributed to the solid results.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "Premiumisation  \nHeineken® achieved an impressive 24% volume growth across total markets. Notably, it experienced extraordinary growth of 53% in Vietnam alongside continued growth in China, India and Laos.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "Heineken® strong premium positioning, combined with the appeal of Heineken® Silver to a new generation of premium drinkers, has allowed us to win in the market. The success was further bolstered in China by Amstel’s significant volume growth.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "We are on a consistent growth path in India, with double-digit revenue growth driven primarily by Kingfisher and our premium portfolio, and enhanced operational performance within a challenging business and regulatory landscape.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "We have either maintained or grown our market share across most of our markets, with notable turnarounds in several markets.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "Innovation and strengthening route to consumers\nWe continued our efforts to drive category growth and consumer penetration through our brands and innovation. We strengthened our innovation capabilities by establishing a Regional Innovation Hub in Singapore that is tasked with shaping the beer category, enhancing the relevance of our brand propositions, and creating diverse and meaningful experiences for our consumers.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "Our sessionable offerings including Heineken Silver and Tiger Crystal resonate strongly with younger adult consumers. These brands fortify our portfolio and connect us with a new generation of beer enthusiasts. Additionally, we launched innovations like Tiger Soju, Queenfisher and other flavoured propositions to satisfy unmet consumer needs.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "This year, we also enhanced our execution\ncapabilities across numerous markets. By\nstrengthening our distribution power and execution\nexcellence, we make sure our products reach\nconsumers in the most impactful and relevant ways.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "Our commitment to building distributors’ and wholesalers’ management capability and refining our frontline sales force is vital to achieving long-term sustainable growth.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 17,
+      "text": "Overall, our focus on brand innovation and\nenhancing our route to consumers has positioned us\nfor continued growth and success in the region, and\nwe are committed to doing this sustainably.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 18,
+      "text": "Sustainability\nThis year we successfully reduced carbon emissions and improved water efficiency across the region. For example, we have made great progress in the Golconda brewery in India and the Vung Tao brewery in Vietnam. We have also progressed water balance across the region, with 3 sites in Indonesia now fully water balanced. Meanwhile, we continued to foster an inclusive environment that celebrates diversity. A diverse workforce drives innovation and success, and we are dedicated to making sure every individual feels valued and respected.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 19,
+      "text": "As we approach 2025, we focus on sustained quality\ngrowth through improved consumer engagement\nwith our premium and mainstream brands.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 20,
+      "text": "Summary : This is a group photograph of several women standing on a stage, each holding a large calendar or poster, with \"Queenfisher\" branding and the word \"Calendar\" prominently displayed in the background.\n\nphoto:\nScene Overview :\n  • The main subjects are a group of twelve women standing in a row on a stage.\n  • Each woman is holding a large calendar or poster featuring images of women in various poses.\n  • The background features two large digital screens with the \"Queenfisher\" logo (a stylized bird) and the word \"Calendar\" in script.\n  • The setting appears to be an event or launch, with bright, even lighting and a celebratory atmosphere.\n  • The women are dressed in a variety of fashionable outfits, ranging from dresses to pantsuits, in different colors and styles.\n\nTechnical Details :\n  • No scale bar or magnification is present.\n  • The image includes digital signage and branding elements.\n  • The color palette is vibrant, with a mix of green, pink, purple, and neutral tones.\n  • A green, semi-transparent wave graphic overlays the bottom portion of the image.\n\nSpatial Relationships :\n  • The women are arranged in a single line, facing the camera, with some standing closer together and others slightly apart.\n  • The digital screens and branding are positioned directly behind the group, framing the subjects symmetrically.\n  • The green wave graphic is in the foreground, partially obscuring the lower legs of the subjects.\n\nAnalysis :\n  • The image visually communicates a celebratory launch or unveiling event, likely for a calendar associated with the \"Queenfisher\" brand.\n  • The group composition, branding, and props (calendars/posters) emphasize the collective participation and highlight the featured individuals.\n  • The overall mood is festive and empowering, with a focus on diversity and style among the participants.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 21,
+      "text": "Summary : This composite image shows two scenes related to beer branding and events, featuring Heineken and Bintang brands in a festive, public setting.\n\nphoto:\nScene Overview :\n  • Left image: A person in a white beret and red shirt is holding a green Heineken-branded cup and a phone, taking a photo of a Heineken can and a green pamphlet or menu. The background is a crowded indoor event with people wearing green and blue clothing.\n  • Right image: A nighttime outdoor scene featuring a large, illuminated Ferris wheel with \"BINTANG\" branding at the center and on the gondolas. Below the Ferris wheel, neon signage reads \"PESTAPORA\" and \"BINTANG,\" with additional decorative lights and structures.\n\nTechnical Details :\n  • Prominent use of green (Heineken) and red (Bintang) brand colors.\n  • Visible text: \"Heineken\" on the cup and can, \"BINTANG\" and \"PESTAPORA\" on the Ferris wheel and signage.\n  • No scale bars or technical overlays present.\n\nSpatial Relationships :\n  • Left image: The Heineken cup and phone are in the foreground, with the event crowd in the background.\n  • Right image: The Ferris wheel dominates the center, with signage and lights in the lower foreground.\n\nAnalysis :\n  • The images emphasize brand presence and engagement at public events, with Heineken associated with indoor social gatherings and Bintang with large-scale outdoor festivities. Both brands use prominent lighting and color to attract attention and create a festive atmosphere.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

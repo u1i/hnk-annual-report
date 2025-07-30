@@ -1,0 +1,383 @@
+{
+  "source_file": "page_14.pdf",
+  "page_number": 14,
+  "processed_at": "2025-07-30T13:30:42.608123",
+  "total_chunks": 25,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "14",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Heineken\nN.V.\nAnnual\nReport\n2024",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Introduction",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Report\nof the\nExecutive\nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Report  \nof the  \nSupervisory  \nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Financial  \nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Sustainability  \nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Other  \nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "flowchart:  \n- Upward green triangle (triangle, top)  \n- Downward green triangle (triangle, middle)  \n- Three short green horizontal lines stacked (lines, bottom)  \nReading order: Upward triangle → Downward triangle → Three horizontal lines.  \nThe diagram consists of two green triangles pointing in opposite directions (up and down) and three short green horizontal lines stacked at the bottom, likely representing navigation or menu controls.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "inline micro-figure: green curved arrow pointing left, representing an \"undo\" action",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "Shape the future of beer and beyond",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "Desperados – the beer with Latin vibe  \nDesperados is a unique product that offers the spirit of experimentation, spontaneity and self-expression, engaging with young consumers across more than 30 markets globally. In 2024, the brand embarked on a review of its DNA to ensure even greater relevance with Gen Z audiences and enhance consistency across its markets.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "This reflection culminated in a bold new positioning, The Beer with a Latin Vibe, set to launch in January 2025. Inspired by the belief that a life constrained is a life unlived, the positioning will come to fruition through a complete brand reset (campaign, visual identity, below the line, experiential and innovation) igniting moments of connection and celebration. This reset will tap into a series of culturally relevant passion points, empowering Gen Z to sidestep life's uncertainties and live it to the full.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "The new positioning will deepen connections with Gen Z and pave the way for new consumer recruitment across the HEINEKEN portfolio.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "Sol – sun-powered positivity  \nSol spreads positivity and brightens the world with optimism, encouraging carefree enjoyment since 1899.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "Present in over 50 markets, Sol continued to shine in 2024, achieving single-digit growth outside its home market of Mexico and strong performance in Brazil, South Africa, Chile and Colombia.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 17,
+      "text": "Innovation played a key role, with the launch of Sol 0.0% in Brazil – a no-alcohol beer enriched with vitamins for health-conscious consumers – and Sol Mix, a range of cocktail-inspired flavoured lagers, in Chile. In Mexico, Sol Mezclas now leads the flavoured beer category.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 18,
+      "text": "Alongside these innovations, the brand is refreshing its visual identity with a bold, legacy-inspired design, starting in South Africa and set for a global roll-out in 2025.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 19,
+      "text": "With a new campaign launching in 2025, Sol is poised to strengthen its connection with consumers by offering vibrant, versatile experiences that meet the evolving demands of modern beer drinkers.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 20,
+      "text": "Pioneering choice in\nlow and no-alcohol\n\nThe drivers of moderation are evolving. As wellbeing becomes more holistic, positive and lifestyle-oriented, consumers want choices that align with diverse needs and occasions.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 21,
+      "text": "The 0.0 beer category is one of the fastest-growing, expanding at 5% annually over the past five years. HEINEKEN leads the way, shaping and driving the category’s growth. Now available in 117 countries, Heineken® 0.0 is the global leader in the low and no-alcohol space.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 22,
+      "text": "We continued to drive growth for Heineken® 0.0 across 2024, building engagement with consumers through communications, sponsorships and heavyweight media investment. Evidence of our commitment and belief in the category is the ongoing wide-scale roll-out of 0.0 on draught in Spain, France, the Netherlands, the UK and Ireland. A significant driver in the democratisation of non-alcoholic beer, this is breaking down lingering stigma and boosting accessibility.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 23,
+      "text": "Elsewhere, innovation continued to fuel our portfolio. In Poland, Żywiec 0.0, HEINEKEN’s third-largest 0.0 brand, grew by 36% in 2024, driven by its botanical flavoured zero range, which nearly doubled volumes with raspberry and mint line extensions.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 24,
+      "text": "Summary : This image shows two beverage containers of the Żywiec brand, one a can and the other a bottle, both featuring distinct label designs and flavors.\n\nphoto:\nScene Overview :\n  • The main subjects are a can and a bottle of Żywiec non-alcoholic beverages.\n  • The can is on the left, predominantly white with red and blue graphics, featuring dancing figures and a raspberry image.\n  • The bottle is on the right, green glass with a white and green label, and condensation droplets visible.\n  • Both containers are upright and photographed against a white background with good lighting.\n\nTechnical Details :\n  • The can is labeled \"Żywiec & Malinaż 0.0\" with additional text \"Malinaż\" in red and \"0.0\" in blue, indicating a raspberry-flavored non-alcoholic drink.\n  • The bottle is labeled \"Żywiec Miętaż\" with \"Miętaż\" in green, suggesting a mint-flavored beverage, and \"0.0%\" indicating non-alcoholic content.\n  • Both labels feature stylized dancing figures, a crown, and trees as part of the Żywiec branding.\n\nSpatial Relationships :\n  • The can is positioned slightly in front of the bottle, partially obscuring the left side of the bottle.\n  • The can occupies the left foreground, while the bottle is in the right background.\n\nAnalysis :\n  • The image highlights two different non-alcoholic flavors from the Żywiec brand, using vibrant color schemes and traditional Polish folk motifs to distinguish the products and attract attention.\n  • The condensation on the bottle suggests the beverage is cold and ready to drink, enhancing its appeal.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 25,
+      "text": "Summary : This is a composite promotional image for several beer and non-alcoholic beverage brands, featuring product bottles, cans, and lifestyle scenes with people holding and enjoying the drinks. The brands highlighted include Desperados, Sol, Heineken 0.0, and Żywiec 0.0.\n\nphoto:\nScene Overview :\n  • The image is a collage of lifestyle and product photography, with a vibrant, energetic atmosphere.\n  • Multiple people are shown holding bottles of Desperados, Sol, and Heineken 0.0, with a focus on casual, social enjoyment.\n  • Product packaging for Desperados, Sol, Heineken 0.0, and Żywiec 0.0 is prominently displayed.\n  • The background includes a green ribbon-like graphic element running horizontally.\n  • Text elements include slogans such as \"THE BEER WITH LATIN VIBE\" (Desperados), \"For when you work out. Chill\" (Heineken 0.0), and product information about Heineken 0.0's global availability and leadership in the non-alcoholic space.\n\nTechnical Details :\n  • No scale bar or magnification is present.\n  • Product bottles and cans are shown in high resolution, with clear branding and label details.\n  • The image uses bright, saturated colors, especially greens, reds, and yellows, to create a lively mood.\n  • The composition is layered, with overlapping product images and lifestyle scenes.\n\nSpatial Relationships :\n  • Foreground: People holding bottles of Desperados and Sol, with the products facing the camera.\n  • Midground: Promotional boards for Desperados and Heineken 0.0, with additional product bottles and cans.\n  • Background: Green ribbon graphic and additional product images (Żywiec 0.0 can and bottle).\n  • The layout is asymmetrical, with product and lifestyle elements distributed across the image to draw attention to each brand.\n\nAnalysis :\n  • The image is designed to associate the featured beverages with fun, relaxation, and social gatherings.\n  • The use of both alcoholic and non-alcoholic products suggests inclusivity for different consumer preferences.\n  • Prominent branding and slogans reinforce each product's unique identity and market positioning.\n  • The green ribbon and color palette unify the composition and may reference Heineken's brand colors.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

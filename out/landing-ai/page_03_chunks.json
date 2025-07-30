@@ -1,0 +1,428 @@
+{
+  "source_file": "page_03.pdf",
+  "page_number": 3,
+  "processed_at": "2025-07-30T13:26:31.372199",
+  "total_chunks": 28,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "3",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Heineken\nN.V.\nAnnual\nReport\n2024",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Introduction",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Report\nof the\nExecutive\nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Report  \nof the  \nSupervisory  \nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Financial\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Sustainability  \nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Other\nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "flowchart: \n- Downward green triangle (filled, pointing down)\n- Three horizontal green lines, evenly spaced, below the triangle\n\nThere are no labels or text. The diagram consists of a single green downward triangle above three parallel green lines, suggesting a \"download\" or \"move down\" action.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "Chief Executive’s Q&A",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "Our EverGreen\nformula for growth",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "Summary : This is a photo of a person standing behind a bar counter with several beer taps, including Heineken and Amstel, in a brightly lit, modern bar setting.\n\nphoto:\nScene Overview :\n  • Main subject is a person in a suit standing behind a bar counter.\n  • The bar counter features four prominent beer taps with visible branding: Heineken, Heineken 0.0, Amstel, and another Heineken-branded tap.\n  • The background includes green and red illuminated panels and a shelf with multiple glassware items.\n  • Lighting is vibrant, with green and red neon accents creating a modern, energetic atmosphere.\n\nTechnical Details :\n  • No scale bar or measurement indicators present.\n  • Beer tap handles are clearly branded and legible.\n  • No on-image UI elements or digital overlays.\n\nSpatial Relationships :\n  • Beer taps are in the foreground, arranged in a row, with the person positioned centrally behind them.\n  • Glassware is stacked on a shelf in the upper left background.\n  • The illuminated panels create a geometric, angular backdrop.\n\nAnalysis :\n  • The image emphasizes the branding and variety of beers available at the bar, with Heineken being the most prominent.\n  • The modern lighting and design suggest a contemporary, possibly upscale bar environment.\n  • The arrangement draws attention to the beer taps as the focal point of the scene.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "“\nOur EverGreen strategy is\ndelivering top and bottom-line\nperformance while investing\nin the future.”",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "Dolf van den Brink  Chief Executive Officer",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "What are your top reflections on 2024?\nWe delivered strong top and bottom-line performance while investing in the future. I’m proud of our 85,000 employees: volatility remains, but we’re navigating it with agility and resilience.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 17,
+      "text": "Beer volume grew organically in all regions, with net revenue (beia) increasing organically by 5%. We gained or held market share in more than half our markets, driven by growth in Brazil, India, Mexico, Nigeria, South Africa and Vietnam. Led by Heineken® and complemented by international and local premium brands like Birra Moretti, Desperados and Kingfisher Ultra, premium beer volume grew organically in the mid-single digits.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 18,
+      "text": "We continued to pioneer choice in low and no-alcohol (LONO) beverages, with portfolio volume growth in high single-digits and Heineken® 0.0 further consolidating its position as the world's #1 non-alcoholic beer brand.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 19,
+      "text": "With operating profit (beia) growth of 8.3%, we’re delivering strong financials while also investing in the future through big investments in marketing and digitalisation.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 20,
+      "text": "Summary : This image shows two green glass beer bottles, one of Heineken and one of Kingfisher, standing side by side against a white and green background.\n\nphoto:\nScene Overview :\n  • The main subjects are two upright beer bottles.\n  • The left bottle is Heineken, featuring a green label with a red star and the text \"Heineken Original Pure Malt Lager\".\n  • The right bottle is Kingfisher Premium, with a colorful label showing a kingfisher bird and the text \"Kingfisher Premium\".\n  • The background is primarily white with a green wave-like design at the bottom.\n  • Lighting is even, with both bottles well-lit and condensation visible on the glass.\n\nTechnical Details :\n  • No scale bar or magnification is present.\n  • Both bottles are standard long-neck beer bottles, green in color.\n  • Labels are clearly legible, with branding and design elements visible.\n\nSpatial Relationships :\n  • The Heineken bottle is positioned on the left, slightly in front of the Kingfisher bottle on the right.\n  • Both bottles are vertically aligned and occupy the central area of the image.\n\nAnalysis :\n  • The image visually compares two popular beer brands, highlighting their distinct branding and label designs.\n  • The condensation on the bottles suggests they are chilled, emphasizing refreshment.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 21,
+      "text": "Ch0.0se\ngreat taste\nNow you can",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 22,
+      "text": "How is HEINEKEN delivering on its EverGreen strategy?\nOur EverGreen strategy aims to drive superior balanced growth while future-proofing the business.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 23,
+      "text": "We’re driving premiumisation at scale, led by Heineken® . Alongside our sponsorship platforms, investments in campaigns like ‘Heineken® The 1st Ahhh! and ‘The boring phone’ delivered premium organic beer volume growth of 5%.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 24,
+      "text": "To fund growth, we delivered €0.6 billion in gross savings in 2024, surpassing our €0.5 billion target. Productivity gains from supplier collaborations, procurement, digitalisation and transport optimisation allowed reinvestment in innovation, brand strength, digital transformation and sustainability.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 25,
+      "text": "We made progress against our Brew a Better World 2030 ambitions, reducing Scope 1 and 2 carbon emissions by 34% and Scope 3 by 14%. In total 39% of our volumes were sold in reusable format and we have 44% recycled content in bottles and cans.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 26,
+      "text": "Our digital transformation continued in 2024 with investment in our eBusiness platforms and our Digital Backbone (DBB). Leveraging data across almost all our operating companies, we deployed Artificial Intelligence (AI) to deliver insights that enhance productivity, customer satisfaction and agility.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 27,
+      "text": "People drive our success. To strengthen our winning culture, we launched LEAD, our global people manager initiative, and HEINEKEN’s Women’s Summit, a development programme for senior female leaders. These are accelerating our existing talent and leadership development initiatives.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 28,
+      "text": "Summary : This image shows two bottles of beer, Desperados and Birra Moretti, standing side by side on a white background with a green translucent wave design in the foreground.\n\nphoto:\nScene Overview :\n  • Main subjects are two glass beer bottles: Desperados (left) and Birra Moretti (right).\n  • The bottles are upright, fully visible, and positioned against a plain white background.\n  • A green translucent wave graphic crosses the lower third of the image, partially obscuring the lower parts of the bottles.\n  • Lighting is even and bright, highlighting the labels and the golden color of the beer.\n\nTechnical Details :\n  • Desperados bottle label is colorful with red, yellow, and green elements, and the brand name \"DESPERADOS\" is prominent.\n  • Birra Moretti bottle label is white and gold with a circular logo featuring a man in a hat, and the brand name \"BIRRA MORETTI\" is clearly visible.\n  • No scale bar, magnification, or additional technical markings are present.\n\nSpatial Relationships :\n  • Desperados bottle is on the left, Birra Moretti on the right.\n  • Both bottles are similarly sized and aligned vertically.\n  • The green wave graphic runs diagonally from lower left to upper right, crossing both bottles at about one-third from the bottom.\n\nAnalysis :\n  • The image visually compares two different beer brands, emphasizing their distinct branding and label designs.\n  • The green wave adds a dynamic visual element, possibly suggesting freshness or a thematic connection.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

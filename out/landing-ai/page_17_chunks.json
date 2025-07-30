@@ -1,0 +1,278 @@
+{
+  "source_file": "page_17.pdf",
+  "page_number": 17,
+  "processed_at": "2025-07-30T13:31:42.686280",
+  "total_chunks": 18,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "17\n\nHeineken\nN.V.\nAnnual\nReport\n2024\n\nIntroduction\n\nReport\nof the\nExecutive\nBoard\n\nReport\nof the\nSupervisory\nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Financial\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Sustainability\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Other\nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "flowchart:  \n- Upward green triangle (arrowhead)  \n- Downward green triangle (arrowhead)  \n- Three horizontal green lines (menu or hamburger icon)  \n- Green circular arrow (counterclockwise, refresh/undo icon)  \nThe diagram shows a vertical stack of four green icons: up arrow, down arrow, menu, and refresh, likely representing navigation and action controls.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Fund the growth, fuel the profit",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Successful delivery of our agenda  \nWith strong contributions from all teams across HEINEKEN, we delivered more than €600 million in gross savings in 2024, exceeding our ambition of €500 million. This enabled us to invest more in incremental marketing and sales as well as helped fund the digitalisation of our business, and improve profitability.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Approximately 40% of the gross savings were enabled by supplier collaboration and new procurement initiatives, 40% from digitally enabled supply chain productivity and transport network optimisations, and 20% from other fixed cost reductions.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "While in 2022 and 2023 gross savings mitigated the impact of rising inflation, in 2024 we’ve used gross savings to unlock growth and margin expansion through smart investments in marketing, sales and other strategic initiatives. In Algeria, for example, a cross-team approach to cost efficiency enabled sustainable, profitable growth of the Heineken® brand. In Mexico, we opened a new canning facility to enable a more cost-efficient, end-to-end value chain and further expanded our Six retail store footprint, investing in digital solutions to further drive long-term sustainable productivity.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "We also made significant investments in growing the returnable bottles market in Spain, South Africa, Indonesia and elsewhere to offer better, more sustainable choices to consumers and improve capital productivity.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "In addition to local projects, the roll-out of eazle, our eB2B platform (read more about this on page 27), has exponentially grown the proportion of customers connecting with us digitally. This is not only driving better and more competitive customer service but also helping to deliver the cost efficiencies we continue to unlock through digitalisation.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "Building sustainable, cost-conscious capabilities and culture\n\nA key focus in 2024 has been embedding cost-conscious culture and capabilities within all teams. Our new F&F2WIN (‘Fuel the Growth, Fund the Profit 2WIN’) framework ensures that cost-consciousness is at the heart of all business decisions.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "The framework provides practical guidance for\nteams to implement locally. Digital tools allow\noperating companies to benchmark performance\nagainst each other, search for relevant projects\nimplemented elsewhere and learn best practices.\nFrom Brazil to Hungary and Nigeria to Papua New\nGuinea, this is enabling quicker and easier transfer of\nexperience and knowledge across the world.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "We’re proud of the steps teams across HEINEKEN have made to deliver on our ambitions and to learn, share and reapply experiences from and with colleagues around the world. It is this culture of continuous improvement that will keep these crucial capabilities sustainable for the long term.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "Looking ahead\nA pipeline of initiatives, including continued network consolidation in Europe, AI-enabled transport and brewery planning, increasing automation powered by our common IT infrastructure (read more about our Digital Backbone on page 29) and the delivery of further synergies in South Africa, will continue to deliver efficiencies in 2025 and beyond.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "While we’ve already over-delivered on our Fund the Growth, Fuel the Profit ambitions for gross savings, the next stage is to make sure we continue to deliver superior and balanced growth, shifting from managing volatility to truly funding growth and fuelling profit. We will continue to use efficiencies to: step up investments in brands, customers and consumers in key markets to deliver long-term sustainable growth; invest in sustainability through renewable energy sources, returnable bottles and water reduction; and maintain our investments in becoming the best-connected brewer, leveraging the power of data and AI in processes across our business.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 17,
+      "text": "“In 2022 and 2023, our commitment to this agenda helped us navigate global supply challenges and counteract soaring inflation. We shifted our focus in 2024, reinvesting in growth by fuelling brands, advancing digitalisation and supporting sustainability. A range of smart investments has made sure we uphold the quality customers trust while driving cost efficiencies.”\n\nMagne Setnes\nChief Supply Chain Officer",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 18,
+      "text": "Summary : This composite image visually represents different stages and roles in a product or supply chain process, including online ordering, delivery, and quality inspection in a manufacturing or distribution context.\n\nphoto:\nScene Overview :\n  • The image is a collage of three main scenes: a person using a laptop to browse an online store, a uniformed worker holding a mobile device and a product, and a worker inspecting a can in a production facility.\n  • The background features a green, flowing abstract design connecting the scenes.\n  • Lighting is bright and even, with a clean, professional look.\n\nTechnical Details :\n  • The laptop screen displays a website with product images and categories.\n  • The uniformed worker holds a smartphone showing an app and a product package labeled \"ezile\" and \"Hammer Water\".\n  • The production facility scene shows a worker in a high-visibility vest and ear protection, examining a can among many identical cans on a conveyor or table.\n  • No scale bars or magnification; all scenes are at human scale.\n\nSpatial Relationships :\n  • The laptop user is positioned in the upper left, the uniformed worker is centered, and the production facility worker is on the right.\n  • The green abstract design visually links the three scenes, suggesting a process flow from left to right.\n\nAnalysis :\n  • The image conveys a narrative of a product lifecycle: online ordering, delivery or service, and quality control in manufacturing.\n  • The composition emphasizes the integration of digital, logistical, and quality assurance aspects in a modern supply chain.\n  • The use of green in the background may suggest themes of sustainability or efficiency.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

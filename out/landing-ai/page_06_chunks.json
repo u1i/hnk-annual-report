@@ -1,0 +1,158 @@
+{
+  "source_file": "page_06.pdf",
+  "page_number": 6,
+  "processed_at": "2025-07-30T13:27:33.986411",
+  "total_chunks": 10,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "6\n\nHeineken\nN.V.\nAnnual\nReport\n2024\n\nIntroduction\n\nReport\nof the\nExecutive\nBoard\n\nReport\nof the\nSupervisory\nBoard\n\nFinancial\nStatements\n\nSustainability\nStatements\n\nOther\nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "flowchart:  \n- Upward green triangle (arrowhead), pointing up  \n- Downward green triangle (arrowhead), pointing down  \n- Three short green horizontal lines, stacked vertically  \n- Green circular arrow, pointing counterclockwise  \n\nThe flowchart consists of four vertically stacked icons: an up arrow, a down arrow, a three-line menu, and a circular undo arrow, all in green. This likely represents a vertical toolbar for navigation and actions.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Key figures¹",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Consolidated results\nIn millions of €\n<table><thead><tr><th>In millions of €</th><th>2024</th><th>2023</th><th>Change in %</th></tr></thead><tbody><tr><td>Revenue</td><td>35,955</td><td>36,375</td><td>(1.2%)</td></tr><tr><td>Net revenue</td><td>29,821</td><td>30,362</td><td>(1.8%)</td></tr><tr><td>Net revenue (beia)</td><td>29,964</td><td>30,308</td><td>(1.1%)</td></tr><tr><td>Operating profit</td><td>3,517</td><td>3,229</td><td>8.9%</td></tr><tr><td>Operating profit (beia)</td><td>4,512</td><td>4,443</td><td>1.6%</td></tr><tr><td>Net profit</td><td>978</td><td>2,304</td><td>(57.6%)</td></tr><tr><td>Net profit (beia)</td><td>2,739</td><td>2,632</td><td>4.1%</td></tr><tr><td>EBITDA (beia)</td><td>6,685</td><td>6,541</td><td>2.2%</td></tr><tr><td>Dividend (proposed)</td><td>1,042</td><td>969</td><td>7.5%</td></tr><tr><td>Free operating cash flow</td><td>3,058</td><td>1,759</td><td>73.8%</td></tr></tbody></table>",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Balance sheet\nIn millions of €\n<table><thead><tr><th>In millions of €</th><th>2024</th><th>2023</th><th>Change in %</th></tr></thead><tbody><tr><td>Total assets</td><td>53,773</td><td>55,153</td><td>(2.5%)</td></tr><tr><td>Shareholders' equity</td><td>19,581</td><td>20,056</td><td>(2.4%)</td></tr><tr><td>Net debt position</td><td>14,651</td><td>15,835</td><td>(7.5%)</td></tr><tr><td>Market capitalisation</td><td>38,825</td><td>51,852</td><td>(25.1%)</td></tr></tbody></table>",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "Per share\n<table><thead><tr><th></th><th>2024</th><th>2023</th><th>Change in %</th></tr></thead><tbody><tr><td>Weighted average number of shares – basic</td><td>560,188,961</td><td>563,448,845</td><td>(0.6%)</td></tr><tr><td>Net profit</td><td>1.75</td><td>4.09</td><td>(57.2%)</td></tr><tr><td>Net profit (beig)</td><td>4.89</td><td>4.67</td><td>4.7%</td></tr><tr><td>Dividend (proposed)</td><td>1.86</td><td>1.73</td><td>7.5%</td></tr><tr><td>Free operating cash flow</td><td>5.46</td><td>3.12</td><td>75.0%</td></tr><tr><td>Shareholders' equity</td><td>34.95</td><td>35.60</td><td>(1.8%)</td></tr><tr><td>Share price</td><td>68.70</td><td>91.94</td><td>(25.3%)</td></tr><tr><td>Weighted average number of shares – diluted</td><td>560,639,030</td><td>563,979,620</td><td>(0.6%)</td></tr><tr><td>Net profit (beig) – diluted</td><td>4.89</td><td>4.67</td><td>4.7%</td></tr></tbody></table>",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Employees\n<table><thead><tr><th></th><th>2024</th><th>2023</th><th>Change in %</th></tr></thead><tbody><tr><td>Average number of employees (FTE)</td><td>88,497</td><td>89,732</td><td>(1.4%)</td></tr></tbody></table>",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Ratios\n<table><thead><tr><th></th><th>2024</th><th>2023</th><th>Change</th></tr></thead><tbody><tr><td>Operating profit (beta) as a % of net revenue (beta)</td><td>15.1%</td><td>14.7%</td><td>40 bps</td></tr><tr><td>Net profit as % of average equity attributable to equity holders of the Company</td><td>4.9%</td><td>11.6 %</td><td>(6.7)</td></tr><tr><td>Net debt/EBITDA (beta)</td><td>2.2</td><td>2.4</td><td>(0.2)</td></tr><tr><td>Dividend % payout</td><td>38.0%</td><td>36.8%</td><td>1.2</td></tr><tr><td>Cash conversion ratio</td><td>102.6%</td><td>61.4%</td><td>41.2</td></tr></tbody></table>",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "1 (belo) is before exceptional items and amortisation of acquisition-related intangible assets. Please refer to the Glossary section for an explanation of non-GAAP measures and other terms used throughout this report.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

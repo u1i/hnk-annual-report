@@ -1,0 +1,263 @@
+{
+  "source_file": "page_32.pdf",
+  "page_number": 32,
+  "processed_at": "2025-07-30T13:37:15.777206",
+  "total_chunks": 17,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "32\n\nHeineken\nN.V.\nAnnual\nReport\n2024\n\nIntroduction\n\nReport\nof the\nExecutive\nBoard\n\nReport\nof the\nSupervisory\nBoard\n\nFinancial\nStatements\n\nSustainability\nStatements\n\nOther\nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Unlock the full potential of our people",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "## Safety, health and wellbeing\n\nNothing matters more than the safety and wellbeing of our people. We believe every single person who works for and with us should benefit from a positive and nourishing working environment and, above all, return home safely each day. A range of activities in 2024 supported our ambition to shape a leading health and safety culture.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Every year we run Safety Week, a global HEINEKEN event that highlights our ongoing commitment to safety, helping to raise awareness and embed the right practices. This year's theme was 'Safety at Heart!' A variety of initiatives emphasised the importance of treating our own safety and that of our colleagues with the same care we show for loved ones.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Elsewhere, the introduction of a cultural programme in 2024 empowered all operating companies to assess their health and safety culture, identify gaps and develop improvement plans to close them. So far, 49 locations have embraced the initiative with more to follow in 2025.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "We extended our transformation programme that supports select functions and operational companies based on safety performance. In Mexico for example, a heat stress initiative was introduced after an exceptionally hot summer affected employee health. Measures such as additional breaks, improved awareness of the importance of hydration, adjusted shift management and facility upgrades addressed and improved both safety and well being.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "While we have significantly reduced the severity of incidents across our business, we deeply regret that two persons lost their lives while working for us in 2024. An independent investigation team thoroughly investigates every fatality to understand the root cause, and we take action to prevent recurrence and share learnings. Looking ahead, we’ll continue to strengthen and embed an empowering health and safety culture and integrate leadership on safety across our business.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Social sustainability\n\nWe continued to advance our social sustainability ambition in 2024 in pursuit of an ever fairer, more equal and safer company – and society.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "One initiative was the expansion of our global Trusted Representatives programme, which fosters a global community of more than 500 employees dedicated to supporting colleagues who are witnessing or experiencing potential misconduct.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "This year, we ran training in two critical areas: fraud and human rights.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "text": "We made significant progress on including waste pickers in the citizenship agenda of economically developing countries, improving their working conditions and supporting our circularity strategy. In Brazil, the HEINEKEN Institute partnered with local authorities to enhance visibility and boost conditions for waste pickers. What began as a state-level initiative has evolved into a best practice model that is receiving support from the Federal Government for replication across six additional states as a national public policy.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "text": "As the world’s most international brewer, our\noperations span diverse geographies including high-\nrisk and, at times, conflict-affected areas. In\nMyanmar, heightened Human Rights Due Diligence\n(hHRDD) was conducted across our value chain,\ncovering conflict risk, human rights evaluations and\nmanagement systems reviews. The findings\nconfirmed our ability to operate responsibly through\nrobust management systems while contributing to\nthe safety and economic stability of our employees,\ntheir families and local communities.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "text": "Summary : This is a photo showing a person gesturing while holding a folder or document, set in front of a Heineken Peru promotional display.\n\nphoto:  \nScene Overview :  \n  • The main subject is a person in mid-gesture, possibly speaking or presenting, with one arm extended and the other holding a folder or document.  \n  • The background features a green and white Heineken Peru sign and branding elements.  \n  • The setting appears to be indoors, likely at an event or presentation.  \n  • The colour palette is dominated by greens and whites, consistent with Heineken branding.  \nTechnical Details :  \n  • The Heineken Peru logo is clearly visible in the background.  \n  • There is a slogan or warning in Spanish partially visible: \"TOMAR BEBIDAS ALCOHÓLICAS EN EXCESO ES DAÑINO\".  \n  • No scale bar or technical measurement is present.  \nSpatial Relationships :  \n  • The subject is in the foreground, slightly off-centre to the right.  \n  • The Heineken branding is in the background, providing context for the event or activity.  \n  • The composition uses overlapping green graphic elements in the lower part of the image, possibly as part of a digital overlay or design.  \nAnalysis :  \n  • The image conveys a dynamic, interactive moment likely related to a Heineken promotional or educational event.  \n  • The prominent branding and gesture suggest engagement with an audience, emphasizing the Heineken Peru identity.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "text": "Summary : This is a composite promotional photograph for Heineken, featuring two individuals in different work settings, with branding and safety attire, and a textual message about employee support for reporting misconduct.\n\nphoto:\nScene Overview :\n  • The image shows two people: one in the foreground wearing a Heineken-branded work jacket and holding a glass of beer, and another in the background wearing a hard hat, high-visibility vest, and shoe covers, appearing to inspect or clean a large industrial surface.\n  • The background features a stylized green and white graphic design, possibly representing the Heineken brand.\n  • The setting suggests a brewery or industrial environment.\n\nTechnical Details :\n  • The Heineken logo is visible on the jacket of the person in the foreground.\n  • The person in the background is using a handheld device and is dressed in standard industrial safety gear.\n  • There is a block of text in the upper right corner describing a global community of more than 500 employees dedicated to supporting colleagues who witness or experience potential misconduct.\n\nSpatial Relationships :\n  • The person in the foreground is positioned on the left side, occupying a prominent position.\n  • The person in the background is on the right, bent over and engaged in a work-related task.\n  • The composition uses a rule-of-thirds placement, with the main subjects offset from the center.\n\nAnalysis :\n  • The image visually communicates Heineken’s commitment to workplace safety, employee support, and brand identity by juxtaposing a casual, approachable employee with an active, safety-conscious worker in an industrial setting.\n  • The accompanying text reinforces the company’s focus on ethical conduct and support systems.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "text": "Areas for improvement, particularly in inland logistics, were addressed through collaboration with suppliers to enhance safety and working conditions. In more volatile regions, we refined our approach to protecting people and communities near our breweries through a refreshed approach to our ongoing training for security forces in key Africa and Middle East markets.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 16,
+      "text": "These efforts underscore our commitment to social sustainability. Looking ahead to 2025, we’ll focus on strengthening value chain due diligence, making sure we remain future-ready while upholding our dedication to human rights.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 17,
+      "text": "Summary : This image features a professional headshot of a woman above a motivational quote about leadership, inclusion, and organizational strategy, attributed to Yolanda Talamo, Chief People Officer.\n\nphoto:  \nScene Overview : \n  • Main subject is a woman in business attire, shown from the shoulders up, against a plain white background.\n  • The image is accompanied by a large, prominent quote in green text, centered below the headshot.\n  • The quote discusses empowering leaders, fostering inclusion, building a future-ready organization, innovation, collaboration, and the EverGreen strategy at HEINEKEN.\n  • The quote is attributed to Yolanda Talamo, Chief People Officer, whose name and title appear in black text at the bottom.\n\nTechnical Details : \n  • The image is a standard professional portrait with even, neutral lighting.\n  • The text is formatted in green and black, with the quote in italics and the attribution in regular font.\n  • No scale bar, magnification, or technical overlays are present.\n\nSpatial Relationships : \n  • The headshot is positioned at the top center, with the quote directly below, followed by the attribution.\n  • The composition is vertically aligned and balanced, with the subject occupying the upper third and the text filling the lower two-thirds.\n\nAnalysis : \n  • The image is designed to convey authority, professionalism, and a forward-thinking, inclusive corporate culture.\n  • The use of green text and reference to HEINEKEN suggests a connection to the company's branding and sustainability initiatives.\n  • The layout emphasizes the importance of the message and the leadership role of the quoted individual.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}

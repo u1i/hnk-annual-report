@@ -1,0 +1,158 @@
+{
+  "source_file": "page_16.pdf",
+  "page_number": 16,
+  "processed_at": "2025-07-30T13:31:25.257776",
+  "total_chunks": 10,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "text": "16\n\nHeineken\nN.V.\nAnnual\nReport\n2024\n\nIntroduction",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "text": "Report  \nof the  \nExecutive  \nBoard\n\nReport  \nof the  \nSupervisory  \nBoard",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "text": "Financial  \nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "text": "Sustainability\nStatements",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "text": "Other  \nInformation",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "text": "flowchart: \n- Upward green triangle (arrowhead) at the top\n- Downward green triangle (arrowhead) below\n- Three horizontal green lines stacked (menu or list icon) below the arrows\n- Green circular arrow (refresh or undo icon) at the bottom\n\nThe diagram shows a vertical sequence of navigation and action icons: up, down, menu, and refresh.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "text": "Summary : This is a professional photograph of a woman standing in front of a Heineken-branded backdrop, accompanied by a business quote about operational achievements in Indonesia.\n\nphoto:\nScene Overview :\n  • The main subject is a woman in a black dress, standing with arms crossed.\n  • The background features a wall made of green bottles and a partial Heineken logo with a red star.\n  • The setting appears to be an office or corporate environment, with wood paneling and a red accent wall visible.\n  • The lighting is bright and even, highlighting both the subject and the branded background.\n  • The colour palette is dominated by green (bottles), red (star and wall), and neutral tones (subject’s clothing and wood).\n\nTechnical Details :\n  • There is a large, overlaid quote in white text at the bottom of the image.\n  • The quote reads: “In Indonesia, our programme delivered another solid year of gross savings which we used to fund transformation projects and fuel operating profit growth. This was achieved through radical collaboration across functions, aligning our cost structure with our strategy.”\n  • The Heineken logo is partially visible, with the red star and the letters “H”, “e”, “i”, and “n” clearly shown.\n\nSpatial Relationships :\n  • The subject is positioned slightly left of center, with the Heineken branding occupying the right side of the image.\n  • The quote text is overlaid across the lower third of the image, partially transparent to allow the background to show through.\n\nAnalysis :\n  • The image is designed to convey professionalism, corporate achievement, and brand identity.\n  • The combination of the subject’s confident posture, the Heineken branding, and the business-focused quote suggests a message of leadership and successful business transformation within the Indonesian market.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "text": "Read more on how tackling bottle return\nrates led to financial efficiencies",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "text": "Business priority  \nFund the growth, fuel the profit  \nWe target strong, balanced growth through investments in innovation, brand power, digital transformation, capabilities and sustainability.  \nTo fund this, we continuously drive productivity and efficiency across all parts of our business.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "text": "Summary : This image shows a wall or structure constructed from rows of green glass bottles, with horizontal wooden spacers between each row, and a green translucent material draped over the upper part of the scene.\nphoto:\nScene Overview :\n  • The main subject is a repetitive pattern of green glass bottles arranged in horizontal rows.\n  • Wooden spacers are placed between each row of bottles, creating a grid-like structure.\n  • The upper portion of the image is covered by a green translucent sheet or fabric, casting a green tint over the scene.\n  • The lighting is diffuse, with no strong shadows, and the overall colour palette is dominated by shades of green and brown.\n\nTechnical Details :\n  • No scale bar or magnification is present.\n  • No visible text or UI elements.\n  • The image is slightly out of focus, especially in the background.\n\nSpatial Relationships :\n  • The bottles are arranged in a regular, repeating grid pattern, with wooden spacers providing separation.\n  • The green translucent material is in the foreground, partially obscuring the view of the bottles behind it.\n\nAnalysis :\n  • The image emphasizes the repetitive, modular construction using recycled glass bottles and wood.\n  • The green overlay unifies the colour palette and may suggest an eco-friendly or artistic context.",
+      "type": "Chunk",
+      "grounding": [
+        {
+          "page": 0,
+          "left": null,
+          "top": null,
+          "right": null,
+          "bottom": null,
+          "id": null
+        }
+      ]
+    }
+  ]
+}
